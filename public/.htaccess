@@ -1,0 +1,12 @@
+# empêche la visualisation de l'arborescence dans un dossier
+Options -Indexes
+# active le module de réécriture d'URL
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+# Toutes les URL vont être dirigées vers le fichier index.php
+# sauf les URL qui correspondent à un fichier existant
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^index\.html$ / [NC,R,L]

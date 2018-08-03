@@ -1,0 +1,313 @@
+*{
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+
+margin: 0;
+padding: 0;
+border: 0;
+}
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family:Purista,sans-serif, arial;
+  color: #fff;
+  background: #000 url('/assets/bf4/bg.jpg') 50% 0 no-repeat fixed;
+  text-transform: uppercase;
+}
+h1,h2,h3,h4{
+	margin: 0;
+	padding: 0;
+}
+
+input{
+	border:solid #fff 1px;
+}
+.nav{
+	width: 100%;
+	background: #181B20;
+}
+#sub{
+	text-align: center;
+	line-height: 40px;
+	padding: 0 20px;
+	margin-top: 10px;
+	text-transform: uppercase;
+}
+#help{
+	margin-bottom: 20px;
+}
+#platform,#soldiername{
+	width: 200px;
+	height: 35px;
+}
+.nav .menu{
+	width: 318px;
+	margin: 0 auto;
+	position: relative;
+}
+.nav a{
+	line-height: 47px;
+	text-decoration:none;
+	display: block;
+	color: #d5dde5;
+	width: 106px;
+	text-align: center;
+	font-size: 16px;
+}
+.nav a:hover{
+	background: #000;
+	color: #fff;
+}
+#head{
+	top: 0;
+	width: 100%;
+}
+#head .game{
+	height: 48px;
+	background: #000;
+}
+#about{
+	text-transform: none;
+}
+#donation{
+	text-transform: none;
+}
+#donation form{
+	margin: 20px auto;
+
+}
+#about h1{
+	margin-bottom: 20px;
+}
+
+#error{
+	display: none;
+	color:#ff9900;
+}
+.left{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+.loadout-container-wpr,.container{
+  	margin: 0px auto;
+  	padding-top: 5px;
+  	max-width: 320px;
+}
+.loadout-kit .picture{
+	display: none;
+
+}
+.loadout-item-container {
+	width: 100%;
+}
+.gen-border{
+	border: solid #ff9900 1px;
+	color:#ff9900;
+}
+.gen-border h1{
+	line-height: 95.4px;
+	font-size: 16px;
+	text-align: center;
+}
+.gen-border:hover{
+	border: solid #E4B744 1px;
+	color: #E4B744;
+}
+.loadout-container-header{
+background-color: rgba(7, 7, 7, 0.8);
+    padding: 0 8px;
+}
+.Pname,.Hname,.kitname{
+	position: absolute;
+	right:0;
+}
+.loadout-container-header h1{
+	line-height: 23px;
+    color: #d5dde5;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+    position: relative;
+
+}
+.active-borders-left{
+	border-left: solid #353a3f 1px;/*1/960*/
+}
+
+.box-content{
+	background-color: rgba(7, 7, 7, 0.5);
+	display:block;
+	margin-top: 1px;
+}
+.box-content:hover{
+	background: #000;
+	cursor: pointer;
+}
+.loadout-tablet{
+	display: none;
+}
+.container{
+
+	padding: 95px 20px;
+	padding-bottom: 20px;
+	background-color: rgba(7, 7, 7, 0.5);
+}
+.gun-container{
+	height: 74.4px;
+	padding: 10px 0 10px 25px;
+}
+.gun{
+	height: 100%;
+}
+.item{
+	height: 29.4px;
+	position: relative;
+
+}
+.item h1{
+	font-size: 16px;
+}
+.picture-container{
+	padding: 3px 0 0px 5px;
+	height: 100%;
+	width: 100px;
+	float: left;
+}
+.items .itempic{
+	height: 100%;
+}
+.itemname{
+	float: right;
+	height: 100%;
+	width: 220px;
+	padding: 5px 0 0 10px;
+}
+/*larger than phones*/
+@media (min-width: 768px) {
+	.nav .menu{
+		width: 100%;
+		margin: 0;
+		position: relative;
+	}
+	.nav a{
+		line-height: 47px;
+		text-decoration:none;
+		display: block;
+		color: #d5dde5;
+		width: 140px;
+		text-align: center;
+		font-size: 16px;
+	}
+	.left{
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+	.active-borders-right{
+		border-right: solid #353a3f 1px;
+	}
+	.loadout-item-container {
+		width: 50%;
+	}
+	.loadout-container-wpr,.container{
+		margin: 0px auto;
+		padding-top: 100px;
+		max-width: 768px;
+	}
+	.loadout-kit {
+		width: 383px;
+		height: 400px;
+
+	}
+	.kit-picture .picture{
+		display: block;
+		height: 300.6px;
+	}
+	.loadout-tablet{
+		display: block;
+		width: 100%;
+	}
+	.loadout-tablet tr,td,div{
+		margin:0;
+		padding: 0;
+	}
+	.loadout-tablet-item-container{
+		width: 384px;
+		height: 400px;
+	}
+	.attachments div{
+		height: 52px;
+	}
+
+	.items .item{
+		height: 74.4px;
+		position: relative;
+	}
+	.items .picture-container{
+		padding: 25px 0 20px 5px;
+		height: 100%;
+		width: 100px;
+		float: left;
+	}
+	.items .itemname{
+		float: right;
+		height: 100%;
+		width: 284px;
+		padding: 25px 0 0 10px;
+	}
+
+	.gun-container{
+		height: 112px;
+		padding-top: 20px;
+	}
+	.gun{
+		margin-left: 50px;
+		height: 100%;
+	}
+}
+/* Larger than desktop */
+@media (min-width: 1155px) {
+	.loadout-container-wpr{
+		max-width: 1140px;
+	}
+	.loadout-item-container{
+		width: 260px;
+		height: 400px;
+	}
+	.left-margin-container{
+		margin-left: 26px;
+	}
+	.loadout-kit{
+		width: 260px;
+		height: 400px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.loadout-tablet{
+		display: none;
+	}
+	.gun{
+		margin-left: 0;
+		height: 92px;
+	}
+	.kit-picture .picture{
+		background-size: 100%;
+	}
+	.items .itemname{
+		float: right;
+		height: 100%;
+		width: 160px;
+		padding: 25px 0 0 10px;
+	}
+}
