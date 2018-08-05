@@ -8,13 +8,13 @@
 .kititem {
   display: inline-block; }
   .kititem.large {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/large.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/large.png);
     width: 256px;
     height: 64px;
     background-size: 1792px 448px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.large {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/large@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/large@2x.png); } }
     .kititem.large.AAMine_lineart {
       background-position: 0 0; }
     .kititem.large.AK5C_lineart {
@@ -112,13 +112,13 @@
 .kititem {
   display: inline-block; }
   .kititem.largersmall {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmall.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmall.png);
     width: 128px;
     height: 32px;
     background-size: 896px 224px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.largersmall {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmall@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmall@2x.png); } }
     .kititem.largersmall.AAMine_lineart {
       background-position: 0 0; }
     .kititem.largersmall.AK5C_lineart {
@@ -216,13 +216,13 @@
 .kititem {
   display: inline-block; }
   .kititem.largersmallinv {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmallinv.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmallinv.png);
     width: 128px;
     height: 32px;
     background-size: 896px 224px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.largersmallinv {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmallinv@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmallinv@2x.png); } }
     .kititem.largersmallinv.AAMine_lineart {
       background-position: 0 0; }
     .kititem.largersmallinv.AK5C_lineart {
@@ -320,13 +320,13 @@
 .kititem {
   display: inline-block; }
   .kititem.medium {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/medium.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/medium.png);
     width: 208px;
     height: 52px;
     background-size: 1456px 364px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.medium {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/medium@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/medium@2x.png); } }
     .kititem.medium.AAMine_lineart {
       background-position: 0 0; }
     .kititem.medium.AK5C_lineart {
@@ -424,13 +424,13 @@
 .kititem {
   display: inline-block; }
   .kititem.mediuminv {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/mediuminv.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/mediuminv.png);
     width: 208px;
     height: 52px;
     background-size: 1456px 364px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.mediuminv {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/mediuminv@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/mediuminv@2x.png); } }
     .kititem.mediuminv.AAMine_lineart {
       background-position: 0 0; }
     .kititem.mediuminv.AK5C_lineart {
@@ -528,13 +528,13 @@
 .kititem {
   display: inline-block; }
   .kititem.small {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/small.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/small.png);
     width: 64px;
     height: 16px;
     background-size: 448px 112px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.small {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/small@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/small@2x.png); } }
     .kititem.small.AAMine_lineart {
       background-position: 0 0; }
     .kititem.small.AK5C_lineart {
@@ -632,13 +632,13 @@
 .kititem {
   display: inline-block; }
   .kititem.smallinv {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/smallinv.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/smallinv.png);
     width: 64px;
     height: 16px;
     background-size: 448px 112px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.smallinv {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/smallinv@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/smallinv@2x.png); } }
     .kititem.smallinv.AAMine_lineart {
       background-position: 0 0; }
     .kititem.smallinv.AK5C_lineart {
@@ -736,13 +736,13 @@
 .kititem {
   display: inline-block; }
   .kititem.xsmall {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/xsmall.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/xsmall.png);
     width: 56px;
     height: 14px;
     background-size: 392px 98px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .kititem.xsmall {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/xsmall@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/xsmall@2x.png); } }
     .kititem.xsmall.AAMine_lineart {
       background-position: 0 0; }
     .kititem.xsmall.AK5C_lineart {
@@ -839,13 +839,13 @@
 .weapon {
   display: inline-block; }
   .weapon.large {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/large.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/large.png);
     width: 256px;
     height: 64px;
     background-size: 3584px 832px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weapon.large {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/large@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/large@2x.png); } }
     .weapon.large.AAMine_lineart {
       background-position: 0 0; }
     .weapon.large.ACWR_lineart {
@@ -1197,13 +1197,13 @@
 .weapon {
   display: inline-block; }
   .weapon.medium {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/medium.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/medium.png);
     width: 208px;
     height: 52px;
     background-size: 2912px 676px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weapon.medium {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/medium@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/medium@2x.png); } }
     .weapon.medium.AAMine_lineart {
       background-position: 0 0; }
     .weapon.medium.ACWR_lineart {
@@ -1555,14 +1555,14 @@
 .weapon {
   display: inline-block; }
   .weapon.small {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/small.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/small.png);
     width: 128px;
     height: 32px;
     background-size: 1792px 416px;
     }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weapon.small {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/small@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/small@2x.png); } }
     .weapon.small.AAMine_lineart {
       background-position: 0 0; }
     .weapon.small.ACWR_lineart {
@@ -1915,14 +1915,14 @@
 .weapon {
   display: inline-block; }
   .weapon.smallinv {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/smallinv.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/smallinv.png);
     width: 128px;
     height: 32px;
     background-size: 1792px 416px;
     }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weapon.smallinv {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/smallinv@2x.png);
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/smallinv@2x.png);
         } }
     .weapon.smallinv.AAMine_lineart {
       background-position: 0 0; }
@@ -2276,13 +2276,13 @@
 .weapon {
   display: inline-block; }
   .weapon.xsmall {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmall.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmall.png);
     width: 64px;
     height: 16px;
     background-size: 896px 208px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weapon.xsmall {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmall@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmall@2x.png); } }
     .weapon.xsmall.AAMine_lineart {
       background-position: 0 0; }
     .weapon.xsmall.ACWR_lineart {
@@ -2634,13 +2634,13 @@
 .weapon {
   display: inline-block; }
   .weapon.xsmallinv {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmallinv.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmallinv.png);
     width: 64px;
     height: 16px;
     background-size: 896px 208px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weapon.xsmallinv {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmallinv@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmallinv@2x.png); } }
     .weapon.xsmallinv.AAMine_lineart {
       background-position: 0 0; }
     .weapon.xsmallinv.ACWR_lineart {
@@ -2992,13 +2992,13 @@
 .weaponaccessory {
   display: inline-block; }
   .weaponaccessory.large {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/large.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/large.png);
     width: 256px;
     height: 64px;
     background-size: 2304px 576px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weaponaccessory.large {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/large@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/large@2x.png); } }
     .weaponaccessory.large.ACOG_lineart {
       background-position: 0 0; }
     .weaponaccessory.large.ACRGeneralIronSight_Rear_lineart {
@@ -3152,13 +3152,13 @@
 .weaponaccessory {
   display: inline-block; }
   .weaponaccessory.medium {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/medium.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/medium.png);
     width: 208px;
     height: 52px;
     background-size: 1872px 468px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weaponaccessory.medium {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/medium@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/medium@2x.png); } }
     .weaponaccessory.medium.ACOG_lineart {
       background-position: 0 0; }
     .weaponaccessory.medium.ACRGeneralIronSight_Rear_lineart {
@@ -3312,13 +3312,13 @@
 .weaponaccessory {
   display: inline-block; }
   .weaponaccessory.small {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/small.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/small.png);
     width: 64px;
     height: 16px;
     background-size: 576px 144px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weaponaccessory.small {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/small@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/small@2x.png); } }
     .weaponaccessory.small.ACOG_lineart {
       background-position: 0 0; }
     .weaponaccessory.small.ACRGeneralIronSight_Rear_lineart {
@@ -3472,13 +3472,13 @@
 .weaponaccessory {
   display: inline-block; }
   .weaponaccessory.smallinv {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/smallinv.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/smallinv.png);
     width: 64px;
     height: 16px;
     background-size: 576px 144px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .weaponaccessory.smallinv {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/smallinv@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/smallinv@2x.png); } }
     .weaponaccessory.smallinv.ACOG_lineart {
       background-position: 0 0; }
     .weaponaccessory.smallinv.ACRGeneralIronSight_Rear_lineart {
@@ -3632,13 +3632,13 @@
 .camo {
   display: inline-block; }
   .camo.large {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/large.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/large.png);
     width: 208px;
     height: 52px;
     background-size: 2496px 572px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .camo.large {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/large@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/large@2x.png); } }
     .camo.large.Atomic_Adaptive {
       background-position: 0 0; }
     .camo.large.Atomic_Autumn {
@@ -3906,13 +3906,13 @@
 .camo {
   display: inline-block; }
   .camo.medium {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/medium.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/medium.png);
     width: 147px;
     height: 37px;
     background-size: 1764px 407px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .camo.medium {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/medium@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/medium@2x.png); } }
     .camo.medium.Atomic_Adaptive {
       background-position: 0 0; }
     .camo.medium.Atomic_Autumn {
@@ -4180,13 +4180,13 @@
 .camo {
   display: inline-block; }
   .camo.small {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/small.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/small.png);
     width: 64px;
     height: 16px;
     background-size: 768px 176px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .camo.small {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/small@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/small@2x.png); } }
     .camo.small.Atomic_Adaptive {
       background-position: 0 0; }
     .camo.small.Atomic_Autumn {
@@ -4454,13 +4454,13 @@
 .camo {
   display: inline-block; }
   .camo.xsmall {
-    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/xsmall.png);
+    background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/xsmall.png);
     width: 56px;
     height: 14px;
     background-size: 672px 154px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
       .camo.xsmall {
-        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/xsmall@2x.png); } }
+        background-image: url(https://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/xsmall@2x.png); } }
     .camo.xsmall.Atomic_Adaptive {
       background-position: 0 0; }
     .camo.xsmall.Atomic_Autumn {
