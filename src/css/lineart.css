@@ -1,0 +1,4725 @@
+.loadout-item-picture-inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 1px;
+}
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.large {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/large.png);
+    width: 256px;
+    height: 64px;
+    background-size: 1792px 448px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.large {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/large@2x.png); } }
+    .kititem.large.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.large.AK5C_lineart {
+      background-position: -256px 0; }
+    .kititem.large.AT_mine_lineart {
+      background-position: -512px 0; }
+    .kititem.large.AmmoBag_lineart {
+      background-position: -768px 0; }
+    .kititem.large.AmmoPack_lineart {
+      background-position: -1024px 0; }
+    .kititem.large.C4_lineart {
+      background-position: -1280px 0; }
+    .kititem.large.Claymore_lineart {
+      background-position: -1536px 0; }
+    .kititem.large.DecoyPack_lineart {
+      background-position: 0 -64px; }
+    .kititem.large.Defib_lineart {
+      background-position: -256px -64px; }
+    .kititem.large.EODbot_lineart {
+      background-position: -512px -64px; }
+    .kititem.large.Handflare_lineart {
+      background-position: -768px -64px; }
+    .kititem.large.M18_smoke_lineart {
+      background-position: -1024px -64px; }
+    .kititem.large.M224_mortar_lineart {
+      background-position: -1280px -64px; }
+    .kititem.large.M2_SLAM_lineart {
+      background-position: -1536px -64px; }
+    .kititem.large.M34_incendiary_lineart {
+      background-position: 0 -128px; }
+    .kititem.large.M67_grenade_lineart {
+      background-position: -256px -128px; }
+    .kititem.large.M84_flashbang_lineart {
+      background-position: -512px -128px; }
+    .kititem.large.MAV_lineart {
+      background-position: -768px -128px; }
+    .kititem.large.MP_APS_lineart {
+      background-position: -1024px -128px; }
+    .kititem.large.MedicBag_lineart {
+      background-position: -1280px -128px; }
+    .kititem.large.MedicPack_lineart {
+      background-position: -1536px -128px; }
+    .kititem.large.MotionSensor_lineart {
+      background-position: 0 -192px; }
+    .kititem.large.PLD_lineart {
+      background-position: -256px -192px; }
+    .kititem.large.QBS09_lineart {
+      background-position: -512px -192px; }
+    .kititem.large.RFB_lineart {
+      background-position: -768px -192px; }
+    .kititem.large.RGO_impact_lineart {
+      background-position: -1024px -192px; }
+    .kititem.large.RadioBeacon_lineart {
+      background-position: -1280px -192px; }
+    .kititem.large.RepairTool_lineart {
+      background-position: -1536px -192px; }
+    .kititem.large.SOFLAM_lineart {
+      background-position: 0 -256px; }
+    .kititem.large.SUAV_lineart {
+      background-position: -256px -256px; }
+    .kititem.large.Shield_lineart {
+      background-position: -512px -256px; }
+    .kititem.large.Squadspec-AntiTank {
+      background-position: -768px -256px; }
+    .kititem.large.Squadspec-CombatMedic {
+      background-position: -1024px -256px; }
+    .kititem.large.Squadspec-Defensive {
+      background-position: -1280px -256px; }
+    .kititem.large.Squadspec-Grenadier {
+      background-position: -1536px -256px; }
+    .kititem.large.Squadspec-IndirectFire {
+      background-position: 0 -320px; }
+    .kititem.large.Squadspec-Mechanic {
+      background-position: -256px -320px; }
+    .kititem.large.Squadspec-Offensive {
+      background-position: -512px -320px; }
+    .kititem.large.Squadspec-PerimeterDefense {
+      background-position: -768px -320px; }
+    .kititem.large.Squadspec-Scout {
+      background-position: -1024px -320px; }
+    .kititem.large.Squadspec-Shadow {
+      background-position: -1280px -320px; }
+    .kititem.large.Squadspec-Sniper {
+      background-position: -1536px -320px; }
+    .kititem.large.T-UGS_lineart {
+      background-position: 0 -384px; }
+    .kititem.large.UCAV_lineart {
+      background-position: -256px -384px; }
+    .kititem.large.V40_mini_lineart {
+      background-position: -512px -384px; }
+    .kititem.large._NoSelection_lineart {
+      background-position: -768px -384px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.largersmall {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmall.png);
+    width: 128px;
+    height: 32px;
+    background-size: 896px 224px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.largersmall {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmall@2x.png); } }
+    .kititem.largersmall.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.largersmall.AK5C_lineart {
+      background-position: -128px 0; }
+    .kititem.largersmall.AT_mine_lineart {
+      background-position: -256px 0; }
+    .kititem.largersmall.AmmoBag_lineart {
+      background-position: -384px 0; }
+    .kititem.largersmall.AmmoPack_lineart {
+      background-position: -512px 0; }
+    .kititem.largersmall.C4_lineart {
+      background-position: -640px 0; }
+    .kititem.largersmall.Claymore_lineart {
+      background-position: -768px 0; }
+    .kititem.largersmall.DecoyPack_lineart {
+      background-position: 0 -32px; }
+    .kititem.largersmall.Defib_lineart {
+      background-position: -128px -32px; }
+    .kititem.largersmall.EODbot_lineart {
+      background-position: -256px -32px; }
+    .kititem.largersmall.Handflare_lineart {
+      background-position: -384px -32px; }
+    .kititem.largersmall.M18_smoke_lineart {
+      background-position: -512px -32px; }
+    .kititem.largersmall.M224_mortar_lineart {
+      background-position: -640px -32px; }
+    .kititem.largersmall.M2_SLAM_lineart {
+      background-position: -768px -32px; }
+    .kititem.largersmall.M34_incendiary_lineart {
+      background-position: 0 -64px; }
+    .kititem.largersmall.M67_grenade_lineart {
+      background-position: -128px -64px; }
+    .kititem.largersmall.M84_flashbang_lineart {
+      background-position: -256px -64px; }
+    .kititem.largersmall.MAV_lineart {
+      background-position: -384px -64px; }
+    .kititem.largersmall.MP_APS_lineart {
+      background-position: -512px -64px; }
+    .kititem.largersmall.MedicBag_lineart {
+      background-position: -640px -64px; }
+    .kititem.largersmall.MedicPack_lineart {
+      background-position: -768px -64px; }
+    .kititem.largersmall.MotionSensor_lineart {
+      background-position: 0 -96px; }
+    .kititem.largersmall.PLD_lineart {
+      background-position: -128px -96px; }
+    .kititem.largersmall.QBS09_lineart {
+      background-position: -256px -96px; }
+    .kititem.largersmall.RFB_lineart {
+      background-position: -384px -96px; }
+    .kititem.largersmall.RGO_impact_lineart {
+      background-position: -512px -96px; }
+    .kititem.largersmall.RadioBeacon_lineart {
+      background-position: -640px -96px; }
+    .kititem.largersmall.RepairTool_lineart {
+      background-position: -768px -96px; }
+    .kititem.largersmall.SOFLAM_lineart {
+      background-position: 0 -128px; }
+    .kititem.largersmall.SUAV_lineart {
+      background-position: -128px -128px; }
+    .kititem.largersmall.Shield_lineart {
+      background-position: -256px -128px; }
+    .kititem.largersmall.Squadspec-AntiTank {
+      background-position: -384px -128px; }
+    .kititem.largersmall.Squadspec-CombatMedic {
+      background-position: -512px -128px; }
+    .kititem.largersmall.Squadspec-Defensive {
+      background-position: -640px -128px; }
+    .kititem.largersmall.Squadspec-Grenadier {
+      background-position: -768px -128px; }
+    .kititem.largersmall.Squadspec-IndirectFire {
+      background-position: 0 -160px; }
+    .kititem.largersmall.Squadspec-Mechanic {
+      background-position: -128px -160px; }
+    .kititem.largersmall.Squadspec-Offensive {
+      background-position: -256px -160px; }
+    .kititem.largersmall.Squadspec-PerimeterDefense {
+      background-position: -384px -160px; }
+    .kititem.largersmall.Squadspec-Scout {
+      background-position: -512px -160px; }
+    .kititem.largersmall.Squadspec-Shadow {
+      background-position: -640px -160px; }
+    .kititem.largersmall.Squadspec-Sniper {
+      background-position: -768px -160px; }
+    .kititem.largersmall.T-UGS_lineart {
+      background-position: 0 -192px; }
+    .kititem.largersmall.UCAV_lineart {
+      background-position: -128px -192px; }
+    .kititem.largersmall.V40_mini_lineart {
+      background-position: -256px -192px; }
+    .kititem.largersmall._NoSelection_lineart {
+      background-position: -384px -192px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.largersmallinv {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmallinv.png);
+    width: 128px;
+    height: 32px;
+    background-size: 896px 224px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.largersmallinv {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/largersmallinv@2x.png); } }
+    .kititem.largersmallinv.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.largersmallinv.AK5C_lineart {
+      background-position: -128px 0; }
+    .kititem.largersmallinv.AT_mine_lineart {
+      background-position: -256px 0; }
+    .kititem.largersmallinv.AmmoBag_lineart {
+      background-position: -384px 0; }
+    .kititem.largersmallinv.AmmoPack_lineart {
+      background-position: -512px 0; }
+    .kititem.largersmallinv.C4_lineart {
+      background-position: -640px 0; }
+    .kititem.largersmallinv.Claymore_lineart {
+      background-position: -768px 0; }
+    .kititem.largersmallinv.DecoyPack_lineart {
+      background-position: 0 -32px; }
+    .kititem.largersmallinv.Defib_lineart {
+      background-position: -128px -32px; }
+    .kititem.largersmallinv.EODbot_lineart {
+      background-position: -256px -32px; }
+    .kititem.largersmallinv.Handflare_lineart {
+      background-position: -384px -32px; }
+    .kititem.largersmallinv.M18_smoke_lineart {
+      background-position: -512px -32px; }
+    .kititem.largersmallinv.M224_mortar_lineart {
+      background-position: -640px -32px; }
+    .kititem.largersmallinv.M2_SLAM_lineart {
+      background-position: -768px -32px; }
+    .kititem.largersmallinv.M34_incendiary_lineart {
+      background-position: 0 -64px; }
+    .kititem.largersmallinv.M67_grenade_lineart {
+      background-position: -128px -64px; }
+    .kititem.largersmallinv.M84_flashbang_lineart {
+      background-position: -256px -64px; }
+    .kititem.largersmallinv.MAV_lineart {
+      background-position: -384px -64px; }
+    .kititem.largersmallinv.MP_APS_lineart {
+      background-position: -512px -64px; }
+    .kititem.largersmallinv.MedicBag_lineart {
+      background-position: -640px -64px; }
+    .kititem.largersmallinv.MedicPack_lineart {
+      background-position: -768px -64px; }
+    .kititem.largersmallinv.MotionSensor_lineart {
+      background-position: 0 -96px; }
+    .kititem.largersmallinv.PLD_lineart {
+      background-position: -128px -96px; }
+    .kititem.largersmallinv.QBS09_lineart {
+      background-position: -256px -96px; }
+    .kititem.largersmallinv.RFB_lineart {
+      background-position: -384px -96px; }
+    .kititem.largersmallinv.RGO_impact_lineart {
+      background-position: -512px -96px; }
+    .kititem.largersmallinv.RadioBeacon_lineart {
+      background-position: -640px -96px; }
+    .kititem.largersmallinv.RepairTool_lineart {
+      background-position: -768px -96px; }
+    .kititem.largersmallinv.SOFLAM_lineart {
+      background-position: 0 -128px; }
+    .kititem.largersmallinv.SUAV_lineart {
+      background-position: -128px -128px; }
+    .kititem.largersmallinv.Shield_lineart {
+      background-position: -256px -128px; }
+    .kititem.largersmallinv.Squadspec-AntiTank {
+      background-position: -384px -128px; }
+    .kititem.largersmallinv.Squadspec-CombatMedic {
+      background-position: -512px -128px; }
+    .kititem.largersmallinv.Squadspec-Defensive {
+      background-position: -640px -128px; }
+    .kititem.largersmallinv.Squadspec-Grenadier {
+      background-position: -768px -128px; }
+    .kititem.largersmallinv.Squadspec-IndirectFire {
+      background-position: 0 -160px; }
+    .kititem.largersmallinv.Squadspec-Mechanic {
+      background-position: -128px -160px; }
+    .kititem.largersmallinv.Squadspec-Offensive {
+      background-position: -256px -160px; }
+    .kititem.largersmallinv.Squadspec-PerimeterDefense {
+      background-position: -384px -160px; }
+    .kititem.largersmallinv.Squadspec-Scout {
+      background-position: -512px -160px; }
+    .kititem.largersmallinv.Squadspec-Shadow {
+      background-position: -640px -160px; }
+    .kititem.largersmallinv.Squadspec-Sniper {
+      background-position: -768px -160px; }
+    .kititem.largersmallinv.T-UGS_lineart {
+      background-position: 0 -192px; }
+    .kititem.largersmallinv.UCAV_lineart {
+      background-position: -128px -192px; }
+    .kititem.largersmallinv.V40_mini_lineart {
+      background-position: -256px -192px; }
+    .kititem.largersmallinv._NoSelection_lineart {
+      background-position: -384px -192px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.medium {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/medium.png);
+    width: 208px;
+    height: 52px;
+    background-size: 1456px 364px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.medium {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/medium@2x.png); } }
+    .kititem.medium.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.medium.AK5C_lineart {
+      background-position: -208px 0; }
+    .kititem.medium.AT_mine_lineart {
+      background-position: -416px 0; }
+    .kititem.medium.AmmoBag_lineart {
+      background-position: -624px 0; }
+    .kititem.medium.AmmoPack_lineart {
+      background-position: -832px 0; }
+    .kititem.medium.C4_lineart {
+      background-position: -1040px 0; }
+    .kititem.medium.Claymore_lineart {
+      background-position: -1248px 0; }
+    .kititem.medium.DecoyPack_lineart {
+      background-position: 0 -52px; }
+    .kititem.medium.Defib_lineart {
+      background-position: -208px -52px; }
+    .kititem.medium.EODbot_lineart {
+      background-position: -416px -52px; }
+    .kititem.medium.Handflare_lineart {
+      background-position: -624px -52px; }
+    .kititem.medium.M18_smoke_lineart {
+      background-position: -832px -52px; }
+    .kititem.medium.M224_mortar_lineart {
+      background-position: -1040px -52px; }
+    .kititem.medium.M2_SLAM_lineart {
+      background-position: -1248px -52px; }
+    .kititem.medium.M34_incendiary_lineart {
+      background-position: 0 -104px; }
+    .kititem.medium.M67_grenade_lineart {
+      background-position: -208px -104px; }
+    .kititem.medium.M84_flashbang_lineart {
+      background-position: -416px -104px; }
+    .kititem.medium.MAV_lineart {
+      background-position: -624px -104px; }
+    .kititem.medium.MP_APS_lineart {
+      background-position: -832px -104px; }
+    .kititem.medium.MedicBag_lineart {
+      background-position: -1040px -104px; }
+    .kititem.medium.MedicPack_lineart {
+      background-position: -1248px -104px; }
+    .kititem.medium.MotionSensor_lineart {
+      background-position: 0 -156px; }
+    .kititem.medium.PLD_lineart {
+      background-position: -208px -156px; }
+    .kititem.medium.QBS09_lineart {
+      background-position: -416px -156px; }
+    .kititem.medium.RFB_lineart {
+      background-position: -624px -156px; }
+    .kititem.medium.RGO_impact_lineart {
+      background-position: -832px -156px; }
+    .kititem.medium.RadioBeacon_lineart {
+      background-position: -1040px -156px; }
+    .kititem.medium.RepairTool_lineart {
+      background-position: -1248px -156px; }
+    .kititem.medium.SOFLAM_lineart {
+      background-position: 0 -208px; }
+    .kititem.medium.SUAV_lineart {
+      background-position: -208px -208px; }
+    .kititem.medium.Shield_lineart {
+      background-position: -416px -208px; }
+    .kititem.medium.Squadspec-AntiTank {
+      background-position: -624px -208px; }
+    .kititem.medium.Squadspec-CombatMedic {
+      background-position: -832px -208px; }
+    .kititem.medium.Squadspec-Defensive {
+      background-position: -1040px -208px; }
+    .kititem.medium.Squadspec-Grenadier {
+      background-position: -1248px -208px; }
+    .kititem.medium.Squadspec-IndirectFire {
+      background-position: 0 -260px; }
+    .kititem.medium.Squadspec-Mechanic {
+      background-position: -208px -260px; }
+    .kititem.medium.Squadspec-Offensive {
+      background-position: -416px -260px; }
+    .kititem.medium.Squadspec-PerimeterDefense {
+      background-position: -624px -260px; }
+    .kititem.medium.Squadspec-Scout {
+      background-position: -832px -260px; }
+    .kititem.medium.Squadspec-Shadow {
+      background-position: -1040px -260px; }
+    .kititem.medium.Squadspec-Sniper {
+      background-position: -1248px -260px; }
+    .kititem.medium.T-UGS_lineart {
+      background-position: 0 -312px; }
+    .kititem.medium.UCAV_lineart {
+      background-position: -208px -312px; }
+    .kititem.medium.V40_mini_lineart {
+      background-position: -416px -312px; }
+    .kititem.medium._NoSelection_lineart {
+      background-position: -624px -312px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.mediuminv {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/mediuminv.png);
+    width: 208px;
+    height: 52px;
+    background-size: 1456px 364px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.mediuminv {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/mediuminv@2x.png); } }
+    .kititem.mediuminv.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.mediuminv.AK5C_lineart {
+      background-position: -208px 0; }
+    .kititem.mediuminv.AT_mine_lineart {
+      background-position: -416px 0; }
+    .kititem.mediuminv.AmmoBag_lineart {
+      background-position: -624px 0; }
+    .kititem.mediuminv.AmmoPack_lineart {
+      background-position: -832px 0; }
+    .kititem.mediuminv.C4_lineart {
+      background-position: -1040px 0; }
+    .kititem.mediuminv.Claymore_lineart {
+      background-position: -1248px 0; }
+    .kititem.mediuminv.DecoyPack_lineart {
+      background-position: 0 -52px; }
+    .kititem.mediuminv.Defib_lineart {
+      background-position: -208px -52px; }
+    .kititem.mediuminv.EODbot_lineart {
+      background-position: -416px -52px; }
+    .kititem.mediuminv.Handflare_lineart {
+      background-position: -624px -52px; }
+    .kititem.mediuminv.M18_smoke_lineart {
+      background-position: -832px -52px; }
+    .kititem.mediuminv.M224_mortar_lineart {
+      background-position: -1040px -52px; }
+    .kititem.mediuminv.M2_SLAM_lineart {
+      background-position: -1248px -52px; }
+    .kititem.mediuminv.M34_incendiary_lineart {
+      background-position: 0 -104px; }
+    .kititem.mediuminv.M67_grenade_lineart {
+      background-position: -208px -104px; }
+    .kititem.mediuminv.M84_flashbang_lineart {
+      background-position: -416px -104px; }
+    .kititem.mediuminv.MAV_lineart {
+      background-position: -624px -104px; }
+    .kititem.mediuminv.MP_APS_lineart {
+      background-position: -832px -104px; }
+    .kititem.mediuminv.MedicBag_lineart {
+      background-position: -1040px -104px; }
+    .kititem.mediuminv.MedicPack_lineart {
+      background-position: -1248px -104px; }
+    .kititem.mediuminv.MotionSensor_lineart {
+      background-position: 0 -156px; }
+    .kititem.mediuminv.PLD_lineart {
+      background-position: -208px -156px; }
+    .kititem.mediuminv.QBS09_lineart {
+      background-position: -416px -156px; }
+    .kititem.mediuminv.RFB_lineart {
+      background-position: -624px -156px; }
+    .kititem.mediuminv.RGO_impact_lineart {
+      background-position: -832px -156px; }
+    .kititem.mediuminv.RadioBeacon_lineart {
+      background-position: -1040px -156px; }
+    .kititem.mediuminv.RepairTool_lineart {
+      background-position: -1248px -156px; }
+    .kititem.mediuminv.SOFLAM_lineart {
+      background-position: 0 -208px; }
+    .kititem.mediuminv.SUAV_lineart {
+      background-position: -208px -208px; }
+    .kititem.mediuminv.Shield_lineart {
+      background-position: -416px -208px; }
+    .kititem.mediuminv.Squadspec-AntiTank {
+      background-position: -624px -208px; }
+    .kititem.mediuminv.Squadspec-CombatMedic {
+      background-position: -832px -208px; }
+    .kititem.mediuminv.Squadspec-Defensive {
+      background-position: -1040px -208px; }
+    .kititem.mediuminv.Squadspec-Grenadier {
+      background-position: -1248px -208px; }
+    .kititem.mediuminv.Squadspec-IndirectFire {
+      background-position: 0 -260px; }
+    .kititem.mediuminv.Squadspec-Mechanic {
+      background-position: -208px -260px; }
+    .kititem.mediuminv.Squadspec-Offensive {
+      background-position: -416px -260px; }
+    .kititem.mediuminv.Squadspec-PerimeterDefense {
+      background-position: -624px -260px; }
+    .kititem.mediuminv.Squadspec-Scout {
+      background-position: -832px -260px; }
+    .kititem.mediuminv.Squadspec-Shadow {
+      background-position: -1040px -260px; }
+    .kititem.mediuminv.Squadspec-Sniper {
+      background-position: -1248px -260px; }
+    .kititem.mediuminv.T-UGS_lineart {
+      background-position: 0 -312px; }
+    .kititem.mediuminv.UCAV_lineart {
+      background-position: -208px -312px; }
+    .kititem.mediuminv.V40_mini_lineart {
+      background-position: -416px -312px; }
+    .kititem.mediuminv._NoSelection_lineart {
+      background-position: -624px -312px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.small {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/small.png);
+    width: 64px;
+    height: 16px;
+    background-size: 448px 112px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.small {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/small@2x.png); } }
+    .kititem.small.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.small.AK5C_lineart {
+      background-position: -64px 0; }
+    .kititem.small.AT_mine_lineart {
+      background-position: -128px 0; }
+    .kititem.small.AmmoBag_lineart {
+      background-position: -192px 0; }
+    .kititem.small.AmmoPack_lineart {
+      background-position: -256px 0; }
+    .kititem.small.C4_lineart {
+      background-position: -320px 0; }
+    .kititem.small.Claymore_lineart {
+      background-position: -384px 0; }
+    .kititem.small.DecoyPack_lineart {
+      background-position: 0 -16px; }
+    .kititem.small.Defib_lineart {
+      background-position: -64px -16px; }
+    .kititem.small.EODbot_lineart {
+      background-position: -128px -16px; }
+    .kititem.small.Handflare_lineart {
+      background-position: -192px -16px; }
+    .kititem.small.M18_smoke_lineart {
+      background-position: -256px -16px; }
+    .kititem.small.M224_mortar_lineart {
+      background-position: -320px -16px; }
+    .kititem.small.M2_SLAM_lineart {
+      background-position: -384px -16px; }
+    .kititem.small.M34_incendiary_lineart {
+      background-position: 0 -32px; }
+    .kititem.small.M67_grenade_lineart {
+      background-position: -64px -32px; }
+    .kititem.small.M84_flashbang_lineart {
+      background-position: -128px -32px; }
+    .kititem.small.MAV_lineart {
+      background-position: -192px -32px; }
+    .kititem.small.MP_APS_lineart {
+      background-position: -256px -32px; }
+    .kititem.small.MedicBag_lineart {
+      background-position: -320px -32px; }
+    .kititem.small.MedicPack_lineart {
+      background-position: -384px -32px; }
+    .kititem.small.MotionSensor_lineart {
+      background-position: 0 -48px; }
+    .kititem.small.PLD_lineart {
+      background-position: -64px -48px; }
+    .kititem.small.QBS09_lineart {
+      background-position: -128px -48px; }
+    .kititem.small.RFB_lineart {
+      background-position: -192px -48px; }
+    .kititem.small.RGO_impact_lineart {
+      background-position: -256px -48px; }
+    .kititem.small.RadioBeacon_lineart {
+      background-position: -320px -48px; }
+    .kititem.small.RepairTool_lineart {
+      background-position: -384px -48px; }
+    .kititem.small.SOFLAM_lineart {
+      background-position: 0 -64px; }
+    .kititem.small.SUAV_lineart {
+      background-position: -64px -64px; }
+    .kititem.small.Shield_lineart {
+      background-position: -128px -64px; }
+    .kititem.small.Squadspec-AntiTank {
+      background-position: -192px -64px; }
+    .kititem.small.Squadspec-CombatMedic {
+      background-position: -256px -64px; }
+    .kititem.small.Squadspec-Defensive {
+      background-position: -320px -64px; }
+    .kititem.small.Squadspec-Grenadier {
+      background-position: -384px -64px; }
+    .kititem.small.Squadspec-IndirectFire {
+      background-position: 0 -80px; }
+    .kititem.small.Squadspec-Mechanic {
+      background-position: -64px -80px; }
+    .kititem.small.Squadspec-Offensive {
+      background-position: -128px -80px; }
+    .kititem.small.Squadspec-PerimeterDefense {
+      background-position: -192px -80px; }
+    .kititem.small.Squadspec-Scout {
+      background-position: -256px -80px; }
+    .kititem.small.Squadspec-Shadow {
+      background-position: -320px -80px; }
+    .kititem.small.Squadspec-Sniper {
+      background-position: -384px -80px; }
+    .kititem.small.T-UGS_lineart {
+      background-position: 0 -96px; }
+    .kititem.small.UCAV_lineart {
+      background-position: -64px -96px; }
+    .kititem.small.V40_mini_lineart {
+      background-position: -128px -96px; }
+    .kititem.small._NoSelection_lineart {
+      background-position: -192px -96px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.smallinv {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/smallinv.png);
+    width: 64px;
+    height: 16px;
+    background-size: 448px 112px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.smallinv {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/smallinv@2x.png); } }
+    .kititem.smallinv.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.smallinv.AK5C_lineart {
+      background-position: -64px 0; }
+    .kititem.smallinv.AT_mine_lineart {
+      background-position: -128px 0; }
+    .kititem.smallinv.AmmoBag_lineart {
+      background-position: -192px 0; }
+    .kititem.smallinv.AmmoPack_lineart {
+      background-position: -256px 0; }
+    .kititem.smallinv.C4_lineart {
+      background-position: -320px 0; }
+    .kititem.smallinv.Claymore_lineart {
+      background-position: -384px 0; }
+    .kititem.smallinv.DecoyPack_lineart {
+      background-position: 0 -16px; }
+    .kititem.smallinv.Defib_lineart {
+      background-position: -64px -16px; }
+    .kititem.smallinv.EODbot_lineart {
+      background-position: -128px -16px; }
+    .kititem.smallinv.Handflare_lineart {
+      background-position: -192px -16px; }
+    .kititem.smallinv.M18_smoke_lineart {
+      background-position: -256px -16px; }
+    .kititem.smallinv.M224_mortar_lineart {
+      background-position: -320px -16px; }
+    .kititem.smallinv.M2_SLAM_lineart {
+      background-position: -384px -16px; }
+    .kititem.smallinv.M34_incendiary_lineart {
+      background-position: 0 -32px; }
+    .kititem.smallinv.M67_grenade_lineart {
+      background-position: -64px -32px; }
+    .kititem.smallinv.M84_flashbang_lineart {
+      background-position: -128px -32px; }
+    .kititem.smallinv.MAV_lineart {
+      background-position: -192px -32px; }
+    .kititem.smallinv.MP_APS_lineart {
+      background-position: -256px -32px; }
+    .kititem.smallinv.MedicBag_lineart {
+      background-position: -320px -32px; }
+    .kititem.smallinv.MedicPack_lineart {
+      background-position: -384px -32px; }
+    .kititem.smallinv.MotionSensor_lineart {
+      background-position: 0 -48px; }
+    .kititem.smallinv.PLD_lineart {
+      background-position: -64px -48px; }
+    .kititem.smallinv.QBS09_lineart {
+      background-position: -128px -48px; }
+    .kititem.smallinv.RFB_lineart {
+      background-position: -192px -48px; }
+    .kititem.smallinv.RGO_impact_lineart {
+      background-position: -256px -48px; }
+    .kititem.smallinv.RadioBeacon_lineart {
+      background-position: -320px -48px; }
+    .kititem.smallinv.RepairTool_lineart {
+      background-position: -384px -48px; }
+    .kititem.smallinv.SOFLAM_lineart {
+      background-position: 0 -64px; }
+    .kititem.smallinv.SUAV_lineart {
+      background-position: -64px -64px; }
+    .kititem.smallinv.Shield_lineart {
+      background-position: -128px -64px; }
+    .kititem.smallinv.Squadspec-AntiTank {
+      background-position: -192px -64px; }
+    .kititem.smallinv.Squadspec-CombatMedic {
+      background-position: -256px -64px; }
+    .kititem.smallinv.Squadspec-Defensive {
+      background-position: -320px -64px; }
+    .kititem.smallinv.Squadspec-Grenadier {
+      background-position: -384px -64px; }
+    .kititem.smallinv.Squadspec-IndirectFire {
+      background-position: 0 -80px; }
+    .kititem.smallinv.Squadspec-Mechanic {
+      background-position: -64px -80px; }
+    .kititem.smallinv.Squadspec-Offensive {
+      background-position: -128px -80px; }
+    .kititem.smallinv.Squadspec-PerimeterDefense {
+      background-position: -192px -80px; }
+    .kititem.smallinv.Squadspec-Scout {
+      background-position: -256px -80px; }
+    .kititem.smallinv.Squadspec-Shadow {
+      background-position: -320px -80px; }
+    .kititem.smallinv.Squadspec-Sniper {
+      background-position: -384px -80px; }
+    .kititem.smallinv.T-UGS_lineart {
+      background-position: 0 -96px; }
+    .kititem.smallinv.UCAV_lineart {
+      background-position: -64px -96px; }
+    .kititem.smallinv.V40_mini_lineart {
+      background-position: -128px -96px; }
+    .kititem.smallinv._NoSelection_lineart {
+      background-position: -192px -96px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.kititem {
+  display: inline-block; }
+  .kititem.xsmall {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/xsmall.png);
+    width: 56px;
+    height: 14px;
+    background-size: 392px 98px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .kititem.xsmall {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/kititem/xsmall@2x.png); } }
+    .kititem.xsmall.AAMine_lineart {
+      background-position: 0 0; }
+    .kititem.xsmall.AK5C_lineart {
+      background-position: -56px 0; }
+    .kititem.xsmall.AT_mine_lineart {
+      background-position: -112px 0; }
+    .kititem.xsmall.AmmoBag_lineart {
+      background-position: -168px 0; }
+    .kititem.xsmall.AmmoPack_lineart {
+      background-position: -224px 0; }
+    .kititem.xsmall.C4_lineart {
+      background-position: -280px 0; }
+    .kititem.xsmall.Claymore_lineart {
+      background-position: -336px 0; }
+    .kititem.xsmall.DecoyPack_lineart {
+      background-position: 0 -14px; }
+    .kititem.xsmall.Defib_lineart {
+      background-position: -56px -14px; }
+    .kititem.xsmall.EODbot_lineart {
+      background-position: -112px -14px; }
+    .kititem.xsmall.Handflare_lineart {
+      background-position: -168px -14px; }
+    .kititem.xsmall.M18_smoke_lineart {
+      background-position: -224px -14px; }
+    .kititem.xsmall.M224_mortar_lineart {
+      background-position: -280px -14px; }
+    .kititem.xsmall.M2_SLAM_lineart {
+      background-position: -336px -14px; }
+    .kititem.xsmall.M34_incendiary_lineart {
+      background-position: 0 -28px; }
+    .kititem.xsmall.M67_grenade_lineart {
+      background-position: -56px -28px; }
+    .kititem.xsmall.M84_flashbang_lineart {
+      background-position: -112px -28px; }
+    .kititem.xsmall.MAV_lineart {
+      background-position: -168px -28px; }
+    .kititem.xsmall.MP_APS_lineart {
+      background-position: -224px -28px; }
+    .kititem.xsmall.MedicBag_lineart {
+      background-position: -280px -28px; }
+    .kititem.xsmall.MedicPack_lineart {
+      background-position: -336px -28px; }
+    .kititem.xsmall.MotionSensor_lineart {
+      background-position: 0 -42px; }
+    .kititem.xsmall.PLD_lineart {
+      background-position: -56px -42px; }
+    .kititem.xsmall.QBS09_lineart {
+      background-position: -112px -42px; }
+    .kititem.xsmall.RFB_lineart {
+      background-position: -168px -42px; }
+    .kititem.xsmall.RGO_impact_lineart {
+      background-position: -224px -42px; }
+    .kititem.xsmall.RadioBeacon_lineart {
+      background-position: -280px -42px; }
+    .kititem.xsmall.RepairTool_lineart {
+      background-position: -336px -42px; }
+    .kititem.xsmall.SOFLAM_lineart {
+      background-position: 0 -56px; }
+    .kititem.xsmall.SUAV_lineart {
+      background-position: -56px -56px; }
+    .kititem.xsmall.Shield_lineart {
+      background-position: -112px -56px; }
+    .kititem.xsmall.Squadspec-AntiTank {
+      background-position: -168px -56px; }
+    .kititem.xsmall.Squadspec-CombatMedic {
+      background-position: -224px -56px; }
+    .kititem.xsmall.Squadspec-Defensive {
+      background-position: -280px -56px; }
+    .kititem.xsmall.Squadspec-Grenadier {
+      background-position: -336px -56px; }
+    .kititem.xsmall.Squadspec-IndirectFire {
+      background-position: 0 -70px; }
+    .kititem.xsmall.Squadspec-Mechanic {
+      background-position: -56px -70px; }
+    .kititem.xsmall.Squadspec-Offensive {
+      background-position: -112px -70px; }
+    .kititem.xsmall.Squadspec-PerimeterDefense {
+      background-position: -168px -70px; }
+    .kititem.xsmall.Squadspec-Scout {
+      background-position: -224px -70px; }
+    .kititem.xsmall.Squadspec-Shadow {
+      background-position: -280px -70px; }
+    .kititem.xsmall.Squadspec-Sniper {
+      background-position: -336px -70px; }
+    .kititem.xsmall.T-UGS_lineart {
+      background-position: 0 -84px; }
+    .kititem.xsmall.UCAV_lineart {
+      background-position: -56px -84px; }
+    .kititem.xsmall.V40_mini_lineart {
+      background-position: -112px -84px; }
+    .kititem.xsmall._NoSelection_lineart {
+      background-position: -168px -84px; }
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weapon {
+  display: inline-block; }
+  .weapon.large {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/large.png);
+    width: 256px;
+    height: 64px;
+    background-size: 3584px 832px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weapon.large {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/large@2x.png); } }
+    .weapon.large.AAMine_lineart {
+      background-position: 0 0; }
+    .weapon.large.ACWR_lineart {
+      background-position: -256px 0; }
+    .weapon.large.AK12_lineart {
+      background-position: -512px 0; }
+    .weapon.large.AK5C_lineart {
+      background-position: -768px 0; }
+    .weapon.large.AKU12_lineart {
+      background-position: -1024px 0; }
+    .weapon.large.AMR_CQB_lineart {
+      background-position: -1280px 0; }
+    .weapon.large.AMR_FAR_lineart {
+      background-position: -1536px 0; }
+    .weapon.large.AMR_MED_lineart {
+      background-position: -1792px 0; }
+    .weapon.large.AN94_lineart {
+      background-position: -2048px 0; }
+    .weapon.large.AR160_lineart {
+      background-position: -2304px 0; }
+    .weapon.large.ASVal_lineart {
+      background-position: -2560px 0; }
+    .weapon.large.AT_mine_lineart {
+      background-position: -2816px 0; }
+    .weapon.large.AWS_lineart {
+      background-position: -3072px 0; }
+    .weapon.large.Bulldog_lineart {
+      background-position: -3328px 0; }
+    .weapon.large.C100_lineart {
+      background-position: 0 -64px; }
+    .weapon.large.C4_lineart {
+      background-position: -256px -64px; }
+    .weapon.large.CBJMS_lineart {
+      background-position: -512px -64px; }
+    .weapon.large.CS5_lineart {
+      background-position: -768px -64px; }
+    .weapon.large.CSLR4_lineart {
+      background-position: -1024px -64px; }
+    .weapon.large.CZ75_lineart {
+      background-position: -1280px -64px; }
+    .weapon.large.CZ805_lineart {
+      background-position: -1536px -64px; }
+    .weapon.large.Claymore_lineart {
+      background-position: -1792px -64px; }
+    .weapon.large.DAO12_lineart {
+      background-position: -2048px -64px; }
+    .weapon.large.DBV12_lineart {
+      background-position: -2304px -64px; }
+    .weapon.large.Defib_lineart {
+      background-position: -2560px -64px; }
+    .weapon.large.DesertEagle_lineart {
+      background-position: -2816px -64px; }
+    .weapon.large.EODbot_lineart {
+      background-position: -3072px -64px; }
+    .weapon.large.F2000_lineart {
+      background-position: -3328px -64px; }
+    .weapon.large.FAMAS_lineart {
+      background-position: 0 -128px; }
+    .weapon.large.FGM148_javelin_lineart {
+      background-position: -256px -128px; }
+    .weapon.large.FGM172_sraw_lineart {
+      background-position: -512px -128px; }
+    .weapon.large.FIM92_stinger_lineart {
+      background-position: -768px -128px; }
+    .weapon.large.FN57_lineart {
+      background-position: -1024px -128px; }
+    .weapon.large.FYJS_lineart {
+      background-position: -1280px -128px; }
+    .weapon.large.GOL_lineart {
+      background-position: -1536px -128px; }
+    .weapon.large.Galil_ACE21CQB_lineart {
+      background-position: -1792px -128px; }
+    .weapon.large.Galil_ACE23_lineart {
+      background-position: -2048px -128px; }
+    .weapon.large.Galil_ACE52CQB_lineart {
+      background-position: -2304px -128px; }
+    .weapon.large.Galil_ACE53SV_lineart {
+      background-position: -2560px -128px; }
+    .weapon.large.Groza1_lineart {
+      background-position: -2816px -128px; }
+    .weapon.large.Groza4_lineart {
+      background-position: -3072px -128px; }
+    .weapon.large.HAWK12g_lineart {
+      background-position: -3328px -128px; }
+    .weapon.large.HK45C_lineart {
+      background-position: 0 -192px; }
+    .weapon.large.HVM_starstreak_lineart {
+      background-position: -256px -192px; }
+    .weapon.large.Handflare_lineart {
+      background-position: -512px -192px; }
+    .weapon.large.JNG90_lineart {
+      background-position: -768px -192px; }
+    .weapon.large.JS2_lineart {
+      background-position: -1024px -192px; }
+    .weapon.large.Knife_Tanto_lineart {
+      background-position: -1280px -192px; }
+    .weapon.large.Knife_Weaver_lineart {
+      background-position: -1536px -192px; }
+    .weapon.large.L85A2_lineart {
+      background-position: -1792px -192px; }
+    .weapon.large.L86A1_lineart {
+      background-position: -2048px -192px; }
+    .weapon.large.L96A1_lineart {
+      background-position: -2304px -192px; }
+    .weapon.large.LSAT_lineart {
+      background-position: -2560px -192px; }
+    .weapon.large.M136_lineart {
+      background-position: -2816px -192px; }
+    .weapon.large.M18_smoke_lineart {
+      background-position: -3072px -192px; }
+    .weapon.large.M200_SRR61_lineart {
+      background-position: -3328px -192px; }
+    .weapon.large.M224_mortar_lineart {
+      background-position: 0 -256px; }
+    .weapon.large.M26Mass_FLC_lineart {
+      background-position: -256px -256px; }
+    .weapon.large.M26Mass_FRG_lineart {
+      background-position: -512px -256px; }
+    .weapon.large.M26Mass_SG_lineart {
+      background-position: -768px -256px; }
+    .weapon.large.M26Mass_lineart {
+      background-position: -1024px -256px; }
+    .weapon.large.M2_SLAM_lineart {
+      background-position: -1280px -256px; }
+    .weapon.large.M320_3GL_lineart {
+      background-position: -1536px -256px; }
+    .weapon.large.M320_FLASH_lineart {
+      background-position: -1792px -256px; }
+    .weapon.large.M320_LVG_lineart {
+      background-position: -2048px -256px; }
+    .weapon.large.M320_SG_lineart {
+      background-position: -2304px -256px; }
+    .weapon.large.M320_SMK_lineart {
+      background-position: -2560px -256px; }
+    .weapon.large.M320_lineart {
+      background-position: -2816px -256px; }
+    .weapon.large.M34_incendiary_lineart {
+      background-position: -3072px -256px; }
+    .weapon.large.M60E4_lineart {
+      background-position: -3328px -256px; }
+    .weapon.large.M67_grenade_lineart {
+      background-position: 0 -320px; }
+    .weapon.large.M82A3_CQB_lineart {
+      background-position: -256px -320px; }
+    .weapon.large.M82A3_FAR_lineart {
+      background-position: -512px -320px; }
+    .weapon.large.M82A3_MED_lineart {
+      background-position: -768px -320px; }
+    .weapon.large.M84_flashbang_lineart {
+      background-position: -1024px -320px; }
+    .weapon.large.M9_lineart {
+      background-position: -1280px -320px; }
+    .weapon.large.MBT_law_lineart {
+      background-position: -1536px -320px; }
+    .weapon.large.MG4_lineart {
+      background-position: -1792px -320px; }
+    .weapon.large.MGL_lineart {
+      background-position: -2048px -320px; }
+    .weapon.large.MK153_smaw_lineart {
+      background-position: -2304px -320px; }
+    .weapon.large.MP412REX_lineart {
+      background-position: -2560px -320px; }
+    .weapon.large.MPX_lineart {
+      background-position: -2816px -320px; }
+    .weapon.large.MTAR21_lineart {
+      background-position: -3072px -320px; }
+    .weapon.large.MX4_lineart {
+      background-position: -3328px -320px; }
+    .weapon.large.Machete_lineart {
+      background-position: 0 -384px; }
+    .weapon.large.P226_lineart {
+      background-position: -256px -384px; }
+    .weapon.large.P90_lineart {
+      background-position: -512px -384px; }
+    .weapon.large.QBB95_lineart {
+      background-position: -768px -384px; }
+    .weapon.large.QBS09_lineart {
+      background-position: -1024px -384px; }
+    .weapon.large.QBU88_lineart {
+      background-position: -1280px -384px; }
+    .weapon.large.QBZ951_lineart {
+      background-position: -1536px -384px; }
+    .weapon.large.QSZ-92_lineart {
+      background-position: -1792px -384px; }
+    .weapon.large.RFB_lineart {
+      background-position: -2048px -384px; }
+    .weapon.large.RGO_impact_lineart {
+      background-position: -2304px -384px; }
+    .weapon.large.RPG7_lineart {
+      background-position: -2560px -384px; }
+    .weapon.large.RPK12_lineart {
+      background-position: -2816px -384px; }
+    .weapon.large.RPK74_lineart {
+      background-position: -3072px -384px; }
+    .weapon.large.Railgun_lineart {
+      background-position: -3328px -384px; }
+    .weapon.large.RepairTool_lineart {
+      background-position: 0 -448px; }
+    .weapon.large.SA18_IGLA_lineart {
+      background-position: -256px -448px; }
+    .weapon.large.SAR21_lineart {
+      background-position: -512px -448px; }
+    .weapon.large.SHORTY12g_lineart {
+      background-position: -768px -448px; }
+    .weapon.large.SH_lineart {
+      background-position: -1024px -448px; }
+    .weapon.large.SPAS12_lineart {
+      background-position: -1280px -448px; }
+    .weapon.large.SR2_lineart {
+      background-position: -1536px -448px; }
+    .weapon.large.SR338_lineart {
+      background-position: -1792px -448px; }
+    .weapon.large.SRS_338RECON_lineart {
+      background-position: -2048px -448px; }
+    .weapon.large.SV98_lineart {
+      background-position: -2304px -448px; }
+    .weapon.large.SVD12_lineart {
+      background-position: -2560px -448px; }
+    .weapon.large.SW40_lineart {
+      background-position: -2816px -448px; }
+    .weapon.large.Saddlegun_lineart {
+      background-position: -3072px -448px; }
+    .weapon.large.Scorpion_lineart {
+      background-position: -3328px -448px; }
+    .weapon.large.ScoutElite_lineart {
+      background-position: 0 -512px; }
+    .weapon.large.Shank_lineart {
+      background-position: -256px -512px; }
+    .weapon.large.Shield_lineart {
+      background-position: -512px -512px; }
+    .weapon.large.SteyrAUG_lineart {
+      background-position: -768px -512px; }
+    .weapon.large.Type95B1_lineart {
+      background-position: -1024px -512px; }
+    .weapon.large.UCAV_lineart {
+      background-position: -1280px -512px; }
+    .weapon.large.UTAS_lineart {
+      background-position: -1536px -512px; }
+    .weapon.large.Ultimax_lineart {
+      background-position: -1792px -512px; }
+    .weapon.large.Unica6_lineart {
+      background-position: -2048px -512px; }
+    .weapon.large.V40_mini_lineart {
+      background-position: -2304px -512px; }
+    .weapon.large.XM25_FLC_lineart {
+      background-position: -2560px -512px; }
+    .weapon.large.XM25_SMK_lineart {
+      background-position: -2816px -512px; }
+    .weapon.large.XM25_lineart {
+      background-position: -3072px -512px; }
+    .weapon.large.a91_lineart {
+      background-position: -3328px -512px; }
+    .weapon.large.aek971_lineart {
+      background-position: 0 -576px; }
+    .weapon.large.g36c_lineart {
+      background-position: -256px -576px; }
+    .weapon.large.glock18_lineart {
+      background-position: -512px -576px; }
+    .weapon.large.knife_2142knife_lines {
+      background-position: -768px -576px; }
+    .weapon.large.knife_bootknife_lines {
+      background-position: -1024px -576px; }
+    .weapon.large.knife_bowie_lineart {
+      background-position: -1280px -576px; }
+    .weapon.large.knife_carbon_lineart {
+      background-position: -1536px -576px; }
+    .weapon.large.knife_combat_ACB90_lineart {
+      background-position: -1792px -576px; }
+    .weapon.large.knife_diverknife_lines {
+      background-position: -2048px -576px; }
+    .weapon.large.knife_improvised_lineart {
+      background-position: -2304px -576px; }
+    .weapon.large.knife_lineart {
+      background-position: -2560px -576px; }
+    .weapon.large.knife_neckknife_lines {
+      background-position: -2816px -576px; }
+    .weapon.large.knife_precisionknife_lines {
+      background-position: -3072px -576px; }
+    .weapon.large.knife_scout_lineart {
+      background-position: -3328px -576px; }
+    .weapon.large.knife_sealknife_lines {
+      background-position: 0 -640px; }
+    .weapon.large.knife_survival_lineart {
+      background-position: -256px -640px; }
+    .weapon.large.knife_tactical2knife_lines {
+      background-position: -512px -640px; }
+    .weapon.large.knife_trench_lineart {
+      background-position: -768px -640px; }
+    .weapon.large.m1014_lineart {
+      background-position: -1024px -640px; }
+    .weapon.large.m16a4_lineart {
+      background-position: -1280px -640px; }
+    .weapon.large.m1911_lineart {
+      background-position: -1536px -640px; }
+    .weapon.large.m240_lineart {
+      background-position: -1792px -640px; }
+    .weapon.large.m249_lineart {
+      background-position: -2048px -640px; }
+    .weapon.large.m39_lineart {
+      background-position: -2304px -640px; }
+    .weapon.large.m40a5_lineart {
+      background-position: -2560px -640px; }
+    .weapon.large.m416_lineart {
+      background-position: -2816px -640px; }
+    .weapon.large.m4a1_lineart {
+      background-position: -3072px -640px; }
+    .weapon.large.m93r_lineart {
+      background-position: -3328px -640px; }
+    .weapon.large.m98b_lineart {
+      background-position: 0 -704px; }
+    .weapon.large.magpulPDR_lineart {
+      background-position: -256px -704px; }
+    .weapon.large.mk11_lineart {
+      background-position: -512px -704px; }
+    .weapon.large.mp443_grach_lineart {
+      background-position: -768px -704px; }
+    .weapon.large.mp7_lineart {
+      background-position: -1024px -704px; }
+    .weapon.large.pecheneg_lineart {
+      background-position: -1280px -704px; }
+    .weapon.large.pp2000_lineart {
+      background-position: -1536px -704px; }
+    .weapon.large.remington870_lineart {
+      background-position: -1792px -704px; }
+    .weapon.large.saiga12_lineart {
+      background-position: -2048px -704px; }
+    .weapon.large.scarHSV_lineart {
+      background-position: -2304px -704px; }
+    .weapon.large.scarh_lineart {
+      background-position: -2560px -704px; }
+    .weapon.large.sg553lb_lineart {
+      background-position: -2816px -704px; }
+    .weapon.large.sks_lineart {
+      background-position: -3072px -704px; }
+    .weapon.large.taurus44_lineart {
+      background-position: -3328px -704px; }
+    .weapon.large.type88_lineart {
+      background-position: 0 -768px; }
+    .weapon.large.ump9_lineart {
+      background-position: -256px -768px; }
+    .weapon.large.ump_lineart {
+      background-position: -512px -768px; }
+    .weapon.large.usas12_BP_lineart {
+      background-position: -768px -768px; }
+    .weapon.large.usas12_NV_lineart {
+      background-position: -1024px -768px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weapon {
+  display: inline-block; }
+  .weapon.medium {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/medium.png);
+    width: 208px;
+    height: 52px;
+    background-size: 2912px 676px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weapon.medium {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/medium@2x.png); } }
+    .weapon.medium.AAMine_lineart {
+      background-position: 0 0; }
+    .weapon.medium.ACWR_lineart {
+      background-position: -208px 0; }
+    .weapon.medium.AK12_lineart {
+      background-position: -416px 0; }
+    .weapon.medium.AK5C_lineart {
+      background-position: -624px 0; }
+    .weapon.medium.AKU12_lineart {
+      background-position: -832px 0; }
+    .weapon.medium.AMR_CQB_lineart {
+      background-position: -1040px 0; }
+    .weapon.medium.AMR_FAR_lineart {
+      background-position: -1248px 0; }
+    .weapon.medium.AMR_MED_lineart {
+      background-position: -1456px 0; }
+    .weapon.medium.AN94_lineart {
+      background-position: -1664px 0; }
+    .weapon.medium.AR160_lineart {
+      background-position: -1872px 0; }
+    .weapon.medium.ASVal_lineart {
+      background-position: -2080px 0; }
+    .weapon.medium.AT_mine_lineart {
+      background-position: -2288px 0; }
+    .weapon.medium.AWS_lineart {
+      background-position: -2496px 0; }
+    .weapon.medium.Bulldog_lineart {
+      background-position: -2704px 0; }
+    .weapon.medium.C100_lineart {
+      background-position: 0 -52px; }
+    .weapon.medium.C4_lineart {
+      background-position: -208px -52px; }
+    .weapon.medium.CBJMS_lineart {
+      background-position: -416px -52px; }
+    .weapon.medium.CS5_lineart {
+      background-position: -624px -52px; }
+    .weapon.medium.CSLR4_lineart {
+      background-position: -832px -52px; }
+    .weapon.medium.CZ75_lineart {
+      background-position: -1040px -52px; }
+    .weapon.medium.CZ805_lineart {
+      background-position: -1248px -52px; }
+    .weapon.medium.Claymore_lineart {
+      background-position: -1456px -52px; }
+    .weapon.medium.DAO12_lineart {
+      background-position: -1664px -52px; }
+    .weapon.medium.DBV12_lineart {
+      background-position: -1872px -52px; }
+    .weapon.medium.Defib_lineart {
+      background-position: -2080px -52px; }
+    .weapon.medium.DesertEagle_lineart {
+      background-position: -2288px -52px; }
+    .weapon.medium.EODbot_lineart {
+      background-position: -2496px -52px; }
+    .weapon.medium.F2000_lineart {
+      background-position: -2704px -52px; }
+    .weapon.medium.FAMAS_lineart {
+      background-position: 0 -104px; }
+    .weapon.medium.FGM148_javelin_lineart {
+      background-position: -208px -104px; }
+    .weapon.medium.FGM172_sraw_lineart {
+      background-position: -416px -104px; }
+    .weapon.medium.FIM92_stinger_lineart {
+      background-position: -624px -104px; }
+    .weapon.medium.FN57_lineart {
+      background-position: -832px -104px; }
+    .weapon.medium.FYJS_lineart {
+      background-position: -1040px -104px; }
+    .weapon.medium.GOL_lineart {
+      background-position: -1248px -104px; }
+    .weapon.medium.Galil_ACE21CQB_lineart {
+      background-position: -1456px -104px; }
+    .weapon.medium.Galil_ACE23_lineart {
+      background-position: -1664px -104px; }
+    .weapon.medium.Galil_ACE52CQB_lineart {
+      background-position: -1872px -104px; }
+    .weapon.medium.Galil_ACE53SV_lineart {
+      background-position: -2080px -104px; }
+    .weapon.medium.Groza1_lineart {
+      background-position: -2288px -104px; }
+    .weapon.medium.Groza4_lineart {
+      background-position: -2496px -104px; }
+    .weapon.medium.HAWK12g_lineart {
+      background-position: -2704px -104px; }
+    .weapon.medium.HK45C_lineart {
+      background-position: 0 -156px; }
+    .weapon.medium.HVM_starstreak_lineart {
+      background-position: -208px -156px; }
+    .weapon.medium.Handflare_lineart {
+      background-position: -416px -156px; }
+    .weapon.medium.JNG90_lineart {
+      background-position: -624px -156px; }
+    .weapon.medium.JS2_lineart {
+      background-position: -832px -156px; }
+    .weapon.medium.Knife_Tanto_lineart {
+      background-position: -1040px -156px; }
+    .weapon.medium.Knife_Weaver_lineart {
+      background-position: -1248px -156px; }
+    .weapon.medium.L85A2_lineart {
+      background-position: -1456px -156px; }
+    .weapon.medium.L86A1_lineart {
+      background-position: -1664px -156px; }
+    .weapon.medium.L96A1_lineart {
+      background-position: -1872px -156px; }
+    .weapon.medium.LSAT_lineart {
+      background-position: -2080px -156px; }
+    .weapon.medium.M136_lineart {
+      background-position: -2288px -156px; }
+    .weapon.medium.M18_smoke_lineart {
+      background-position: -2496px -156px; }
+    .weapon.medium.M200_SRR61_lineart {
+      background-position: -2704px -156px; }
+    .weapon.medium.M224_mortar_lineart {
+      background-position: 0 -208px; }
+    .weapon.medium.M26Mass_FLC_lineart {
+      background-position: -208px -208px; }
+    .weapon.medium.M26Mass_FRG_lineart {
+      background-position: -416px -208px; }
+    .weapon.medium.M26Mass_SG_lineart {
+      background-position: -624px -208px; }
+    .weapon.medium.M26Mass_lineart {
+      background-position: -832px -208px; }
+    .weapon.medium.M2_SLAM_lineart {
+      background-position: -1040px -208px; }
+    .weapon.medium.M320_3GL_lineart {
+      background-position: -1248px -208px; }
+    .weapon.medium.M320_FLASH_lineart {
+      background-position: -1456px -208px; }
+    .weapon.medium.M320_LVG_lineart {
+      background-position: -1664px -208px; }
+    .weapon.medium.M320_SG_lineart {
+      background-position: -1872px -208px; }
+    .weapon.medium.M320_SMK_lineart {
+      background-position: -2080px -208px; }
+    .weapon.medium.M320_lineart {
+      background-position: -2288px -208px; }
+    .weapon.medium.M34_incendiary_lineart {
+      background-position: -2496px -208px; }
+    .weapon.medium.M60E4_lineart {
+      background-position: -2704px -208px; }
+    .weapon.medium.M67_grenade_lineart {
+      background-position: 0 -260px; }
+    .weapon.medium.M82A3_CQB_lineart {
+      background-position: -208px -260px; }
+    .weapon.medium.M82A3_FAR_lineart {
+      background-position: -416px -260px; }
+    .weapon.medium.M82A3_MED_lineart {
+      background-position: -624px -260px; }
+    .weapon.medium.M84_flashbang_lineart {
+      background-position: -832px -260px; }
+    .weapon.medium.M9_lineart {
+      background-position: -1040px -260px; }
+    .weapon.medium.MBT_law_lineart {
+      background-position: -1248px -260px; }
+    .weapon.medium.MG4_lineart {
+      background-position: -1456px -260px; }
+    .weapon.medium.MGL_lineart {
+      background-position: -1664px -260px; }
+    .weapon.medium.MK153_smaw_lineart {
+      background-position: -1872px -260px; }
+    .weapon.medium.MP412REX_lineart {
+      background-position: -2080px -260px; }
+    .weapon.medium.MPX_lineart {
+      background-position: -2288px -260px; }
+    .weapon.medium.MTAR21_lineart {
+      background-position: -2496px -260px; }
+    .weapon.medium.MX4_lineart {
+      background-position: -2704px -260px; }
+    .weapon.medium.Machete_lineart {
+      background-position: 0 -312px; }
+    .weapon.medium.P226_lineart {
+      background-position: -208px -312px; }
+    .weapon.medium.P90_lineart {
+      background-position: -416px -312px; }
+    .weapon.medium.QBB95_lineart {
+      background-position: -624px -312px; }
+    .weapon.medium.QBS09_lineart {
+      background-position: -832px -312px; }
+    .weapon.medium.QBU88_lineart {
+      background-position: -1040px -312px; }
+    .weapon.medium.QBZ951_lineart {
+      background-position: -1248px -312px; }
+    .weapon.medium.QSZ-92_lineart {
+      background-position: -1456px -312px; }
+    .weapon.medium.RFB_lineart {
+      background-position: -1664px -312px; }
+    .weapon.medium.RGO_impact_lineart {
+      background-position: -1872px -312px; }
+    .weapon.medium.RPG7_lineart {
+      background-position: -2080px -312px; }
+    .weapon.medium.RPK12_lineart {
+      background-position: -2288px -312px; }
+    .weapon.medium.RPK74_lineart {
+      background-position: -2496px -312px; }
+    .weapon.medium.Railgun_lineart {
+      background-position: -2704px -312px; }
+    .weapon.medium.RepairTool_lineart {
+      background-position: 0 -364px; }
+    .weapon.medium.SA18_IGLA_lineart {
+      background-position: -208px -364px; }
+    .weapon.medium.SAR21_lineart {
+      background-position: -416px -364px; }
+    .weapon.medium.SHORTY12g_lineart {
+      background-position: -624px -364px; }
+    .weapon.medium.SH_lineart {
+      background-position: -832px -364px; }
+    .weapon.medium.SPAS12_lineart {
+      background-position: -1040px -364px; }
+    .weapon.medium.SR2_lineart {
+      background-position: -1248px -364px; }
+    .weapon.medium.SR338_lineart {
+      background-position: -1456px -364px; }
+    .weapon.medium.SRS_338RECON_lineart {
+      background-position: -1664px -364px; }
+    .weapon.medium.SV98_lineart {
+      background-position: -1872px -364px; }
+    .weapon.medium.SVD12_lineart {
+      background-position: -2080px -364px; }
+    .weapon.medium.SW40_lineart {
+      background-position: -2288px -364px; }
+    .weapon.medium.Saddlegun_lineart {
+      background-position: -2496px -364px; }
+    .weapon.medium.Scorpion_lineart {
+      background-position: -2704px -364px; }
+    .weapon.medium.ScoutElite_lineart {
+      background-position: 0 -416px; }
+    .weapon.medium.Shank_lineart {
+      background-position: -208px -416px; }
+    .weapon.medium.Shield_lineart {
+      background-position: -416px -416px; }
+    .weapon.medium.SteyrAUG_lineart {
+      background-position: -624px -416px; }
+    .weapon.medium.Type95B1_lineart {
+      background-position: -832px -416px; }
+    .weapon.medium.UCAV_lineart {
+      background-position: -1040px -416px; }
+    .weapon.medium.UTAS_lineart {
+      background-position: -1248px -416px; }
+    .weapon.medium.Ultimax_lineart {
+      background-position: -1456px -416px; }
+    .weapon.medium.Unica6_lineart {
+      background-position: -1664px -416px; }
+    .weapon.medium.V40_mini_lineart {
+      background-position: -1872px -416px; }
+    .weapon.medium.XM25_FLC_lineart {
+      background-position: -2080px -416px; }
+    .weapon.medium.XM25_SMK_lineart {
+      background-position: -2288px -416px; }
+    .weapon.medium.XM25_lineart {
+      background-position: -2496px -416px; }
+    .weapon.medium.a91_lineart {
+      background-position: -2704px -416px; }
+    .weapon.medium.aek971_lineart {
+      background-position: 0 -468px; }
+    .weapon.medium.g36c_lineart {
+      background-position: -208px -468px; }
+    .weapon.medium.glock18_lineart {
+      background-position: -416px -468px; }
+    .weapon.medium.knife_2142knife_lines {
+      background-position: -624px -468px; }
+    .weapon.medium.knife_bootknife_lines {
+      background-position: -832px -468px; }
+    .weapon.medium.knife_bowie_lineart {
+      background-position: -1040px -468px; }
+    .weapon.medium.knife_carbon_lineart {
+      background-position: -1248px -468px; }
+    .weapon.medium.knife_combat_ACB90_lineart {
+      background-position: -1456px -468px; }
+    .weapon.medium.knife_diverknife_lines {
+      background-position: -1664px -468px; }
+    .weapon.medium.knife_improvised_lineart {
+      background-position: -1872px -468px; }
+    .weapon.medium.knife_lineart {
+      background-position: -2080px -468px; }
+    .weapon.medium.knife_neckknife_lines {
+      background-position: -2288px -468px; }
+    .weapon.medium.knife_precisionknife_lines {
+      background-position: -2496px -468px; }
+    .weapon.medium.knife_scout_lineart {
+      background-position: -2704px -468px; }
+    .weapon.medium.knife_sealknife_lines {
+      background-position: 0 -520px; }
+    .weapon.medium.knife_survival_lineart {
+      background-position: -208px -520px; }
+    .weapon.medium.knife_tactical2knife_lines {
+      background-position: -416px -520px; }
+    .weapon.medium.knife_trench_lineart {
+      background-position: -624px -520px; }
+    .weapon.medium.m1014_lineart {
+      background-position: -832px -520px; }
+    .weapon.medium.m16a4_lineart {
+      background-position: -1040px -520px; }
+    .weapon.medium.m1911_lineart {
+      background-position: -1248px -520px; }
+    .weapon.medium.m240_lineart {
+      background-position: -1456px -520px; }
+    .weapon.medium.m249_lineart {
+      background-position: -1664px -520px; }
+    .weapon.medium.m39_lineart {
+      background-position: -1872px -520px; }
+    .weapon.medium.m40a5_lineart {
+      background-position: -2080px -520px; }
+    .weapon.medium.m416_lineart {
+      background-position: -2288px -520px; }
+    .weapon.medium.m4a1_lineart {
+      background-position: -2496px -520px; }
+    .weapon.medium.m93r_lineart {
+      background-position: -2704px -520px; }
+    .weapon.medium.m98b_lineart {
+      background-position: 0 -572px; }
+    .weapon.medium.magpulPDR_lineart {
+      background-position: -208px -572px; }
+    .weapon.medium.mk11_lineart {
+      background-position: -416px -572px; }
+    .weapon.medium.mp443_grach_lineart {
+      background-position: -624px -572px; }
+    .weapon.medium.mp7_lineart {
+      background-position: -832px -572px; }
+    .weapon.medium.pecheneg_lineart {
+      background-position: -1040px -572px; }
+    .weapon.medium.pp2000_lineart {
+      background-position: -1248px -572px; }
+    .weapon.medium.remington870_lineart {
+      background-position: -1456px -572px; }
+    .weapon.medium.saiga12_lineart {
+      background-position: -1664px -572px; }
+    .weapon.medium.scarHSV_lineart {
+      background-position: -1872px -572px; }
+    .weapon.medium.scarh_lineart {
+      background-position: -2080px -572px; }
+    .weapon.medium.sg553lb_lineart {
+      background-position: -2288px -572px; }
+    .weapon.medium.sks_lineart {
+      background-position: -2496px -572px; }
+    .weapon.medium.taurus44_lineart {
+      background-position: -2704px -572px; }
+    .weapon.medium.type88_lineart {
+      background-position: 0 -624px; }
+    .weapon.medium.ump9_lineart {
+      background-position: -208px -624px; }
+    .weapon.medium.ump_lineart {
+      background-position: -416px -624px; }
+    .weapon.medium.usas12_BP_lineart {
+      background-position: -624px -624px; }
+    .weapon.medium.usas12_NV_lineart {
+      background-position: -832px -624px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weapon {
+  display: inline-block; }
+  .weapon.small {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/small.png);
+    width: 128px;
+    height: 32px;
+    background-size: 1792px 416px;
+    }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weapon.small {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/small@2x.png); } }
+    .weapon.small.AAMine_lineart {
+      background-position: 0 0; }
+    .weapon.small.ACWR_lineart {
+      background-position: -128px 0; }
+    .weapon.small.AK12_lineart {
+      background-position: -256px 0; }
+    .weapon.small.AK5C_lineart {
+      background-position: -384px 0; }
+    .weapon.small.AKU12_lineart {
+      background-position: -512px 0; }
+    .weapon.small.AMR_CQB_lineart {
+      background-position: -640px 0; }
+    .weapon.small.AMR_FAR_lineart {
+      background-position: -768px 0; }
+    .weapon.small.AMR_MED_lineart {
+      background-position: -896px 0; }
+    .weapon.small.AN94_lineart {
+      background-position: -1024px 0; }
+    .weapon.small.AR160_lineart {
+      background-position: -1152px 0; }
+    .weapon.small.ASVal_lineart {
+      background-position: -1280px 0; }
+    .weapon.small.AT_mine_lineart {
+      background-position: -1408px 0; }
+    .weapon.small.AWS_lineart {
+      background-position: -1536px 0; }
+    .weapon.small.Bulldog_lineart {
+      background-position: -1664px 0; }
+    .weapon.small.C100_lineart {
+      background-position: 0 -32px; }
+    .weapon.small.C4_lineart {
+      background-position: -128px -32px; }
+    .weapon.small.CBJMS_lineart {
+      background-position: -256px -32px; }
+    .weapon.small.CS5_lineart {
+      background-position: -384px -32px; }
+    .weapon.small.CSLR4_lineart {
+      background-position: -512px -32px; }
+    .weapon.small.CZ75_lineart {
+      background-position: -640px -32px; }
+    .weapon.small.CZ805_lineart {
+      background-position: -768px -32px; }
+    .weapon.small.Claymore_lineart {
+      background-position: -896px -32px; }
+    .weapon.small.DAO12_lineart {
+      background-position: -1024px -32px; }
+    .weapon.small.DBV12_lineart {
+      background-position: -1152px -32px; }
+    .weapon.small.Defib_lineart {
+      background-position: -1280px -32px; }
+    .weapon.small.DesertEagle_lineart {
+      background-position: -1408px -32px; }
+    .weapon.small.EODbot_lineart {
+      background-position: -1536px -32px; }
+    .weapon.small.F2000_lineart {
+      background-position: -1664px -32px; }
+    .weapon.small.FAMAS_lineart {
+      background-position: 0 -64px; }
+    .weapon.small.FGM148_javelin_lineart {
+      background-position: -128px -64px; }
+    .weapon.small.FGM172_sraw_lineart {
+      background-position: -256px -64px; }
+    .weapon.small.FIM92_stinger_lineart {
+      background-position: -384px -64px; }
+    .weapon.small.FN57_lineart {
+      background-position: -512px -64px; }
+    .weapon.small.FYJS_lineart {
+      background-position: -640px -64px; }
+    .weapon.small.GOL_lineart {
+      background-position: -768px -64px; }
+    .weapon.small.Galil_ACE21CQB_lineart {
+      background-position: -896px -64px; }
+    .weapon.small.Galil_ACE23_lineart {
+      background-position: -1024px -64px; }
+    .weapon.small.Galil_ACE52CQB_lineart {
+      background-position: -1152px -64px; }
+    .weapon.small.Galil_ACE53SV_lineart {
+      background-position: -1280px -64px; }
+    .weapon.small.Groza1_lineart {
+      background-position: -1408px -64px; }
+    .weapon.small.Groza4_lineart {
+      background-position: -1536px -64px; }
+    .weapon.small.HAWK12g_lineart {
+      background-position: -1664px -64px; }
+    .weapon.small.HK45C_lineart {
+      background-position: 0 -96px; }
+    .weapon.small.HVM_starstreak_lineart {
+      background-position: -128px -96px; }
+    .weapon.small.Handflare_lineart {
+      background-position: -256px -96px; }
+    .weapon.small.JNG90_lineart {
+      background-position: -384px -96px; }
+    .weapon.small.JS2_lineart {
+      background-position: -512px -96px; }
+    .weapon.small.Knife_Tanto_lineart {
+      background-position: -640px -96px; }
+    .weapon.small.Knife_Weaver_lineart {
+      background-position: -768px -96px; }
+    .weapon.small.L85A2_lineart {
+      background-position: -896px -96px; }
+    .weapon.small.L86A1_lineart {
+      background-position: -1024px -96px; }
+    .weapon.small.L96A1_lineart {
+      background-position: -1152px -96px; }
+    .weapon.small.LSAT_lineart {
+      background-position: -1280px -96px; }
+    .weapon.small.M136_lineart {
+      background-position: -1408px -96px; }
+    .weapon.small.M18_smoke_lineart {
+      background-position: -1536px -96px; }
+    .weapon.small.M200_SRR61_lineart {
+      background-position: -1664px -96px; }
+    .weapon.small.M224_mortar_lineart {
+      background-position: 0 -128px; }
+    .weapon.small.M26Mass_FLC_lineart {
+      background-position: -128px -128px; }
+    .weapon.small.M26Mass_FRG_lineart {
+      background-position: -256px -128px; }
+    .weapon.small.M26Mass_SG_lineart {
+      background-position: -384px -128px; }
+    .weapon.small.M26Mass_lineart {
+      background-position: -512px -128px; }
+    .weapon.small.M2_SLAM_lineart {
+      background-position: -640px -128px; }
+    .weapon.small.M320_3GL_lineart {
+      background-position: -768px -128px; }
+    .weapon.small.M320_FLASH_lineart {
+      background-position: -896px -128px; }
+    .weapon.small.M320_LVG_lineart {
+      background-position: -1024px -128px; }
+    .weapon.small.M320_SG_lineart {
+      background-position: -1152px -128px; }
+    .weapon.small.M320_SMK_lineart {
+      background-position: -1280px -128px; }
+    .weapon.small.M320_lineart {
+      background-position: -1408px -128px; }
+    .weapon.small.M34_incendiary_lineart {
+      background-position: -1536px -128px; }
+    .weapon.small.M60E4_lineart {
+      background-position: -1664px -128px; }
+    .weapon.small.M67_grenade_lineart {
+      background-position: 0 -160px; }
+    .weapon.small.M82A3_CQB_lineart {
+      background-position: -128px -160px; }
+    .weapon.small.M82A3_FAR_lineart {
+      background-position: -256px -160px; }
+    .weapon.small.M82A3_MED_lineart {
+      background-position: -384px -160px; }
+    .weapon.small.M84_flashbang_lineart {
+      background-position: -512px -160px; }
+    .weapon.small.M9_lineart {
+      background-position: -640px -160px; }
+    .weapon.small.MBT_law_lineart {
+      background-position: -768px -160px; }
+    .weapon.small.MG4_lineart {
+      background-position: -896px -160px; }
+    .weapon.small.MGL_lineart {
+      background-position: -1024px -160px; }
+    .weapon.small.MK153_smaw_lineart {
+      background-position: -1152px -160px; }
+    .weapon.small.MP412REX_lineart {
+      background-position: -1280px -160px; }
+    .weapon.small.MPX_lineart {
+      background-position: -1408px -160px; }
+    .weapon.small.MTAR21_lineart {
+      background-position: -1536px -160px;
+      }
+    .weapon.small.MX4_lineart {
+      background-position: -1664px -160px; }
+    .weapon.small.Machete_lineart {
+      background-position: 0 -192px; }
+    .weapon.small.P226_lineart {
+      background-position: -128px -192px; }
+    .weapon.small.P90_lineart {
+      background-position: -256px -192px; }
+    .weapon.small.QBB95_lineart {
+      background-position: -384px -192px; }
+    .weapon.small.QBS09_lineart {
+      background-position: -512px -192px; }
+    .weapon.small.QBU88_lineart {
+      background-position: -640px -192px; }
+    .weapon.small.QBZ951_lineart {
+      background-position: -768px -192px; }
+    .weapon.small.QSZ-92_lineart {
+      background-position: -896px -192px; }
+    .weapon.small.RFB_lineart {
+      background-position: -1024px -192px; }
+    .weapon.small.RGO_impact_lineart {
+      background-position: -1152px -192px; }
+    .weapon.small.RPG7_lineart {
+      background-position: -1280px -192px; }
+    .weapon.small.RPK12_lineart {
+      background-position: -1408px -192px; }
+    .weapon.small.RPK74_lineart {
+      background-position: -1536px -192px; }
+    .weapon.small.Railgun_lineart {
+      background-position: -1664px -192px; }
+    .weapon.small.RepairTool_lineart {
+      background-position: 0 -224px; }
+    .weapon.small.SA18_IGLA_lineart {
+      background-position: -128px -224px; }
+    .weapon.small.SAR21_lineart {
+      background-position: -256px -224px; }
+    .weapon.small.SHORTY12g_lineart {
+      background-position: -384px -224px; }
+    .weapon.small.SH_lineart {
+      background-position: -512px -224px; }
+    .weapon.small.SPAS12_lineart {
+      background-position: -640px -224px; }
+    .weapon.small.SR2_lineart {
+      background-position: -768px -224px; }
+    .weapon.small.SR338_lineart {
+      background-position: -896px -224px; }
+    .weapon.small.SRS_338RECON_lineart {
+      background-position: -1024px -224px; }
+    .weapon.small.SV98_lineart {
+      background-position: -1152px -224px; }
+    .weapon.small.SVD12_lineart {
+      background-position: -1280px -224px; }
+    .weapon.small.SW40_lineart {
+      background-position: -1408px -224px; }
+    .weapon.small.Saddlegun_lineart {
+      background-position: -1536px -224px; }
+    .weapon.small.Scorpion_lineart {
+      background-position: -1664px -224px; }
+    .weapon.small.ScoutElite_lineart {
+      background-position: 0 -256px; }
+    .weapon.small.Shank_lineart {
+      background-position: -128px -256px; }
+    .weapon.small.Shield_lineart {
+      background-position: -256px -256px; }
+    .weapon.small.SteyrAUG_lineart {
+      background-position: -384px -256px; }
+    .weapon.small.Type95B1_lineart {
+      background-position: -512px -256px; }
+    .weapon.small.UCAV_lineart {
+      background-position: -640px -256px; }
+    .weapon.small.UTAS_lineart {
+      background-position: -768px -256px; }
+    .weapon.small.Ultimax_lineart {
+      background-position: -896px -256px; }
+    .weapon.small.Unica6_lineart {
+      background-position: -1024px -256px; }
+    .weapon.small.V40_mini_lineart {
+      background-position: -1152px -256px; }
+    .weapon.small.XM25_FLC_lineart {
+      background-position: -1280px -256px; }
+    .weapon.small.XM25_SMK_lineart {
+      background-position: -1408px -256px; }
+    .weapon.small.XM25_lineart {
+      background-position: -1536px -256px; }
+    .weapon.small.a91_lineart {
+      background-position: -1664px -256px; }
+    .weapon.small.aek971_lineart {
+      background-position: 0 -288px; }
+    .weapon.small.g36c_lineart {
+      background-position: -128px -288px; }
+    .weapon.small.glock18_lineart {
+      background-position: -256px -288px; }
+    .weapon.small.knife_2142knife_lines {
+      background-position: -384px -288px; }
+    .weapon.small.knife_bootknife_lines {
+      background-position: -512px -288px; }
+    .weapon.small.knife_bowie_lineart {
+      background-position: -640px -288px; }
+    .weapon.small.knife_carbon_lineart {
+      background-position: -768px -288px; }
+    .weapon.small.knife_combat_ACB90_lineart {
+      background-position: -896px -288px; }
+    .weapon.small.knife_diverknife_lines {
+      background-position: -1024px -288px; }
+    .weapon.small.knife_improvised_lineart {
+      background-position: -1152px -288px; }
+    .weapon.small.knife_lineart {
+      background-position: -1280px -288px; }
+    .weapon.small.knife_neckknife_lines {
+      background-position: -1408px -288px; }
+    .weapon.small.knife_precisionknife_lines {
+      background-position: -1536px -288px; }
+    .weapon.small.knife_scout_lineart {
+      background-position: -1664px -288px; }
+    .weapon.small.knife_sealknife_lines {
+      background-position: 0 -320px; }
+    .weapon.small.knife_survival_lineart {
+      background-position: -128px -320px; }
+    .weapon.small.knife_tactical2knife_lines {
+      background-position: -256px -320px; }
+    .weapon.small.knife_trench_lineart {
+      background-position: -384px -320px; }
+    .weapon.small.m1014_lineart {
+      background-position: -512px -320px; }
+    .weapon.small.m16a4_lineart {
+      background-position: -640px -320px; }
+    .weapon.small.m1911_lineart {
+      background-position: -768px -320px; }
+    .weapon.small.m240_lineart {
+      background-position: -896px -320px; }
+    .weapon.small.m249_lineart {
+      background-position: -1024px -320px; }
+    .weapon.small.m39_lineart {
+      background-position: -1152px -320px; }
+    .weapon.small.m40a5_lineart {
+      background-position: -1280px -320px; }
+    .weapon.small.m416_lineart {
+      background-position: -1408px -320px; }
+    .weapon.small.m4a1_lineart {
+      background-position: -1536px -320px; }
+    .weapon.small.m93r_lineart {
+      background-position: -1664px -320px; }
+    .weapon.small.m98b_lineart {
+      background-position: 0 -352px; }
+    .weapon.small.magpulPDR_lineart {
+      background-position: -128px -352px; }
+    .weapon.small.mk11_lineart {
+      background-position: -256px -352px; }
+    .weapon.small.mp443_grach_lineart {
+      background-position: -384px -352px; }
+    .weapon.small.mp7_lineart {
+      background-position: -512px -352px; }
+    .weapon.small.pecheneg_lineart {
+      background-position: -640px -352px; }
+    .weapon.small.pp2000_lineart {
+      background-position: -768px -352px; }
+    .weapon.small.remington870_lineart {
+      background-position: -896px -352px; }
+    .weapon.small.saiga12_lineart {
+      background-position: -1024px -352px; }
+    .weapon.small.scarHSV_lineart {
+      background-position: -1152px -352px; }
+    .weapon.small.scarh_lineart {
+      background-position: -1280px -352px; }
+    .weapon.small.sg553lb_lineart {
+      background-position: -1408px -352px; }
+    .weapon.small.sks_lineart {
+      background-position: -1536px -352px; }
+    .weapon.small.taurus44_lineart {
+      background-position: -1664px -352px; }
+    .weapon.small.type88_lineart {
+      background-position: 0 -384px; }
+    .weapon.small.ump9_lineart {
+      background-position: -128px -384px; }
+    .weapon.small.ump_lineart {
+      background-position: -256px -384px; }
+    .weapon.small.usas12_BP_lineart {
+      background-position: -384px -384px; }
+    .weapon.small.usas12_NV_lineart {
+      background-position: -512px -384px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weapon {
+  display: inline-block; }
+  .weapon.smallinv {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/smallinv.png);
+    width: 128px;
+    height: 32px;
+    background-size: 1792px 416px;
+    }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weapon.smallinv {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/smallinv@2x.png);
+        } }
+    .weapon.smallinv.AAMine_lineart {
+      background-position: 0 0; }
+    .weapon.smallinv.ACWR_lineart {
+      background-position: -128px 0; }
+    .weapon.smallinv.AK12_lineart {
+      background-position: -256px 0; }
+    .weapon.smallinv.AK5C_lineart {
+      background-position: -384px 0; }
+    .weapon.smallinv.AKU12_lineart {
+      background-position: -512px 0; }
+    .weapon.smallinv.AMR_CQB_lineart {
+      background-position: -640px 0; }
+    .weapon.smallinv.AMR_FAR_lineart {
+      background-position: -768px 0; }
+    .weapon.smallinv.AMR_MED_lineart {
+      background-position: -896px 0; }
+    .weapon.smallinv.AN94_lineart {
+      background-position: -1024px 0; }
+    .weapon.smallinv.AR160_lineart {
+      background-position: -1152px 0; }
+    .weapon.smallinv.ASVal_lineart {
+      background-position: -1280px 0; }
+    .weapon.smallinv.AT_mine_lineart {
+      background-position: -1408px 0; }
+    .weapon.smallinv.AWS_lineart {
+      background-position: -1536px 0; }
+    .weapon.smallinv.Bulldog_lineart {
+      background-position: -1664px 0; }
+    .weapon.smallinv.C100_lineart {
+      background-position: 0 -32px; }
+    .weapon.smallinv.C4_lineart {
+      background-position: -128px -32px; }
+    .weapon.smallinv.CBJMS_lineart {
+      background-position: -256px -32px; }
+    .weapon.smallinv.CS5_lineart {
+      background-position: -384px -32px; }
+    .weapon.smallinv.CSLR4_lineart {
+      background-position: -512px -32px; }
+    .weapon.smallinv.CZ75_lineart {
+      background-position: -640px -32px; }
+    .weapon.smallinv.CZ805_lineart {
+      background-position: -768px -32px; }
+    .weapon.smallinv.Claymore_lineart {
+      background-position: -896px -32px; }
+    .weapon.smallinv.DAO12_lineart {
+      background-position: -1024px -32px; }
+    .weapon.smallinv.DBV12_lineart {
+      background-position: -1152px -32px; }
+    .weapon.smallinv.Defib_lineart {
+      background-position: -1280px -32px; }
+    .weapon.smallinv.DesertEagle_lineart {
+      background-position: -1408px -32px; }
+    .weapon.smallinv.EODbot_lineart {
+      background-position: -1536px -32px; }
+    .weapon.smallinv.F2000_lineart {
+      background-position: -1664px -32px; }
+    .weapon.smallinv.FAMAS_lineart {
+      background-position: 0 -64px; }
+    .weapon.smallinv.FGM148_javelin_lineart {
+      background-position: -128px -64px; }
+    .weapon.smallinv.FGM172_sraw_lineart {
+      background-position: -256px -64px; }
+    .weapon.smallinv.FIM92_stinger_lineart {
+      background-position: -384px -64px; }
+    .weapon.smallinv.FN57_lineart {
+      background-position: -512px -64px; }
+    .weapon.smallinv.FYJS_lineart {
+      background-position: -640px -64px; }
+    .weapon.smallinv.GOL_lineart {
+      background-position: -768px -64px; }
+    .weapon.smallinv.Galil_ACE21CQB_lineart {
+      background-position: -896px -64px; }
+    .weapon.smallinv.Galil_ACE23_lineart {
+      background-position: -1024px -64px; }
+    .weapon.smallinv.Galil_ACE52CQB_lineart {
+      background-position: -1152px -64px; }
+    .weapon.smallinv.Galil_ACE53SV_lineart {
+      background-position: -1280px -64px; }
+    .weapon.smallinv.Groza1_lineart {
+      background-position: -1408px -64px; }
+    .weapon.smallinv.Groza4_lineart {
+      background-position: -1536px -64px; }
+    .weapon.smallinv.HAWK12g_lineart {
+      background-position: -1664px -64px; }
+    .weapon.smallinv.HK45C_lineart {
+      background-position: 0 -96px; }
+    .weapon.smallinv.HVM_starstreak_lineart {
+      background-position: -128px -96px; }
+    .weapon.smallinv.Handflare_lineart {
+      background-position: -256px -96px; }
+    .weapon.smallinv.JNG90_lineart {
+      background-position: -384px -96px; }
+    .weapon.smallinv.JS2_lineart {
+      background-position: -512px -96px; }
+    .weapon.smallinv.Knife_Tanto_lineart {
+      background-position: -640px -96px; }
+    .weapon.smallinv.Knife_Weaver_lineart {
+      background-position: -768px -96px; }
+    .weapon.smallinv.L85A2_lineart {
+      background-position: -896px -96px; }
+    .weapon.smallinv.L86A1_lineart {
+      background-position: -1024px -96px; }
+    .weapon.smallinv.L96A1_lineart {
+      background-position: -1152px -96px; }
+    .weapon.smallinv.LSAT_lineart {
+      background-position: -1280px -96px; }
+    .weapon.smallinv.M136_lineart {
+      background-position: -1408px -96px; }
+    .weapon.smallinv.M18_smoke_lineart {
+      background-position: -1536px -96px; }
+    .weapon.smallinv.M200_SRR61_lineart {
+      background-position: -1664px -96px; }
+    .weapon.smallinv.M224_mortar_lineart {
+      background-position: 0 -128px; }
+    .weapon.smallinv.M26Mass_FLC_lineart {
+      background-position: -128px -128px; }
+    .weapon.smallinv.M26Mass_FRG_lineart {
+      background-position: -256px -128px; }
+    .weapon.smallinv.M26Mass_SG_lineart {
+      background-position: -384px -128px; }
+    .weapon.smallinv.M26Mass_lineart {
+      background-position: -512px -128px; }
+    .weapon.smallinv.M2_SLAM_lineart {
+      background-position: -640px -128px; }
+    .weapon.smallinv.M320_3GL_lineart {
+      background-position: -768px -128px; }
+    .weapon.smallinv.M320_FLASH_lineart {
+      background-position: -896px -128px; }
+    .weapon.smallinv.M320_LVG_lineart {
+      background-position: -1024px -128px; }
+    .weapon.smallinv.M320_SG_lineart {
+      background-position: -1152px -128px; }
+    .weapon.smallinv.M320_SMK_lineart {
+      background-position: -1280px -128px; }
+    .weapon.smallinv.M320_lineart {
+      background-position: -1408px -128px; }
+    .weapon.smallinv.M34_incendiary_lineart {
+      background-position: -1536px -128px; }
+    .weapon.smallinv.M60E4_lineart {
+      background-position: -1664px -128px; }
+    .weapon.smallinv.M67_grenade_lineart {
+      background-position: 0 -160px; }
+    .weapon.smallinv.M82A3_CQB_lineart {
+      background-position: -128px -160px; }
+    .weapon.smallinv.M82A3_FAR_lineart {
+      background-position: -256px -160px; }
+    .weapon.smallinv.M82A3_MED_lineart {
+      background-position: -384px -160px; }
+    .weapon.smallinv.M84_flashbang_lineart {
+      background-position: -512px -160px; }
+    .weapon.smallinv.M9_lineart {
+      background-position: -640px -160px; }
+    .weapon.smallinv.MBT_law_lineart {
+      background-position: -768px -160px; }
+    .weapon.smallinv.MG4_lineart {
+      background-position: -896px -160px; }
+    .weapon.smallinv.MGL_lineart {
+      background-position: -1024px -160px; }
+    .weapon.smallinv.MK153_smaw_lineart {
+      background-position: -1152px -160px; }
+    .weapon.smallinv.MP412REX_lineart {
+      background-position: -1280px -160px; }
+    .weapon.smallinv.MPX_lineart {
+      background-position: -1408px -160px; }
+    .weapon.smallinv.MTAR21_lineart {
+      background-position: -1536px -160px; }
+    .weapon.smallinv.MX4_lineart {
+      background-position: -1664px -160px; }
+    .weapon.smallinv.Machete_lineart {
+      background-position: 0 -192px; }
+    .weapon.smallinv.P226_lineart {
+      background-position: -128px -192px; }
+    .weapon.smallinv.P90_lineart {
+      background-position: -256px -192px; }
+    .weapon.smallinv.QBB95_lineart {
+      background-position: -384px -192px; }
+    .weapon.smallinv.QBS09_lineart {
+      background-position: -512px -192px; }
+    .weapon.smallinv.QBU88_lineart {
+      background-position: -640px -192px; }
+    .weapon.smallinv.QBZ951_lineart {
+      background-position: -768px -192px; }
+    .weapon.smallinv.QSZ-92_lineart {
+      background-position: -896px -192px; }
+    .weapon.smallinv.RFB_lineart {
+      background-position: -1024px -192px; }
+    .weapon.smallinv.RGO_impact_lineart {
+      background-position: -1152px -192px; }
+    .weapon.smallinv.RPG7_lineart {
+      background-position: -1280px -192px; }
+    .weapon.smallinv.RPK12_lineart {
+      background-position: -1408px -192px; }
+    .weapon.smallinv.RPK74_lineart {
+      background-position: -1536px -192px; }
+    .weapon.smallinv.Railgun_lineart {
+      background-position: -1664px -192px; }
+    .weapon.smallinv.RepairTool_lineart {
+      background-position: 0 -224px; }
+    .weapon.smallinv.SA18_IGLA_lineart {
+      background-position: -128px -224px; }
+    .weapon.smallinv.SAR21_lineart {
+      background-position: -256px -224px; }
+    .weapon.smallinv.SHORTY12g_lineart {
+      background-position: -384px -224px; }
+    .weapon.smallinv.SH_lineart {
+      background-position: -512px -224px; }
+    .weapon.smallinv.SPAS12_lineart {
+      background-position: -640px -224px; }
+    .weapon.smallinv.SR2_lineart {
+      background-position: -768px -224px; }
+    .weapon.smallinv.SR338_lineart {
+      background-position: -896px -224px; }
+    .weapon.smallinv.SRS_338RECON_lineart {
+      background-position: -1024px -224px; }
+    .weapon.smallinv.SV98_lineart {
+      background-position: -1152px -224px; }
+    .weapon.smallinv.SVD12_lineart {
+      background-position: -1280px -224px; }
+    .weapon.smallinv.SW40_lineart {
+      background-position: -1408px -224px; }
+    .weapon.smallinv.Saddlegun_lineart {
+      background-position: -1536px -224px; }
+    .weapon.smallinv.Scorpion_lineart {
+      background-position: -1664px -224px; }
+    .weapon.smallinv.ScoutElite_lineart {
+      background-position: 0 -256px; }
+    .weapon.smallinv.Shank_lineart {
+      background-position: -128px -256px; }
+    .weapon.smallinv.Shield_lineart {
+      background-position: -256px -256px; }
+    .weapon.smallinv.SteyrAUG_lineart {
+      background-position: -384px -256px; }
+    .weapon.smallinv.Type95B1_lineart {
+      background-position: -512px -256px; }
+    .weapon.smallinv.UCAV_lineart {
+      background-position: -640px -256px; }
+    .weapon.smallinv.UTAS_lineart {
+      background-position: -768px -256px; }
+    .weapon.smallinv.Ultimax_lineart {
+      background-position: -896px -256px; }
+    .weapon.smallinv.Unica6_lineart {
+      background-position: -1024px -256px; }
+    .weapon.smallinv.V40_mini_lineart {
+      background-position: -1152px -256px; }
+    .weapon.smallinv.XM25_FLC_lineart {
+      background-position: -1280px -256px; }
+    .weapon.smallinv.XM25_SMK_lineart {
+      background-position: -1408px -256px; }
+    .weapon.smallinv.XM25_lineart {
+      background-position: -1536px -256px; }
+    .weapon.smallinv.a91_lineart {
+      background-position: -1664px -256px; }
+    .weapon.smallinv.aek971_lineart {
+      background-position: 0 -288px; }
+    .weapon.smallinv.g36c_lineart {
+      background-position: -128px -288px; }
+    .weapon.smallinv.glock18_lineart {
+      background-position: -256px -288px; }
+    .weapon.smallinv.knife_2142knife_lines {
+      background-position: -384px -288px; }
+    .weapon.smallinv.knife_bootknife_lines {
+      background-position: -512px -288px; }
+    .weapon.smallinv.knife_bowie_lineart {
+      background-position: -640px -288px; }
+    .weapon.smallinv.knife_carbon_lineart {
+      background-position: -768px -288px; }
+    .weapon.smallinv.knife_combat_ACB90_lineart {
+      background-position: -896px -288px; }
+    .weapon.smallinv.knife_diverknife_lines {
+      background-position: -1024px -288px; }
+    .weapon.smallinv.knife_improvised_lineart {
+      background-position: -1152px -288px; }
+    .weapon.smallinv.knife_lineart {
+      background-position: -1280px -288px; }
+    .weapon.smallinv.knife_neckknife_lines {
+      background-position: -1408px -288px; }
+    .weapon.smallinv.knife_precisionknife_lines {
+      background-position: -1536px -288px; }
+    .weapon.smallinv.knife_scout_lineart {
+      background-position: -1664px -288px; }
+    .weapon.smallinv.knife_sealknife_lines {
+      background-position: 0 -320px; }
+    .weapon.smallinv.knife_survival_lineart {
+      background-position: -128px -320px; }
+    .weapon.smallinv.knife_tactical2knife_lines {
+      background-position: -256px -320px; }
+    .weapon.smallinv.knife_trench_lineart {
+      background-position: -384px -320px; }
+    .weapon.smallinv.m1014_lineart {
+      background-position: -512px -320px; }
+    .weapon.smallinv.m16a4_lineart {
+      background-position: -640px -320px; }
+    .weapon.smallinv.m1911_lineart {
+      background-position: -768px -320px; }
+    .weapon.smallinv.m240_lineart {
+      background-position: -896px -320px; }
+    .weapon.smallinv.m249_lineart {
+      background-position: -1024px -320px; }
+    .weapon.smallinv.m39_lineart {
+      background-position: -1152px -320px; }
+    .weapon.smallinv.m40a5_lineart {
+      background-position: -1280px -320px; }
+    .weapon.smallinv.m416_lineart {
+      background-position: -1408px -320px; }
+    .weapon.smallinv.m4a1_lineart {
+      background-position: -1536px -320px; }
+    .weapon.smallinv.m93r_lineart {
+      background-position: -1664px -320px; }
+    .weapon.smallinv.m98b_lineart {
+      background-position: 0 -352px; }
+    .weapon.smallinv.magpulPDR_lineart {
+      background-position: -128px -352px; }
+    .weapon.smallinv.mk11_lineart {
+      background-position: -256px -352px; }
+    .weapon.smallinv.mp443_grach_lineart {
+      background-position: -384px -352px; }
+    .weapon.smallinv.mp7_lineart {
+      background-position: -512px -352px; }
+    .weapon.smallinv.pecheneg_lineart {
+      background-position: -640px -352px; }
+    .weapon.smallinv.pp2000_lineart {
+      background-position: -768px -352px; }
+    .weapon.smallinv.remington870_lineart {
+      background-position: -896px -352px; }
+    .weapon.smallinv.saiga12_lineart {
+      background-position: -1024px -352px;
+      }
+    .weapon.smallinv.scarHSV_lineart {
+      background-position: -1152px -352px; }
+    .weapon.smallinv.scarh_lineart {
+      background-position: -1280px -352px; }
+    .weapon.smallinv.sg553lb_lineart {
+      background-position: -1408px -352px; }
+    .weapon.smallinv.sks_lineart {
+      background-position: -1536px -352px; }
+    .weapon.smallinv.taurus44_lineart {
+      background-position: -1664px -352px; }
+    .weapon.smallinv.type88_lineart {
+      background-position: 0 -384px; }
+    .weapon.smallinv.ump9_lineart {
+      background-position: -128px -384px; }
+    .weapon.smallinv.ump_lineart {
+      background-position: -256px -384px; }
+    .weapon.smallinv.usas12_BP_lineart {
+      background-position: -384px -384px; }
+    .weapon.smallinv.usas12_NV_lineart {
+      background-position: -512px -384px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weapon {
+  display: inline-block; }
+  .weapon.xsmall {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmall.png);
+    width: 64px;
+    height: 16px;
+    background-size: 896px 208px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weapon.xsmall {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmall@2x.png); } }
+    .weapon.xsmall.AAMine_lineart {
+      background-position: 0 0; }
+    .weapon.xsmall.ACWR_lineart {
+      background-position: -64px 0; }
+    .weapon.xsmall.AK12_lineart {
+      background-position: -128px 0; }
+    .weapon.xsmall.AK5C_lineart {
+      background-position: -192px 0; }
+    .weapon.xsmall.AKU12_lineart {
+      background-position: -256px 0; }
+    .weapon.xsmall.AMR_CQB_lineart {
+      background-position: -320px 0; }
+    .weapon.xsmall.AMR_FAR_lineart {
+      background-position: -384px 0; }
+    .weapon.xsmall.AMR_MED_lineart {
+      background-position: -448px 0; }
+    .weapon.xsmall.AN94_lineart {
+      background-position: -512px 0; }
+    .weapon.xsmall.AR160_lineart {
+      background-position: -576px 0; }
+    .weapon.xsmall.ASVal_lineart {
+      background-position: -640px 0; }
+    .weapon.xsmall.AT_mine_lineart {
+      background-position: -704px 0; }
+    .weapon.xsmall.AWS_lineart {
+      background-position: -768px 0; }
+    .weapon.xsmall.Bulldog_lineart {
+      background-position: -832px 0; }
+    .weapon.xsmall.C100_lineart {
+      background-position: 0 -16px; }
+    .weapon.xsmall.C4_lineart {
+      background-position: -64px -16px; }
+    .weapon.xsmall.CBJMS_lineart {
+      background-position: -128px -16px; }
+    .weapon.xsmall.CS5_lineart {
+      background-position: -192px -16px; }
+    .weapon.xsmall.CSLR4_lineart {
+      background-position: -256px -16px; }
+    .weapon.xsmall.CZ75_lineart {
+      background-position: -320px -16px; }
+    .weapon.xsmall.CZ805_lineart {
+      background-position: -384px -16px; }
+    .weapon.xsmall.Claymore_lineart {
+      background-position: -448px -16px; }
+    .weapon.xsmall.DAO12_lineart {
+      background-position: -512px -16px; }
+    .weapon.xsmall.DBV12_lineart {
+      background-position: -576px -16px; }
+    .weapon.xsmall.Defib_lineart {
+      background-position: -640px -16px; }
+    .weapon.xsmall.DesertEagle_lineart {
+      background-position: -704px -16px; }
+    .weapon.xsmall.EODbot_lineart {
+      background-position: -768px -16px; }
+    .weapon.xsmall.F2000_lineart {
+      background-position: -832px -16px; }
+    .weapon.xsmall.FAMAS_lineart {
+      background-position: 0 -32px; }
+    .weapon.xsmall.FGM148_javelin_lineart {
+      background-position: -64px -32px; }
+    .weapon.xsmall.FGM172_sraw_lineart {
+      background-position: -128px -32px; }
+    .weapon.xsmall.FIM92_stinger_lineart {
+      background-position: -192px -32px; }
+    .weapon.xsmall.FN57_lineart {
+      background-position: -256px -32px; }
+    .weapon.xsmall.FYJS_lineart {
+      background-position: -320px -32px; }
+    .weapon.xsmall.GOL_lineart {
+      background-position: -384px -32px; }
+    .weapon.xsmall.Galil_ACE21CQB_lineart {
+      background-position: -448px -32px; }
+    .weapon.xsmall.Galil_ACE23_lineart {
+      background-position: -512px -32px; }
+    .weapon.xsmall.Galil_ACE52CQB_lineart {
+      background-position: -576px -32px; }
+    .weapon.xsmall.Galil_ACE53SV_lineart {
+      background-position: -640px -32px; }
+    .weapon.xsmall.Groza1_lineart {
+      background-position: -704px -32px; }
+    .weapon.xsmall.Groza4_lineart {
+      background-position: -768px -32px; }
+    .weapon.xsmall.HAWK12g_lineart {
+      background-position: -832px -32px; }
+    .weapon.xsmall.HK45C_lineart {
+      background-position: 0 -48px; }
+    .weapon.xsmall.HVM_starstreak_lineart {
+      background-position: -64px -48px; }
+    .weapon.xsmall.Handflare_lineart {
+      background-position: -128px -48px; }
+    .weapon.xsmall.JNG90_lineart {
+      background-position: -192px -48px; }
+    .weapon.xsmall.JS2_lineart {
+      background-position: -256px -48px; }
+    .weapon.xsmall.Knife_Tanto_lineart {
+      background-position: -320px -48px; }
+    .weapon.xsmall.Knife_Weaver_lineart {
+      background-position: -384px -48px; }
+    .weapon.xsmall.L85A2_lineart {
+      background-position: -448px -48px; }
+    .weapon.xsmall.L86A1_lineart {
+      background-position: -512px -48px; }
+    .weapon.xsmall.L96A1_lineart {
+      background-position: -576px -48px; }
+    .weapon.xsmall.LSAT_lineart {
+      background-position: -640px -48px; }
+    .weapon.xsmall.M136_lineart {
+      background-position: -704px -48px; }
+    .weapon.xsmall.M18_smoke_lineart {
+      background-position: -768px -48px; }
+    .weapon.xsmall.M200_SRR61_lineart {
+      background-position: -832px -48px; }
+    .weapon.xsmall.M224_mortar_lineart {
+      background-position: 0 -64px; }
+    .weapon.xsmall.M26Mass_FLC_lineart {
+      background-position: -64px -64px; }
+    .weapon.xsmall.M26Mass_FRG_lineart {
+      background-position: -128px -64px; }
+    .weapon.xsmall.M26Mass_SG_lineart {
+      background-position: -192px -64px; }
+    .weapon.xsmall.M26Mass_lineart {
+      background-position: -256px -64px; }
+    .weapon.xsmall.M2_SLAM_lineart {
+      background-position: -320px -64px; }
+    .weapon.xsmall.M320_3GL_lineart {
+      background-position: -384px -64px; }
+    .weapon.xsmall.M320_FLASH_lineart {
+      background-position: -448px -64px; }
+    .weapon.xsmall.M320_LVG_lineart {
+      background-position: -512px -64px; }
+    .weapon.xsmall.M320_SG_lineart {
+      background-position: -576px -64px; }
+    .weapon.xsmall.M320_SMK_lineart {
+      background-position: -640px -64px; }
+    .weapon.xsmall.M320_lineart {
+      background-position: -704px -64px; }
+    .weapon.xsmall.M34_incendiary_lineart {
+      background-position: -768px -64px; }
+    .weapon.xsmall.M60E4_lineart {
+      background-position: -832px -64px; }
+    .weapon.xsmall.M67_grenade_lineart {
+      background-position: 0 -80px; }
+    .weapon.xsmall.M82A3_CQB_lineart {
+      background-position: -64px -80px; }
+    .weapon.xsmall.M82A3_FAR_lineart {
+      background-position: -128px -80px; }
+    .weapon.xsmall.M82A3_MED_lineart {
+      background-position: -192px -80px; }
+    .weapon.xsmall.M84_flashbang_lineart {
+      background-position: -256px -80px; }
+    .weapon.xsmall.M9_lineart {
+      background-position: -320px -80px; }
+    .weapon.xsmall.MBT_law_lineart {
+      background-position: -384px -80px; }
+    .weapon.xsmall.MG4_lineart {
+      background-position: -448px -80px; }
+    .weapon.xsmall.MGL_lineart {
+      background-position: -512px -80px; }
+    .weapon.xsmall.MK153_smaw_lineart {
+      background-position: -576px -80px; }
+    .weapon.xsmall.MP412REX_lineart {
+      background-position: -640px -80px; }
+    .weapon.xsmall.MPX_lineart {
+      background-position: -704px -80px; }
+    .weapon.xsmall.MTAR21_lineart {
+      background-position: -768px -80px; }
+    .weapon.xsmall.MX4_lineart {
+      background-position: -832px -80px; }
+    .weapon.xsmall.Machete_lineart {
+      background-position: 0 -96px; }
+    .weapon.xsmall.P226_lineart {
+      background-position: -64px -96px; }
+    .weapon.xsmall.P90_lineart {
+      background-position: -128px -96px; }
+    .weapon.xsmall.QBB95_lineart {
+      background-position: -192px -96px; }
+    .weapon.xsmall.QBS09_lineart {
+      background-position: -256px -96px; }
+    .weapon.xsmall.QBU88_lineart {
+      background-position: -320px -96px; }
+    .weapon.xsmall.QBZ951_lineart {
+      background-position: -384px -96px; }
+    .weapon.xsmall.QSZ-92_lineart {
+      background-position: -448px -96px; }
+    .weapon.xsmall.RFB_lineart {
+      background-position: -512px -96px; }
+    .weapon.xsmall.RGO_impact_lineart {
+      background-position: -576px -96px; }
+    .weapon.xsmall.RPG7_lineart {
+      background-position: -640px -96px; }
+    .weapon.xsmall.RPK12_lineart {
+      background-position: -704px -96px; }
+    .weapon.xsmall.RPK74_lineart {
+      background-position: -768px -96px; }
+    .weapon.xsmall.Railgun_lineart {
+      background-position: -832px -96px; }
+    .weapon.xsmall.RepairTool_lineart {
+      background-position: 0 -112px; }
+    .weapon.xsmall.SA18_IGLA_lineart {
+      background-position: -64px -112px; }
+    .weapon.xsmall.SAR21_lineart {
+      background-position: -128px -112px; }
+    .weapon.xsmall.SHORTY12g_lineart {
+      background-position: -192px -112px; }
+    .weapon.xsmall.SH_lineart {
+      background-position: -256px -112px; }
+    .weapon.xsmall.SPAS12_lineart {
+      background-position: -320px -112px; }
+    .weapon.xsmall.SR2_lineart {
+      background-position: -384px -112px; }
+    .weapon.xsmall.SR338_lineart {
+      background-position: -448px -112px; }
+    .weapon.xsmall.SRS_338RECON_lineart {
+      background-position: -512px -112px; }
+    .weapon.xsmall.SV98_lineart {
+      background-position: -576px -112px; }
+    .weapon.xsmall.SVD12_lineart {
+      background-position: -640px -112px; }
+    .weapon.xsmall.SW40_lineart {
+      background-position: -704px -112px; }
+    .weapon.xsmall.Saddlegun_lineart {
+      background-position: -768px -112px; }
+    .weapon.xsmall.Scorpion_lineart {
+      background-position: -832px -112px; }
+    .weapon.xsmall.ScoutElite_lineart {
+      background-position: 0 -128px; }
+    .weapon.xsmall.Shank_lineart {
+      background-position: -64px -128px; }
+    .weapon.xsmall.Shield_lineart {
+      background-position: -128px -128px; }
+    .weapon.xsmall.SteyrAUG_lineart {
+      background-position: -192px -128px; }
+    .weapon.xsmall.Type95B1_lineart {
+      background-position: -256px -128px; }
+    .weapon.xsmall.UCAV_lineart {
+      background-position: -320px -128px; }
+    .weapon.xsmall.UTAS_lineart {
+      background-position: -384px -128px; }
+    .weapon.xsmall.Ultimax_lineart {
+      background-position: -448px -128px; }
+    .weapon.xsmall.Unica6_lineart {
+      background-position: -512px -128px; }
+    .weapon.xsmall.V40_mini_lineart {
+      background-position: -576px -128px; }
+    .weapon.xsmall.XM25_FLC_lineart {
+      background-position: -640px -128px; }
+    .weapon.xsmall.XM25_SMK_lineart {
+      background-position: -704px -128px; }
+    .weapon.xsmall.XM25_lineart {
+      background-position: -768px -128px; }
+    .weapon.xsmall.a91_lineart {
+      background-position: -832px -128px; }
+    .weapon.xsmall.aek971_lineart {
+      background-position: 0 -144px; }
+    .weapon.xsmall.g36c_lineart {
+      background-position: -64px -144px; }
+    .weapon.xsmall.glock18_lineart {
+      background-position: -128px -144px; }
+    .weapon.xsmall.knife_2142knife_lines {
+      background-position: -192px -144px; }
+    .weapon.xsmall.knife_bootknife_lines {
+      background-position: -256px -144px; }
+    .weapon.xsmall.knife_bowie_lineart {
+      background-position: -320px -144px; }
+    .weapon.xsmall.knife_carbon_lineart {
+      background-position: -384px -144px; }
+    .weapon.xsmall.knife_combat_ACB90_lineart {
+      background-position: -448px -144px; }
+    .weapon.xsmall.knife_diverknife_lines {
+      background-position: -512px -144px; }
+    .weapon.xsmall.knife_improvised_lineart {
+      background-position: -576px -144px; }
+    .weapon.xsmall.knife_lineart {
+      background-position: -640px -144px; }
+    .weapon.xsmall.knife_neckknife_lines {
+      background-position: -704px -144px; }
+    .weapon.xsmall.knife_precisionknife_lines {
+      background-position: -768px -144px; }
+    .weapon.xsmall.knife_scout_lineart {
+      background-position: -832px -144px; }
+    .weapon.xsmall.knife_sealknife_lines {
+      background-position: 0 -160px; }
+    .weapon.xsmall.knife_survival_lineart {
+      background-position: -64px -160px; }
+    .weapon.xsmall.knife_tactical2knife_lines {
+      background-position: -128px -160px; }
+    .weapon.xsmall.knife_trench_lineart {
+      background-position: -192px -160px; }
+    .weapon.xsmall.m1014_lineart {
+      background-position: -256px -160px; }
+    .weapon.xsmall.m16a4_lineart {
+      background-position: -320px -160px; }
+    .weapon.xsmall.m1911_lineart {
+      background-position: -384px -160px; }
+    .weapon.xsmall.m240_lineart {
+      background-position: -448px -160px; }
+    .weapon.xsmall.m249_lineart {
+      background-position: -512px -160px; }
+    .weapon.xsmall.m39_lineart {
+      background-position: -576px -160px; }
+    .weapon.xsmall.m40a5_lineart {
+      background-position: -640px -160px; }
+    .weapon.xsmall.m416_lineart {
+      background-position: -704px -160px; }
+    .weapon.xsmall.m4a1_lineart {
+      background-position: -768px -160px; }
+    .weapon.xsmall.m93r_lineart {
+      background-position: -832px -160px; }
+    .weapon.xsmall.m98b_lineart {
+      background-position: 0 -176px; }
+    .weapon.xsmall.magpulPDR_lineart {
+      background-position: -64px -176px; }
+    .weapon.xsmall.mk11_lineart {
+      background-position: -128px -176px; }
+    .weapon.xsmall.mp443_grach_lineart {
+      background-position: -192px -176px; }
+    .weapon.xsmall.mp7_lineart {
+      background-position: -256px -176px; }
+    .weapon.xsmall.pecheneg_lineart {
+      background-position: -320px -176px; }
+    .weapon.xsmall.pp2000_lineart {
+      background-position: -384px -176px; }
+    .weapon.xsmall.remington870_lineart {
+      background-position: -448px -176px; }
+    .weapon.xsmall.saiga12_lineart {
+      background-position: -512px -176px; }
+    .weapon.xsmall.scarHSV_lineart {
+      background-position: -576px -176px; }
+    .weapon.xsmall.scarh_lineart {
+      background-position: -640px -176px; }
+    .weapon.xsmall.sg553lb_lineart {
+      background-position: -704px -176px; }
+    .weapon.xsmall.sks_lineart {
+      background-position: -768px -176px; }
+    .weapon.xsmall.taurus44_lineart {
+      background-position: -832px -176px; }
+    .weapon.xsmall.type88_lineart {
+      background-position: 0 -192px; }
+    .weapon.xsmall.ump9_lineart {
+      background-position: -64px -192px; }
+    .weapon.xsmall.ump_lineart {
+      background-position: -128px -192px; }
+    .weapon.xsmall.usas12_BP_lineart {
+      background-position: -192px -192px; }
+    .weapon.xsmall.usas12_NV_lineart {
+      background-position: -256px -192px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weapon {
+  display: inline-block; }
+  .weapon.xsmallinv {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmallinv.png);
+    width: 64px;
+    height: 16px;
+    background-size: 896px 208px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weapon.xsmallinv {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weapon/xsmallinv@2x.png); } }
+    .weapon.xsmallinv.AAMine_lineart {
+      background-position: 0 0; }
+    .weapon.xsmallinv.ACWR_lineart {
+      background-position: -64px 0; }
+    .weapon.xsmallinv.AK12_lineart {
+      background-position: -128px 0; }
+    .weapon.xsmallinv.AK5C_lineart {
+      background-position: -192px 0; }
+    .weapon.xsmallinv.AKU12_lineart {
+      background-position: -256px 0; }
+    .weapon.xsmallinv.AMR_CQB_lineart {
+      background-position: -320px 0; }
+    .weapon.xsmallinv.AMR_FAR_lineart {
+      background-position: -384px 0; }
+    .weapon.xsmallinv.AMR_MED_lineart {
+      background-position: -448px 0; }
+    .weapon.xsmallinv.AN94_lineart {
+      background-position: -512px 0; }
+    .weapon.xsmallinv.AR160_lineart {
+      background-position: -576px 0; }
+    .weapon.xsmallinv.ASVal_lineart {
+      background-position: -640px 0; }
+    .weapon.xsmallinv.AT_mine_lineart {
+      background-position: -704px 0; }
+    .weapon.xsmallinv.AWS_lineart {
+      background-position: -768px 0; }
+    .weapon.xsmallinv.Bulldog_lineart {
+      background-position: -832px 0; }
+    .weapon.xsmallinv.C100_lineart {
+      background-position: 0 -16px; }
+    .weapon.xsmallinv.C4_lineart {
+      background-position: -64px -16px; }
+    .weapon.xsmallinv.CBJMS_lineart {
+      background-position: -128px -16px; }
+    .weapon.xsmallinv.CS5_lineart {
+      background-position: -192px -16px; }
+    .weapon.xsmallinv.CSLR4_lineart {
+      background-position: -256px -16px; }
+    .weapon.xsmallinv.CZ75_lineart {
+      background-position: -320px -16px; }
+    .weapon.xsmallinv.CZ805_lineart {
+      background-position: -384px -16px; }
+    .weapon.xsmallinv.Claymore_lineart {
+      background-position: -448px -16px; }
+    .weapon.xsmallinv.DAO12_lineart {
+      background-position: -512px -16px; }
+    .weapon.xsmallinv.DBV12_lineart {
+      background-position: -576px -16px; }
+    .weapon.xsmallinv.Defib_lineart {
+      background-position: -640px -16px; }
+    .weapon.xsmallinv.DesertEagle_lineart {
+      background-position: -704px -16px; }
+    .weapon.xsmallinv.EODbot_lineart {
+      background-position: -768px -16px; }
+    .weapon.xsmallinv.F2000_lineart {
+      background-position: -832px -16px; }
+    .weapon.xsmallinv.FAMAS_lineart {
+      background-position: 0 -32px; }
+    .weapon.xsmallinv.FGM148_javelin_lineart {
+      background-position: -64px -32px; }
+    .weapon.xsmallinv.FGM172_sraw_lineart {
+      background-position: -128px -32px; }
+    .weapon.xsmallinv.FIM92_stinger_lineart {
+      background-position: -192px -32px; }
+    .weapon.xsmallinv.FN57_lineart {
+      background-position: -256px -32px; }
+    .weapon.xsmallinv.FYJS_lineart {
+      background-position: -320px -32px; }
+    .weapon.xsmallinv.GOL_lineart {
+      background-position: -384px -32px; }
+    .weapon.xsmallinv.Galil_ACE21CQB_lineart {
+      background-position: -448px -32px; }
+    .weapon.xsmallinv.Galil_ACE23_lineart {
+      background-position: -512px -32px; }
+    .weapon.xsmallinv.Galil_ACE52CQB_lineart {
+      background-position: -576px -32px; }
+    .weapon.xsmallinv.Galil_ACE53SV_lineart {
+      background-position: -640px -32px; }
+    .weapon.xsmallinv.Groza1_lineart {
+      background-position: -704px -32px; }
+    .weapon.xsmallinv.Groza4_lineart {
+      background-position: -768px -32px; }
+    .weapon.xsmallinv.HAWK12g_lineart {
+      background-position: -832px -32px; }
+    .weapon.xsmallinv.HK45C_lineart {
+      background-position: 0 -48px; }
+    .weapon.xsmallinv.HVM_starstreak_lineart {
+      background-position: -64px -48px; }
+    .weapon.xsmallinv.Handflare_lineart {
+      background-position: -128px -48px; }
+    .weapon.xsmallinv.JNG90_lineart {
+      background-position: -192px -48px; }
+    .weapon.xsmallinv.JS2_lineart {
+      background-position: -256px -48px; }
+    .weapon.xsmallinv.Knife_Tanto_lineart {
+      background-position: -320px -48px; }
+    .weapon.xsmallinv.Knife_Weaver_lineart {
+      background-position: -384px -48px; }
+    .weapon.xsmallinv.L85A2_lineart {
+      background-position: -448px -48px; }
+    .weapon.xsmallinv.L86A1_lineart {
+      background-position: -512px -48px; }
+    .weapon.xsmallinv.L96A1_lineart {
+      background-position: -576px -48px; }
+    .weapon.xsmallinv.LSAT_lineart {
+      background-position: -640px -48px; }
+    .weapon.xsmallinv.M136_lineart {
+      background-position: -704px -48px; }
+    .weapon.xsmallinv.M18_smoke_lineart {
+      background-position: -768px -48px; }
+    .weapon.xsmallinv.M200_SRR61_lineart {
+      background-position: -832px -48px; }
+    .weapon.xsmallinv.M224_mortar_lineart {
+      background-position: 0 -64px; }
+    .weapon.xsmallinv.M26Mass_FLC_lineart {
+      background-position: -64px -64px; }
+    .weapon.xsmallinv.M26Mass_FRG_lineart {
+      background-position: -128px -64px; }
+    .weapon.xsmallinv.M26Mass_SG_lineart {
+      background-position: -192px -64px; }
+    .weapon.xsmallinv.M26Mass_lineart {
+      background-position: -256px -64px; }
+    .weapon.xsmallinv.M2_SLAM_lineart {
+      background-position: -320px -64px; }
+    .weapon.xsmallinv.M320_3GL_lineart {
+      background-position: -384px -64px; }
+    .weapon.xsmallinv.M320_FLASH_lineart {
+      background-position: -448px -64px; }
+    .weapon.xsmallinv.M320_LVG_lineart {
+      background-position: -512px -64px; }
+    .weapon.xsmallinv.M320_SG_lineart {
+      background-position: -576px -64px; }
+    .weapon.xsmallinv.M320_SMK_lineart {
+      background-position: -640px -64px; }
+    .weapon.xsmallinv.M320_lineart {
+      background-position: -704px -64px; }
+    .weapon.xsmallinv.M34_incendiary_lineart {
+      background-position: -768px -64px; }
+    .weapon.xsmallinv.M60E4_lineart {
+      background-position: -832px -64px; }
+    .weapon.xsmallinv.M67_grenade_lineart {
+      background-position: 0 -80px; }
+    .weapon.xsmallinv.M82A3_CQB_lineart {
+      background-position: -64px -80px; }
+    .weapon.xsmallinv.M82A3_FAR_lineart {
+      background-position: -128px -80px; }
+    .weapon.xsmallinv.M82A3_MED_lineart {
+      background-position: -192px -80px; }
+    .weapon.xsmallinv.M84_flashbang_lineart {
+      background-position: -256px -80px; }
+    .weapon.xsmallinv.M9_lineart {
+      background-position: -320px -80px; }
+    .weapon.xsmallinv.MBT_law_lineart {
+      background-position: -384px -80px; }
+    .weapon.xsmallinv.MG4_lineart {
+      background-position: -448px -80px; }
+    .weapon.xsmallinv.MGL_lineart {
+      background-position: -512px -80px; }
+    .weapon.xsmallinv.MK153_smaw_lineart {
+      background-position: -576px -80px; }
+    .weapon.xsmallinv.MP412REX_lineart {
+      background-position: -640px -80px; }
+    .weapon.xsmallinv.MPX_lineart {
+      background-position: -704px -80px; }
+    .weapon.xsmallinv.MTAR21_lineart {
+      background-position: -768px -80px; }
+    .weapon.xsmallinv.MX4_lineart {
+      background-position: -832px -80px; }
+    .weapon.xsmallinv.Machete_lineart {
+      background-position: 0 -96px; }
+    .weapon.xsmallinv.P226_lineart {
+      background-position: -64px -96px; }
+    .weapon.xsmallinv.P90_lineart {
+      background-position: -128px -96px; }
+    .weapon.xsmallinv.QBB95_lineart {
+      background-position: -192px -96px; }
+    .weapon.xsmallinv.QBS09_lineart {
+      background-position: -256px -96px; }
+    .weapon.xsmallinv.QBU88_lineart {
+      background-position: -320px -96px; }
+    .weapon.xsmallinv.QBZ951_lineart {
+      background-position: -384px -96px; }
+    .weapon.xsmallinv.QSZ-92_lineart {
+      background-position: -448px -96px; }
+    .weapon.xsmallinv.RFB_lineart {
+      background-position: -512px -96px; }
+    .weapon.xsmallinv.RGO_impact_lineart {
+      background-position: -576px -96px; }
+    .weapon.xsmallinv.RPG7_lineart {
+      background-position: -640px -96px; }
+    .weapon.xsmallinv.RPK12_lineart {
+      background-position: -704px -96px; }
+    .weapon.xsmallinv.RPK74_lineart {
+      background-position: -768px -96px; }
+    .weapon.xsmallinv.Railgun_lineart {
+      background-position: -832px -96px; }
+    .weapon.xsmallinv.RepairTool_lineart {
+      background-position: 0 -112px; }
+    .weapon.xsmallinv.SA18_IGLA_lineart {
+      background-position: -64px -112px; }
+    .weapon.xsmallinv.SAR21_lineart {
+      background-position: -128px -112px; }
+    .weapon.xsmallinv.SHORTY12g_lineart {
+      background-position: -192px -112px; }
+    .weapon.xsmallinv.SH_lineart {
+      background-position: -256px -112px; }
+    .weapon.xsmallinv.SPAS12_lineart {
+      background-position: -320px -112px; }
+    .weapon.xsmallinv.SR2_lineart {
+      background-position: -384px -112px; }
+    .weapon.xsmallinv.SR338_lineart {
+      background-position: -448px -112px; }
+    .weapon.xsmallinv.SRS_338RECON_lineart {
+      background-position: -512px -112px; }
+    .weapon.xsmallinv.SV98_lineart {
+      background-position: -576px -112px; }
+    .weapon.xsmallinv.SVD12_lineart {
+      background-position: -640px -112px; }
+    .weapon.xsmallinv.SW40_lineart {
+      background-position: -704px -112px; }
+    .weapon.xsmallinv.Saddlegun_lineart {
+      background-position: -768px -112px; }
+    .weapon.xsmallinv.Scorpion_lineart {
+      background-position: -832px -112px; }
+    .weapon.xsmallinv.ScoutElite_lineart {
+      background-position: 0 -128px; }
+    .weapon.xsmallinv.Shank_lineart {
+      background-position: -64px -128px; }
+    .weapon.xsmallinv.Shield_lineart {
+      background-position: -128px -128px; }
+    .weapon.xsmallinv.SteyrAUG_lineart {
+      background-position: -192px -128px; }
+    .weapon.xsmallinv.Type95B1_lineart {
+      background-position: -256px -128px; }
+    .weapon.xsmallinv.UCAV_lineart {
+      background-position: -320px -128px; }
+    .weapon.xsmallinv.UTAS_lineart {
+      background-position: -384px -128px; }
+    .weapon.xsmallinv.Ultimax_lineart {
+      background-position: -448px -128px; }
+    .weapon.xsmallinv.Unica6_lineart {
+      background-position: -512px -128px; }
+    .weapon.xsmallinv.V40_mini_lineart {
+      background-position: -576px -128px; }
+    .weapon.xsmallinv.XM25_FLC_lineart {
+      background-position: -640px -128px; }
+    .weapon.xsmallinv.XM25_SMK_lineart {
+      background-position: -704px -128px; }
+    .weapon.xsmallinv.XM25_lineart {
+      background-position: -768px -128px; }
+    .weapon.xsmallinv.a91_lineart {
+      background-position: -832px -128px; }
+    .weapon.xsmallinv.aek971_lineart {
+      background-position: 0 -144px; }
+    .weapon.xsmallinv.g36c_lineart {
+      background-position: -64px -144px; }
+    .weapon.xsmallinv.glock18_lineart {
+      background-position: -128px -144px; }
+    .weapon.xsmallinv.knife_2142knife_lines {
+      background-position: -192px -144px; }
+    .weapon.xsmallinv.knife_bootknife_lines {
+      background-position: -256px -144px; }
+    .weapon.xsmallinv.knife_bowie_lineart {
+      background-position: -320px -144px; }
+    .weapon.xsmallinv.knife_carbon_lineart {
+      background-position: -384px -144px; }
+    .weapon.xsmallinv.knife_combat_ACB90_lineart {
+      background-position: -448px -144px; }
+    .weapon.xsmallinv.knife_diverknife_lines {
+      background-position: -512px -144px; }
+    .weapon.xsmallinv.knife_improvised_lineart {
+      background-position: -576px -144px; }
+    .weapon.xsmallinv.knife_lineart {
+      background-position: -640px -144px; }
+    .weapon.xsmallinv.knife_neckknife_lines {
+      background-position: -704px -144px; }
+    .weapon.xsmallinv.knife_precisionknife_lines {
+      background-position: -768px -144px; }
+    .weapon.xsmallinv.knife_scout_lineart {
+      background-position: -832px -144px; }
+    .weapon.xsmallinv.knife_sealknife_lines {
+      background-position: 0 -160px; }
+    .weapon.xsmallinv.knife_survival_lineart {
+      background-position: -64px -160px; }
+    .weapon.xsmallinv.knife_tactical2knife_lines {
+      background-position: -128px -160px; }
+    .weapon.xsmallinv.knife_trench_lineart {
+      background-position: -192px -160px; }
+    .weapon.xsmallinv.m1014_lineart {
+      background-position: -256px -160px; }
+    .weapon.xsmallinv.m16a4_lineart {
+      background-position: -320px -160px; }
+    .weapon.xsmallinv.m1911_lineart {
+      background-position: -384px -160px; }
+    .weapon.xsmallinv.m240_lineart {
+      background-position: -448px -160px; }
+    .weapon.xsmallinv.m249_lineart {
+      background-position: -512px -160px; }
+    .weapon.xsmallinv.m39_lineart {
+      background-position: -576px -160px; }
+    .weapon.xsmallinv.m40a5_lineart {
+      background-position: -640px -160px; }
+    .weapon.xsmallinv.m416_lineart {
+      background-position: -704px -160px; }
+    .weapon.xsmallinv.m4a1_lineart {
+      background-position: -768px -160px; }
+    .weapon.xsmallinv.m93r_lineart {
+      background-position: -832px -160px; }
+    .weapon.xsmallinv.m98b_lineart {
+      background-position: 0 -176px; }
+    .weapon.xsmallinv.magpulPDR_lineart {
+      background-position: -64px -176px; }
+    .weapon.xsmallinv.mk11_lineart {
+      background-position: -128px -176px; }
+    .weapon.xsmallinv.mp443_grach_lineart {
+      background-position: -192px -176px; }
+    .weapon.xsmallinv.mp7_lineart {
+      background-position: -256px -176px; }
+    .weapon.xsmallinv.pecheneg_lineart {
+      background-position: -320px -176px; }
+    .weapon.xsmallinv.pp2000_lineart {
+      background-position: -384px -176px; }
+    .weapon.xsmallinv.remington870_lineart {
+      background-position: -448px -176px; }
+    .weapon.xsmallinv.saiga12_lineart {
+      background-position: -512px -176px; }
+    .weapon.xsmallinv.scarHSV_lineart {
+      background-position: -576px -176px; }
+    .weapon.xsmallinv.scarh_lineart {
+      background-position: -640px -176px; }
+    .weapon.xsmallinv.sg553lb_lineart {
+      background-position: -704px -176px; }
+    .weapon.xsmallinv.sks_lineart {
+      background-position: -768px -176px; }
+    .weapon.xsmallinv.taurus44_lineart {
+      background-position: -832px -176px; }
+    .weapon.xsmallinv.type88_lineart {
+      background-position: 0 -192px; }
+    .weapon.xsmallinv.ump9_lineart {
+      background-position: -64px -192px; }
+    .weapon.xsmallinv.ump_lineart {
+      background-position: -128px -192px; }
+    .weapon.xsmallinv.usas12_BP_lineart {
+      background-position: -192px -192px; }
+    .weapon.xsmallinv.usas12_NV_lineart {
+      background-position: -256px -192px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weaponaccessory {
+  display: inline-block; }
+  .weaponaccessory.large {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/large.png);
+    width: 256px;
+    height: 64px;
+    background-size: 2304px 576px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weaponaccessory.large {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/large@2x.png); } }
+    .weaponaccessory.large.ACOG_lineart {
+      background-position: 0 0; }
+    .weaponaccessory.large.ACRGeneralIronSight_Rear_lineart {
+      background-position: -256px 0; }
+    .weaponaccessory.large.ATNThor_lineart {
+      background-position: -512px 0; }
+    .weaponaccessory.large.AngledGrip_lineart {
+      background-position: -768px 0; }
+    .weaponaccessory.large.Ballistic_lineart {
+      background-position: -1024px 0; }
+    .weaponaccessory.large.Barrel_lineart {
+      background-position: -1280px 0; }
+    .weaponaccessory.large.Bipod_lineart {
+      background-position: -1536px 0; }
+    .weaponaccessory.large.Buck_lineart {
+      background-position: -1792px 0; }
+    .weaponaccessory.large.CL6x_Chinese6x_lineart {
+      background-position: -2048px 0; }
+    .weaponaccessory.large.CP1prismatic_lineart {
+      background-position: 0 -64px; }
+    .weaponaccessory.large.CantedIronsightSniper_Rear_lineart {
+      background-position: -256px -64px; }
+    .weaponaccessory.large.CantedIronsight_Rear_lineart {
+      background-position: -512px -64px; }
+    .weaponaccessory.large.Compact4X_lineart {
+      background-position: -768px -64px; }
+    .weaponaccessory.large.Compensator_lineart {
+      background-position: -1024px -64px; }
+    .weaponaccessory.large.Coyote_lineart {
+      background-position: -1280px -64px; }
+    .weaponaccessory.large.Deltapoint_lineart {
+      background-position: -1536px -64px; }
+    .weaponaccessory.large.Duckbill_lineart {
+      background-position: -1792px -64px; }
+    .weaponaccessory.large.F2000scope_lineart {
+      background-position: -2048px -64px; }
+    .weaponaccessory.large.Flashlight_lineart {
+      background-position: 0 -128px; }
+    .weaponaccessory.large.Flashsupressor_lineart {
+      background-position: -256px -128px; }
+    .weaponaccessory.large.Flechette_lineart {
+      background-position: -512px -128px; }
+    .weaponaccessory.large.Foregrip_Ergo_lineart {
+      background-position: -768px -128px; }
+    .weaponaccessory.large.Foregrip_Folding_lineart {
+      background-position: -1024px -128px; }
+    .weaponaccessory.large.Foregrip_Potato_lineart {
+      background-position: -1280px -128px; }
+    .weaponaccessory.large.Foregrip_Stubby_lineart {
+      background-position: -1536px -128px; }
+    .weaponaccessory.large.Foregrip_Vertical_lineart {
+      background-position: -1792px -128px; }
+    .weaponaccessory.large.Frag_lineart {
+      background-position: -2048px -128px; }
+    .weaponaccessory.large.GhostRing_lineart {
+      background-position: 0 -192px; }
+    .weaponaccessory.large.GreenLaser_lineart {
+      background-position: -256px -192px; }
+    .weaponaccessory.large.Laser_PistolCombo_lineart {
+      background-position: -512px -192px; }
+    .weaponaccessory.large.Laser_PistolLaser_lineart {
+      background-position: -768px -192px; }
+    .weaponaccessory.large.Laser_RifleComboPEQ15_lineart {
+      background-position: -1024px -192px; }
+    .weaponaccessory.large.Laser_STORM_lineart {
+      background-position: -1280px -192px; }
+    .weaponaccessory.large.Laser_TargetPointer_lineart {
+      background-position: -1536px -192px; }
+    .weaponaccessory.large.Laser_Tribeam_lineart {
+      background-position: -1792px -192px; }
+    .weaponaccessory.large.Magnifier_lineart {
+      background-position: -2048px -192px; }
+    .weaponaccessory.large.MuzzleBreakLight_lineart {
+      background-position: 0 -256px; }
+    .weaponaccessory.large.MuzzleBreak_lineart {
+      background-position: -256px -256px; }
+    .weaponaccessory.large.NarrowChoke_lineart {
+      background-position: -512px -256px; }
+    .weaponaccessory.large.PBS-4_lineart {
+      background-position: -768px -256px; }
+    .weaponaccessory.large.PK-AS_PKA-S_lineart {
+      background-position: -1024px -256px; }
+    .weaponaccessory.large.PSO-1_lineart {
+      background-position: -1280px -256px; }
+    .weaponaccessory.large.PistolCompensator_lineart {
+      background-position: -1536px -256px; }
+    .weaponaccessory.large.PistolMuzzlebreak_lineart {
+      background-position: -1792px -256px; }
+    .weaponaccessory.large.QSW-06_MP7Supressor_lineart {
+      background-position: -2048px -256px; }
+    .weaponaccessory.large.RMR_lineart {
+      background-position: 0 -320px; }
+    .weaponaccessory.large.RX01_lineart {
+      background-position: -256px -320px; }
+    .weaponaccessory.large.Rails_lineart {
+      background-position: -512px -320px; }
+    .weaponaccessory.large.Slug_lineart {
+      background-position: -768px -320px; }
+    .weaponaccessory.large.Spyder_N_lineart {
+      background-position: -1024px -320px; }
+    .weaponaccessory.large.Spyder_Poison_lineart {
+      background-position: -1280px -320px; }
+    .weaponaccessory.large.Spyder_S_lineart {
+      background-position: -1536px -320px; }
+    .weaponaccessory.large.Spyder_X_lineart {
+      background-position: -1792px -320px; }
+    .weaponaccessory.large.Spyder_counterweight_lineart {
+      background-position: -2048px -320px; }
+    .weaponaccessory.large.StraightBolt_lineart {
+      background-position: 0 -384px; }
+    .weaponaccessory.large.Supressor_FH762MG_lineart {
+      background-position: -256px -384px; }
+    .weaponaccessory.large.Supressor_MiniMonster_lineart {
+      background-position: -512px -384px; }
+    .weaponaccessory.large.Supressor_PBS1_lineart {
+      background-position: -768px -384px; }
+    .weaponaccessory.large.Supressor_TGPA_lineart {
+      background-position: -1024px -384px; }
+    .weaponaccessory.large.TDD_lineart {
+      background-position: -1280px -384px; }
+    .weaponaccessory.large.Tacticallight_lineart {
+      background-position: -1536px -384px; }
+    .weaponaccessory.large.Trubrite_lineart {
+      background-position: -1792px -384px; }
+    .weaponaccessory.large.VariableZoom_lineart {
+      background-position: -2048px -384px; }
+    .weaponaccessory.large.VisionKing_lineart {
+      background-position: 0 -448px; }
+    .weaponaccessory.large.WideChoke_lineart {
+      background-position: -256px -448px; }
+    .weaponaccessory.large._NoSelection_lineart {
+      background-position: -512px -448px; }
+    .weaponaccessory.large.eotech_lineart {
+      background-position: -768px -448px; }
+    .weaponaccessory.large.irnv_lineart {
+      background-position: -1024px -448px; }
+    .weaponaccessory.large.kobra_lineart {
+      background-position: -1280px -448px; }
+    .weaponaccessory.large.m145_lineart {
+      background-position: -1536px -448px; }
+    .weaponaccessory.large.pka_lineart {
+      background-position: -1792px -448px; }
+    .weaponaccessory.large.pks07_lineart {
+      background-position: -2048px -448px; }
+    .weaponaccessory.large.riflescope_lineart {
+      background-position: 0 -512px; }
+    .weaponaccessory.large.soundsupressor_lineart {
+      background-position: -256px -512px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weaponaccessory {
+  display: inline-block; }
+  .weaponaccessory.medium {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/medium.png);
+    width: 208px;
+    height: 52px;
+    background-size: 1872px 468px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weaponaccessory.medium {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/medium@2x.png); } }
+    .weaponaccessory.medium.ACOG_lineart {
+      background-position: 0 0; }
+    .weaponaccessory.medium.ACRGeneralIronSight_Rear_lineart {
+      background-position: -208px 0; }
+    .weaponaccessory.medium.ATNThor_lineart {
+      background-position: -416px 0; }
+    .weaponaccessory.medium.AngledGrip_lineart {
+      background-position: -624px 0; }
+    .weaponaccessory.medium.Ballistic_lineart {
+      background-position: -832px 0; }
+    .weaponaccessory.medium.Barrel_lineart {
+      background-position: -1040px 0; }
+    .weaponaccessory.medium.Bipod_lineart {
+      background-position: -1248px 0; }
+    .weaponaccessory.medium.Buck_lineart {
+      background-position: -1456px 0; }
+    .weaponaccessory.medium.CL6x_Chinese6x_lineart {
+      background-position: -1664px 0; }
+    .weaponaccessory.medium.CP1prismatic_lineart {
+      background-position: 0 -52px; }
+    .weaponaccessory.medium.CantedIronsightSniper_Rear_lineart {
+      background-position: -208px -52px; }
+    .weaponaccessory.medium.CantedIronsight_Rear_lineart {
+      background-position: -416px -52px; }
+    .weaponaccessory.medium.Compact4X_lineart {
+      background-position: -624px -52px; }
+    .weaponaccessory.medium.Compensator_lineart {
+      background-position: -832px -52px; }
+    .weaponaccessory.medium.Coyote_lineart {
+      background-position: -1040px -52px; }
+    .weaponaccessory.medium.Deltapoint_lineart {
+      background-position: -1248px -52px; }
+    .weaponaccessory.medium.Duckbill_lineart {
+      background-position: -1456px -52px; }
+    .weaponaccessory.medium.F2000scope_lineart {
+      background-position: -1664px -52px; }
+    .weaponaccessory.medium.Flashlight_lineart {
+      background-position: 0 -104px; }
+    .weaponaccessory.medium.Flashsupressor_lineart {
+      background-position: -208px -104px; }
+    .weaponaccessory.medium.Flechette_lineart {
+      background-position: -416px -104px; }
+    .weaponaccessory.medium.Foregrip_Ergo_lineart {
+      background-position: -624px -104px; }
+    .weaponaccessory.medium.Foregrip_Folding_lineart {
+      background-position: -832px -104px; }
+    .weaponaccessory.medium.Foregrip_Potato_lineart {
+      background-position: -1040px -104px; }
+    .weaponaccessory.medium.Foregrip_Stubby_lineart {
+      background-position: -1248px -104px; }
+    .weaponaccessory.medium.Foregrip_Vertical_lineart {
+      background-position: -1456px -104px; }
+    .weaponaccessory.medium.Frag_lineart {
+      background-position: -1664px -104px; }
+    .weaponaccessory.medium.GhostRing_lineart {
+      background-position: 0 -156px; }
+    .weaponaccessory.medium.GreenLaser_lineart {
+      background-position: -208px -156px; }
+    .weaponaccessory.medium.Laser_PistolCombo_lineart {
+      background-position: -416px -156px; }
+    .weaponaccessory.medium.Laser_PistolLaser_lineart {
+      background-position: -624px -156px; }
+    .weaponaccessory.medium.Laser_RifleComboPEQ15_lineart {
+      background-position: -832px -156px; }
+    .weaponaccessory.medium.Laser_STORM_lineart {
+      background-position: -1040px -156px; }
+    .weaponaccessory.medium.Laser_TargetPointer_lineart {
+      background-position: -1248px -156px; }
+    .weaponaccessory.medium.Laser_Tribeam_lineart {
+      background-position: -1456px -156px; }
+    .weaponaccessory.medium.Magnifier_lineart {
+      background-position: -1664px -156px; }
+    .weaponaccessory.medium.MuzzleBreakLight_lineart {
+      background-position: 0 -208px; }
+    .weaponaccessory.medium.MuzzleBreak_lineart {
+      background-position: -208px -208px; }
+    .weaponaccessory.medium.NarrowChoke_lineart {
+      background-position: -416px -208px; }
+    .weaponaccessory.medium.PBS-4_lineart {
+      background-position: -624px -208px; }
+    .weaponaccessory.medium.PK-AS_PKA-S_lineart {
+      background-position: -832px -208px; }
+    .weaponaccessory.medium.PSO-1_lineart {
+      background-position: -1040px -208px; }
+    .weaponaccessory.medium.PistolCompensator_lineart {
+      background-position: -1248px -208px; }
+    .weaponaccessory.medium.PistolMuzzlebreak_lineart {
+      background-position: -1456px -208px; }
+    .weaponaccessory.medium.QSW-06_MP7Supressor_lineart {
+      background-position: -1664px -208px; }
+    .weaponaccessory.medium.RMR_lineart {
+      background-position: 0 -260px; }
+    .weaponaccessory.medium.RX01_lineart {
+      background-position: -208px -260px; }
+    .weaponaccessory.medium.Rails_lineart {
+      background-position: -416px -260px; }
+    .weaponaccessory.medium.Slug_lineart {
+      background-position: -624px -260px; }
+    .weaponaccessory.medium.Spyder_N_lineart {
+      background-position: -832px -260px; }
+    .weaponaccessory.medium.Spyder_Poison_lineart {
+      background-position: -1040px -260px; }
+    .weaponaccessory.medium.Spyder_S_lineart {
+      background-position: -1248px -260px; }
+    .weaponaccessory.medium.Spyder_X_lineart {
+      background-position: -1456px -260px; }
+    .weaponaccessory.medium.Spyder_counterweight_lineart {
+      background-position: -1664px -260px; }
+    .weaponaccessory.medium.StraightBolt_lineart {
+      background-position: 0 -312px; }
+    .weaponaccessory.medium.Supressor_FH762MG_lineart {
+      background-position: -208px -312px; }
+    .weaponaccessory.medium.Supressor_MiniMonster_lineart {
+      background-position: -416px -312px; }
+    .weaponaccessory.medium.Supressor_PBS1_lineart {
+      background-position: -624px -312px; }
+    .weaponaccessory.medium.Supressor_TGPA_lineart {
+      background-position: -832px -312px; }
+    .weaponaccessory.medium.TDD_lineart {
+      background-position: -1040px -312px; }
+    .weaponaccessory.medium.Tacticallight_lineart {
+      background-position: -1248px -312px; }
+    .weaponaccessory.medium.Trubrite_lineart {
+      background-position: -1456px -312px; }
+    .weaponaccessory.medium.VariableZoom_lineart {
+      background-position: -1664px -312px; }
+    .weaponaccessory.medium.VisionKing_lineart {
+      background-position: 0 -364px; }
+    .weaponaccessory.medium.WideChoke_lineart {
+      background-position: -208px -364px; }
+    .weaponaccessory.medium._NoSelection_lineart {
+      background-position: -416px -364px; }
+    .weaponaccessory.medium.eotech_lineart {
+      background-position: -624px -364px; }
+    .weaponaccessory.medium.irnv_lineart {
+      background-position: -832px -364px; }
+    .weaponaccessory.medium.kobra_lineart {
+      background-position: -1040px -364px; }
+    .weaponaccessory.medium.m145_lineart {
+      background-position: -1248px -364px; }
+    .weaponaccessory.medium.pka_lineart {
+      background-position: -1456px -364px; }
+    .weaponaccessory.medium.pks07_lineart {
+      background-position: -1664px -364px; }
+    .weaponaccessory.medium.riflescope_lineart {
+      background-position: 0 -416px; }
+    .weaponaccessory.medium.soundsupressor_lineart {
+      background-position: -208px -416px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weaponaccessory {
+  display: inline-block; }
+  .weaponaccessory.small {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/small.png);
+    width: 64px;
+    height: 16px;
+    background-size: 576px 144px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weaponaccessory.small {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/small@2x.png); } }
+    .weaponaccessory.small.ACOG_lineart {
+      background-position: 0 0; }
+    .weaponaccessory.small.ACRGeneralIronSight_Rear_lineart {
+      background-position: -64px 0; }
+    .weaponaccessory.small.ATNThor_lineart {
+      background-position: -128px 0; }
+    .weaponaccessory.small.AngledGrip_lineart {
+      background-position: -192px 0; }
+    .weaponaccessory.small.Ballistic_lineart {
+      background-position: -256px 0; }
+    .weaponaccessory.small.Barrel_lineart {
+      background-position: -320px 0; }
+    .weaponaccessory.small.Bipod_lineart {
+      background-position: -384px 0; }
+    .weaponaccessory.small.Buck_lineart {
+      background-position: -448px 0; }
+    .weaponaccessory.small.CL6x_Chinese6x_lineart {
+      background-position: -512px 0; }
+    .weaponaccessory.small.CP1prismatic_lineart {
+      background-position: 0 -16px; }
+    .weaponaccessory.small.CantedIronsightSniper_Rear_lineart {
+      background-position: -64px -16px; }
+    .weaponaccessory.small.CantedIronsight_Rear_lineart {
+      background-position: -128px -16px; }
+    .weaponaccessory.small.Compact4X_lineart {
+      background-position: -192px -16px; }
+    .weaponaccessory.small.Compensator_lineart {
+      background-position: -256px -16px; }
+    .weaponaccessory.small.Coyote_lineart {
+      background-position: -320px -16px; }
+    .weaponaccessory.small.Deltapoint_lineart {
+      background-position: -384px -16px; }
+    .weaponaccessory.small.Duckbill_lineart {
+      background-position: -448px -16px; }
+    .weaponaccessory.small.F2000scope_lineart {
+      background-position: -512px -16px; }
+    .weaponaccessory.small.Flashlight_lineart {
+      background-position: 0 -32px; }
+    .weaponaccessory.small.Flashsupressor_lineart {
+      background-position: -64px -32px; }
+    .weaponaccessory.small.Flechette_lineart {
+      background-position: -128px -32px; }
+    .weaponaccessory.small.Foregrip_Ergo_lineart {
+      background-position: -192px -32px; }
+    .weaponaccessory.small.Foregrip_Folding_lineart {
+      background-position: -256px -32px; }
+    .weaponaccessory.small.Foregrip_Potato_lineart {
+      background-position: -320px -32px; }
+    .weaponaccessory.small.Foregrip_Stubby_lineart {
+      background-position: -384px -32px; }
+    .weaponaccessory.small.Foregrip_Vertical_lineart {
+      background-position: -448px -32px; }
+    .weaponaccessory.small.Frag_lineart {
+      background-position: -512px -32px; }
+    .weaponaccessory.small.GhostRing_lineart {
+      background-position: 0 -48px; }
+    .weaponaccessory.small.GreenLaser_lineart {
+      background-position: -64px -48px; }
+    .weaponaccessory.small.Laser_PistolCombo_lineart {
+      background-position: -128px -48px; }
+    .weaponaccessory.small.Laser_PistolLaser_lineart {
+      background-position: -192px -48px; }
+    .weaponaccessory.small.Laser_RifleComboPEQ15_lineart {
+      background-position: -256px -48px; }
+    .weaponaccessory.small.Laser_STORM_lineart {
+      background-position: -320px -48px; }
+    .weaponaccessory.small.Laser_TargetPointer_lineart {
+      background-position: -384px -48px; }
+    .weaponaccessory.small.Laser_Tribeam_lineart {
+      background-position: -448px -48px; }
+    .weaponaccessory.small.Magnifier_lineart {
+      background-position: -512px -48px; }
+    .weaponaccessory.small.MuzzleBreakLight_lineart {
+      background-position: 0 -64px; }
+    .weaponaccessory.small.MuzzleBreak_lineart {
+      background-position: -64px -64px; }
+    .weaponaccessory.small.NarrowChoke_lineart {
+      background-position: -128px -64px; }
+    .weaponaccessory.small.PBS-4_lineart {
+      background-position: -192px -64px; }
+    .weaponaccessory.small.PK-AS_PKA-S_lineart {
+      background-position: -256px -64px; }
+    .weaponaccessory.small.PSO-1_lineart {
+      background-position: -320px -64px; }
+    .weaponaccessory.small.PistolCompensator_lineart {
+      background-position: -384px -64px; }
+    .weaponaccessory.small.PistolMuzzlebreak_lineart {
+      background-position: -448px -64px; }
+    .weaponaccessory.small.QSW-06_MP7Supressor_lineart {
+      background-position: -512px -64px; }
+    .weaponaccessory.small.RMR_lineart {
+      background-position: 0 -80px; }
+    .weaponaccessory.small.RX01_lineart {
+      background-position: -64px -80px; }
+    .weaponaccessory.small.Rails_lineart {
+      background-position: -128px -80px; }
+    .weaponaccessory.small.Slug_lineart {
+      background-position: -192px -80px; }
+    .weaponaccessory.small.Spyder_N_lineart {
+      background-position: -256px -80px; }
+    .weaponaccessory.small.Spyder_Poison_lineart {
+      background-position: -320px -80px; }
+    .weaponaccessory.small.Spyder_S_lineart {
+      background-position: -384px -80px; }
+    .weaponaccessory.small.Spyder_X_lineart {
+      background-position: -448px -80px; }
+    .weaponaccessory.small.Spyder_counterweight_lineart {
+      background-position: -512px -80px; }
+    .weaponaccessory.small.StraightBolt_lineart {
+      background-position: 0 -96px; }
+    .weaponaccessory.small.Supressor_FH762MG_lineart {
+      background-position: -64px -96px; }
+    .weaponaccessory.small.Supressor_MiniMonster_lineart {
+      background-position: -128px -96px; }
+    .weaponaccessory.small.Supressor_PBS1_lineart {
+      background-position: -192px -96px; }
+    .weaponaccessory.small.Supressor_TGPA_lineart {
+      background-position: -256px -96px; }
+    .weaponaccessory.small.TDD_lineart {
+      background-position: -320px -96px; }
+    .weaponaccessory.small.Tacticallight_lineart {
+      background-position: -384px -96px; }
+    .weaponaccessory.small.Trubrite_lineart {
+      background-position: -448px -96px; }
+    .weaponaccessory.small.VariableZoom_lineart {
+      background-position: -512px -96px; }
+    .weaponaccessory.small.VisionKing_lineart {
+      background-position: 0 -112px; }
+    .weaponaccessory.small.WideChoke_lineart {
+      background-position: -64px -112px; }
+    .weaponaccessory.small._NoSelection_lineart {
+      background-position: -128px -112px; }
+    .weaponaccessory.small.eotech_lineart {
+      background-position: -192px -112px; }
+    .weaponaccessory.small.irnv_lineart {
+      background-position: -256px -112px; }
+    .weaponaccessory.small.kobra_lineart {
+      background-position: -320px -112px; }
+    .weaponaccessory.small.m145_lineart {
+      background-position: -384px -112px; }
+    .weaponaccessory.small.pka_lineart {
+      background-position: -448px -112px; }
+    .weaponaccessory.small.pks07_lineart {
+      background-position: -512px -112px; }
+    .weaponaccessory.small.riflescope_lineart {
+      background-position: 0 -128px; }
+    .weaponaccessory.small.soundsupressor_lineart {
+      background-position: -64px -128px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.weaponaccessory {
+  display: inline-block; }
+  .weaponaccessory.smallinv {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/smallinv.png);
+    width: 64px;
+    height: 16px;
+    background-size: 576px 144px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .weaponaccessory.smallinv {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/weaponaccessory/smallinv@2x.png); } }
+    .weaponaccessory.smallinv.ACOG_lineart {
+      background-position: 0 0; }
+    .weaponaccessory.smallinv.ACRGeneralIronSight_Rear_lineart {
+      background-position: -64px 0; }
+    .weaponaccessory.smallinv.ATNThor_lineart {
+      background-position: -128px 0; }
+    .weaponaccessory.smallinv.AngledGrip_lineart {
+      background-position: -192px 0; }
+    .weaponaccessory.smallinv.Ballistic_lineart {
+      background-position: -256px 0; }
+    .weaponaccessory.smallinv.Barrel_lineart {
+      background-position: -320px 0; }
+    .weaponaccessory.smallinv.Bipod_lineart {
+      background-position: -384px 0; }
+    .weaponaccessory.smallinv.Buck_lineart {
+      background-position: -448px 0; }
+    .weaponaccessory.smallinv.CL6x_Chinese6x_lineart {
+      background-position: -512px 0; }
+    .weaponaccessory.smallinv.CP1prismatic_lineart {
+      background-position: 0 -16px; }
+    .weaponaccessory.smallinv.CantedIronsightSniper_Rear_lineart {
+      background-position: -64px -16px; }
+    .weaponaccessory.smallinv.CantedIronsight_Rear_lineart {
+      background-position: -128px -16px; }
+    .weaponaccessory.smallinv.Compact4X_lineart {
+      background-position: -192px -16px; }
+    .weaponaccessory.smallinv.Compensator_lineart {
+      background-position: -256px -16px; }
+    .weaponaccessory.smallinv.Coyote_lineart {
+      background-position: -320px -16px; }
+    .weaponaccessory.smallinv.Deltapoint_lineart {
+      background-position: -384px -16px; }
+    .weaponaccessory.smallinv.Duckbill_lineart {
+      background-position: -448px -16px; }
+    .weaponaccessory.smallinv.F2000scope_lineart {
+      background-position: -512px -16px; }
+    .weaponaccessory.smallinv.Flashlight_lineart {
+      background-position: 0 -32px; }
+    .weaponaccessory.smallinv.Flashsupressor_lineart {
+      background-position: -64px -32px; }
+    .weaponaccessory.smallinv.Flechette_lineart {
+      background-position: -128px -32px; }
+    .weaponaccessory.smallinv.Foregrip_Ergo_lineart {
+      background-position: -192px -32px; }
+    .weaponaccessory.smallinv.Foregrip_Folding_lineart {
+      background-position: -256px -32px; }
+    .weaponaccessory.smallinv.Foregrip_Potato_lineart {
+      background-position: -320px -32px; }
+    .weaponaccessory.smallinv.Foregrip_Stubby_lineart {
+      background-position: -384px -32px; }
+    .weaponaccessory.smallinv.Foregrip_Vertical_lineart {
+      background-position: -448px -32px; }
+    .weaponaccessory.smallinv.Frag_lineart {
+      background-position: -512px -32px; }
+    .weaponaccessory.smallinv.GhostRing_lineart {
+      background-position: 0 -48px; }
+    .weaponaccessory.smallinv.GreenLaser_lineart {
+      background-position: -64px -48px; }
+    .weaponaccessory.smallinv.Laser_PistolCombo_lineart {
+      background-position: -128px -48px; }
+    .weaponaccessory.smallinv.Laser_PistolLaser_lineart {
+      background-position: -192px -48px; }
+    .weaponaccessory.smallinv.Laser_RifleComboPEQ15_lineart {
+      background-position: -256px -48px; }
+    .weaponaccessory.smallinv.Laser_STORM_lineart {
+      background-position: -320px -48px; }
+    .weaponaccessory.smallinv.Laser_TargetPointer_lineart {
+      background-position: -384px -48px; }
+    .weaponaccessory.smallinv.Laser_Tribeam_lineart {
+      background-position: -448px -48px; }
+    .weaponaccessory.smallinv.Magnifier_lineart {
+      background-position: -512px -48px; }
+    .weaponaccessory.smallinv.MuzzleBreakLight_lineart {
+      background-position: 0 -64px; }
+    .weaponaccessory.smallinv.MuzzleBreak_lineart {
+      background-position: -64px -64px; }
+    .weaponaccessory.smallinv.NarrowChoke_lineart {
+      background-position: -128px -64px; }
+    .weaponaccessory.smallinv.PBS-4_lineart {
+      background-position: -192px -64px; }
+    .weaponaccessory.smallinv.PK-AS_PKA-S_lineart {
+      background-position: -256px -64px; }
+    .weaponaccessory.smallinv.PSO-1_lineart {
+      background-position: -320px -64px; }
+    .weaponaccessory.smallinv.PistolCompensator_lineart {
+      background-position: -384px -64px; }
+    .weaponaccessory.smallinv.PistolMuzzlebreak_lineart {
+      background-position: -448px -64px; }
+    .weaponaccessory.smallinv.QSW-06_MP7Supressor_lineart {
+      background-position: -512px -64px; }
+    .weaponaccessory.smallinv.RMR_lineart {
+      background-position: 0 -80px; }
+    .weaponaccessory.smallinv.RX01_lineart {
+      background-position: -64px -80px; }
+    .weaponaccessory.smallinv.Rails_lineart {
+      background-position: -128px -80px; }
+    .weaponaccessory.smallinv.Slug_lineart {
+      background-position: -192px -80px; }
+    .weaponaccessory.smallinv.Spyder_N_lineart {
+      background-position: -256px -80px; }
+    .weaponaccessory.smallinv.Spyder_Poison_lineart {
+      background-position: -320px -80px; }
+    .weaponaccessory.smallinv.Spyder_S_lineart {
+      background-position: -384px -80px; }
+    .weaponaccessory.smallinv.Spyder_X_lineart {
+      background-position: -448px -80px; }
+    .weaponaccessory.smallinv.Spyder_counterweight_lineart {
+      background-position: -512px -80px; }
+    .weaponaccessory.smallinv.StraightBolt_lineart {
+      background-position: 0 -96px; }
+    .weaponaccessory.smallinv.Supressor_FH762MG_lineart {
+      background-position: -64px -96px; }
+    .weaponaccessory.smallinv.Supressor_MiniMonster_lineart {
+      background-position: -128px -96px; }
+    .weaponaccessory.smallinv.Supressor_PBS1_lineart {
+      background-position: -192px -96px; }
+    .weaponaccessory.smallinv.Supressor_TGPA_lineart {
+      background-position: -256px -96px; }
+    .weaponaccessory.smallinv.TDD_lineart {
+      background-position: -320px -96px; }
+    .weaponaccessory.smallinv.Tacticallight_lineart {
+      background-position: -384px -96px; }
+    .weaponaccessory.smallinv.Trubrite_lineart {
+      background-position: -448px -96px; }
+    .weaponaccessory.smallinv.VariableZoom_lineart {
+      background-position: -512px -96px; }
+    .weaponaccessory.smallinv.VisionKing_lineart {
+      background-position: 0 -112px; }
+    .weaponaccessory.smallinv.WideChoke_lineart {
+      background-position: -64px -112px; }
+    .weaponaccessory.smallinv._NoSelection_lineart {
+      background-position: -128px -112px; }
+    .weaponaccessory.smallinv.eotech_lineart {
+      background-position: -192px -112px; }
+    .weaponaccessory.smallinv.irnv_lineart {
+      background-position: -256px -112px; }
+    .weaponaccessory.smallinv.kobra_lineart {
+      background-position: -320px -112px; }
+    .weaponaccessory.smallinv.m145_lineart {
+      background-position: -384px -112px; }
+    .weaponaccessory.smallinv.pka_lineart {
+      background-position: -448px -112px; }
+    .weaponaccessory.smallinv.pks07_lineart {
+      background-position: -512px -112px; }
+    .weaponaccessory.smallinv.riflescope_lineart {
+      background-position: 0 -128px; }
+    .weaponaccessory.smallinv.soundsupressor_lineart {
+      background-position: -64px -128px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.camo {
+  display: inline-block; }
+  .camo.large {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/large.png);
+    width: 208px;
+    height: 52px;
+    background-size: 2496px 572px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .camo.large {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/large@2x.png); } }
+    .camo.large.Atomic_Adaptive {
+      background-position: 0 0; }
+    .camo.large.Atomic_Autumn {
+      background-position: -208px 0; }
+    .camo.large.Atomic_Desert {
+      background-position: -416px 0; }
+    .camo.large.Atomic_Naval {
+      background-position: -624px 0; }
+    .camo.large.Atomic_Snow {
+      background-position: -832px 0; }
+    .camo.large.Atomic_Urban {
+      background-position: -1040px 0; }
+    .camo.large.Atomic_Woodland {
+      background-position: -1248px 0; }
+    .camo.large.Custom02 {
+      background-position: -1456px 0; }
+    .camo.large.Custom03 {
+      background-position: -1664px 0; }
+    .camo.large.Custom06 {
+      background-position: -1872px 0; }
+    .camo.large.Custom07 {
+      background-position: -2080px 0; }
+    .camo.large.Custom08 {
+      background-position: -2288px 0; }
+    .camo.large.Custom13 {
+      background-position: 0 -52px; }
+    .camo.large.Custom15 {
+      background-position: -208px -52px; }
+    .camo.large.DICE {
+      background-position: -416px -52px; }
+    .camo.large.Dot_Adaptive {
+      background-position: -624px -52px; }
+    .camo.large.Dot_Autumn {
+      background-position: -832px -52px; }
+    .camo.large.Dot_Desert {
+      background-position: -1040px -52px; }
+    .camo.large.Dot_Naval {
+      background-position: -1248px -52px; }
+    .camo.large.Dot_Snow {
+      background-position: -1456px -52px; }
+    .camo.large.Dot_Urban {
+      background-position: -1664px -52px; }
+    .camo.large.Dot_Woodland {
+      background-position: -1872px -52px; }
+    .camo.large.ERDL_Adaptive {
+      background-position: -2080px -52px; }
+    .camo.large.ERDL_Autumn {
+      background-position: -2288px -52px; }
+    .camo.large.ERDL_Desert {
+      background-position: 0 -104px; }
+    .camo.large.ERDL_Naval {
+      background-position: -208px -104px; }
+    .camo.large.ERDL_Snow {
+      background-position: -416px -104px; }
+    .camo.large.ERDL_Urban {
+      background-position: -624px -104px; }
+    .camo.large.ERDL_Woodland {
+      background-position: -832px -104px; }
+    .camo.large.Flat_Adaptive {
+      background-position: -1040px -104px; }
+    .camo.large.Flat_Autumn {
+      background-position: -1248px -104px; }
+    .camo.large.Flat_Desert {
+      background-position: -1456px -104px; }
+    .camo.large.Flat_Naval {
+      background-position: -1664px -104px; }
+    .camo.large.Flat_Snow {
+      background-position: -1872px -104px; }
+    .camo.large.Flat_Urban {
+      background-position: -2080px -104px; }
+    .camo.large.Flat_Woodland {
+      background-position: -2288px -104px; }
+    .camo.large.Flecktarn_Adaptive {
+      background-position: 0 -156px; }
+    .camo.large.Flecktarn_Autumn {
+      background-position: -208px -156px; }
+    .camo.large.Flecktarn_Desert {
+      background-position: -416px -156px; }
+    .camo.large.Flecktarn_Naval {
+      background-position: -624px -156px; }
+    .camo.large.Flecktarn_Snow {
+      background-position: -832px -156px; }
+    .camo.large.Flecktarn_Urban {
+      background-position: -1040px -156px; }
+    .camo.large.Flecktarn_Woodland {
+      background-position: -1248px -156px; }
+    .camo.large.Grass_Adaptive {
+      background-position: -1456px -156px; }
+    .camo.large.Grass_Autumn {
+      background-position: -1664px -156px; }
+    .camo.large.Grass_Desert {
+      background-position: -1872px -156px; }
+    .camo.large.Grass_Naval {
+      background-position: -2080px -156px; }
+    .camo.large.Grass_Snow {
+      background-position: -2288px -156px; }
+    .camo.large.Grass_Urban {
+      background-position: 0 -208px; }
+    .camo.large.Grass_Woodland {
+      background-position: -208px -208px; }
+    .camo.large.Hexagon_Adaptive {
+      background-position: -416px -208px; }
+    .camo.large.Hexagon_Autumn {
+      background-position: -624px -208px; }
+    .camo.large.Hexagon_Desert {
+      background-position: -832px -208px; }
+    .camo.large.Hexagon_Naval {
+      background-position: -1040px -208px; }
+    .camo.large.Hexagon_Snow {
+      background-position: -1248px -208px; }
+    .camo.large.Hexagon_Urban {
+      background-position: -1456px -208px; }
+    .camo.large.Hexagon_Woodland {
+      background-position: -1664px -208px; }
+    .camo.large.Palm_Adaptive {
+      background-position: -1872px -208px; }
+    .camo.large.Palm_Autumn {
+      background-position: -2080px -208px; }
+    .camo.large.Palm_Desert {
+      background-position: -2288px -208px; }
+    .camo.large.Palm_Naval {
+      background-position: 0 -260px; }
+    .camo.large.Palm_Snow {
+      background-position: -208px -260px; }
+    .camo.large.Palm_Urban {
+      background-position: -416px -260px; }
+    .camo.large.Palm_Woodland {
+      background-position: -624px -260px; }
+    .camo.large.Reed_Adaptive {
+      background-position: -832px -260px; }
+    .camo.large.Reed_Autumn {
+      background-position: -1040px -260px; }
+    .camo.large.Reed_Desert {
+      background-position: -1248px -260px; }
+    .camo.large.Reed_Naval {
+      background-position: -1456px -260px; }
+    .camo.large.Reed_Snow {
+      background-position: -1664px -260px; }
+    .camo.large.Reed_Urban {
+      background-position: -1872px -260px; }
+    .camo.large.Reed_Woodland {
+      background-position: -2080px -260px; }
+    .camo.large.SnakeSkin {
+      background-position: -2288px -260px; }
+    .camo.large.Splinter_Adaptive {
+      background-position: 0 -312px; }
+    .camo.large.Splinter_Autumn {
+      background-position: -208px -312px; }
+    .camo.large.Splinter_Desert {
+      background-position: -416px -312px; }
+    .camo.large.Splinter_Naval {
+      background-position: -624px -312px; }
+    .camo.large.Splinter_Snow {
+      background-position: -832px -312px; }
+    .camo.large.Splinter_Urban {
+      background-position: -1040px -312px; }
+    .camo.large.Splinter_Woodland {
+      background-position: -1248px -312px; }
+    .camo.large.Spray_Adaptive {
+      background-position: -1456px -312px; }
+    .camo.large.Spray_Autumn {
+      background-position: -1664px -312px; }
+    .camo.large.Spray_Desert {
+      background-position: -1872px -312px; }
+    .camo.large.Spray_Naval {
+      background-position: -2080px -312px; }
+    .camo.large.Spray_Snow {
+      background-position: -2288px -312px; }
+    .camo.large.Spray_Urban {
+      background-position: 0 -364px; }
+    .camo.large.Spray_Woodland {
+      background-position: -208px -364px; }
+    .camo.large.Starburst_Adaptive {
+      background-position: -416px -364px; }
+    .camo.large.Starburst_Autumn {
+      background-position: -624px -364px; }
+    .camo.large.Starburst_Desert {
+      background-position: -832px -364px; }
+    .camo.large.Starburst_Naval {
+      background-position: -1040px -364px; }
+    .camo.large.Starburst_Snow {
+      background-position: -1248px -364px; }
+    .camo.large.Starburst_Urban {
+      background-position: -1456px -364px; }
+    .camo.large.Starburst_Woodland {
+      background-position: -1664px -364px; }
+    .camo.large.Tiger_Adaptive {
+      background-position: -1872px -364px; }
+    .camo.large.Tiger_Autumn {
+      background-position: -2080px -364px; }
+    .camo.large.Tiger_Desert {
+      background-position: -2288px -364px; }
+    .camo.large.Tiger_Naval {
+      background-position: 0 -416px; }
+    .camo.large.Tiger_Snow {
+      background-position: -208px -416px; }
+    .camo.large.Tiger_Urban {
+      background-position: -416px -416px; }
+    .camo.large.Tiger_Woodland {
+      background-position: -624px -416px; }
+    .camo.large.Turtle_Adaptive {
+      background-position: -832px -416px; }
+    .camo.large.Turtle_Autumn {
+      background-position: -1040px -416px; }
+    .camo.large.Turtle_Desert {
+      background-position: -1248px -416px; }
+    .camo.large.Turtle_Naval {
+      background-position: -1456px -416px; }
+    .camo.large.Turtle_Snow {
+      background-position: -1664px -416px; }
+    .camo.large.Turtle_Urban {
+      background-position: -1872px -416px; }
+    .camo.large.Turtle_Woodland {
+      background-position: -2080px -416px; }
+    .camo.large.Unlock01 {
+      background-position: -2288px -416px; }
+    .camo.large.Unlock02 {
+      background-position: 0 -468px; }
+    .camo.large.Unlock03 {
+      background-position: -208px -468px; }
+    .camo.large.Unlock04 {
+      background-position: -416px -468px; }
+    .camo.large.Unlock05 {
+      background-position: -624px -468px; }
+    .camo.large.Unlock06 {
+      background-position: -832px -468px; }
+    .camo.large.Unlock07 {
+      background-position: -1040px -468px; }
+    .camo.large.Unlock08 {
+      background-position: -1248px -468px; }
+    .camo.large.Unlock09 {
+      background-position: -1456px -468px; }
+    .camo.large.Unlock10 {
+      background-position: -1664px -468px; }
+    .camo.large.Unlock11 {
+      background-position: -1872px -468px; }
+    .camo.large.Unlock12 {
+      background-position: -2080px -468px; }
+    .camo.large.Unlock13 {
+      background-position: -2288px -468px; }
+    .camo.large.Unlock14 {
+      background-position: 0 -520px; }
+    .camo.large.Worm_Adaptive {
+      background-position: -208px -520px; }
+    .camo.large.Worm_Autumn {
+      background-position: -416px -520px; }
+    .camo.large.Worm_Desert {
+      background-position: -624px -520px; }
+    .camo.large.Worm_Naval {
+      background-position: -832px -520px; }
+    .camo.large.Worm_Snow {
+      background-position: -1040px -520px; }
+    .camo.large.Worm_Urban {
+      background-position: -1248px -520px; }
+    .camo.large.Worm_Woodland {
+      background-position: -1456px -520px; }
+    .camo.large.XP4Custom01 {
+      background-position: -1664px -520px; }
+    .camo.large.XP4Custom02 {
+      background-position: -1872px -520px; }
+    .camo.large.default {
+      background-position: -2080px -520px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.camo {
+  display: inline-block; }
+  .camo.medium {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/medium.png);
+    width: 147px;
+    height: 37px;
+    background-size: 1764px 407px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .camo.medium {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/medium@2x.png); } }
+    .camo.medium.Atomic_Adaptive {
+      background-position: 0 0; }
+    .camo.medium.Atomic_Autumn {
+      background-position: -147px 0; }
+    .camo.medium.Atomic_Desert {
+      background-position: -294px 0; }
+    .camo.medium.Atomic_Naval {
+      background-position: -441px 0; }
+    .camo.medium.Atomic_Snow {
+      background-position: -588px 0; }
+    .camo.medium.Atomic_Urban {
+      background-position: -735px 0; }
+    .camo.medium.Atomic_Woodland {
+      background-position: -882px 0; }
+    .camo.medium.Custom02 {
+      background-position: -1029px 0; }
+    .camo.medium.Custom03 {
+      background-position: -1176px 0; }
+    .camo.medium.Custom06 {
+      background-position: -1323px 0; }
+    .camo.medium.Custom07 {
+      background-position: -1470px 0; }
+    .camo.medium.Custom08 {
+      background-position: -1617px 0; }
+    .camo.medium.Custom13 {
+      background-position: 0 -37px; }
+    .camo.medium.Custom15 {
+      background-position: -147px -37px; }
+    .camo.medium.DICE {
+      background-position: -294px -37px; }
+    .camo.medium.Dot_Adaptive {
+      background-position: -441px -37px; }
+    .camo.medium.Dot_Autumn {
+      background-position: -588px -37px; }
+    .camo.medium.Dot_Desert {
+      background-position: -735px -37px; }
+    .camo.medium.Dot_Naval {
+      background-position: -882px -37px; }
+    .camo.medium.Dot_Snow {
+      background-position: -1029px -37px; }
+    .camo.medium.Dot_Urban {
+      background-position: -1176px -37px; }
+    .camo.medium.Dot_Woodland {
+      background-position: -1323px -37px; }
+    .camo.medium.ERDL_Adaptive {
+      background-position: -1470px -37px; }
+    .camo.medium.ERDL_Autumn {
+      background-position: -1617px -37px; }
+    .camo.medium.ERDL_Desert {
+      background-position: 0 -74px; }
+    .camo.medium.ERDL_Naval {
+      background-position: -147px -74px; }
+    .camo.medium.ERDL_Snow {
+      background-position: -294px -74px; }
+    .camo.medium.ERDL_Urban {
+      background-position: -441px -74px; }
+    .camo.medium.ERDL_Woodland {
+      background-position: -588px -74px; }
+    .camo.medium.Flat_Adaptive {
+      background-position: -735px -74px; }
+    .camo.medium.Flat_Autumn {
+      background-position: -882px -74px; }
+    .camo.medium.Flat_Desert {
+      background-position: -1029px -74px; }
+    .camo.medium.Flat_Naval {
+      background-position: -1176px -74px; }
+    .camo.medium.Flat_Snow {
+      background-position: -1323px -74px; }
+    .camo.medium.Flat_Urban {
+      background-position: -1470px -74px; }
+    .camo.medium.Flat_Woodland {
+      background-position: -1617px -74px; }
+    .camo.medium.Flecktarn_Adaptive {
+      background-position: 0 -111px; }
+    .camo.medium.Flecktarn_Autumn {
+      background-position: -147px -111px; }
+    .camo.medium.Flecktarn_Desert {
+      background-position: -294px -111px; }
+    .camo.medium.Flecktarn_Naval {
+      background-position: -441px -111px; }
+    .camo.medium.Flecktarn_Snow {
+      background-position: -588px -111px; }
+    .camo.medium.Flecktarn_Urban {
+      background-position: -735px -111px; }
+    .camo.medium.Flecktarn_Woodland {
+      background-position: -882px -111px; }
+    .camo.medium.Grass_Adaptive {
+      background-position: -1029px -111px; }
+    .camo.medium.Grass_Autumn {
+      background-position: -1176px -111px; }
+    .camo.medium.Grass_Desert {
+      background-position: -1323px -111px; }
+    .camo.medium.Grass_Naval {
+      background-position: -1470px -111px; }
+    .camo.medium.Grass_Snow {
+      background-position: -1617px -111px; }
+    .camo.medium.Grass_Urban {
+      background-position: 0 -148px; }
+    .camo.medium.Grass_Woodland {
+      background-position: -147px -148px; }
+    .camo.medium.Hexagon_Adaptive {
+      background-position: -294px -148px; }
+    .camo.medium.Hexagon_Autumn {
+      background-position: -441px -148px; }
+    .camo.medium.Hexagon_Desert {
+      background-position: -588px -148px; }
+    .camo.medium.Hexagon_Naval {
+      background-position: -735px -148px; }
+    .camo.medium.Hexagon_Snow {
+      background-position: -882px -148px; }
+    .camo.medium.Hexagon_Urban {
+      background-position: -1029px -148px; }
+    .camo.medium.Hexagon_Woodland {
+      background-position: -1176px -148px; }
+    .camo.medium.Palm_Adaptive {
+      background-position: -1323px -148px; }
+    .camo.medium.Palm_Autumn {
+      background-position: -1470px -148px; }
+    .camo.medium.Palm_Desert {
+      background-position: -1617px -148px; }
+    .camo.medium.Palm_Naval {
+      background-position: 0 -185px; }
+    .camo.medium.Palm_Snow {
+      background-position: -147px -185px; }
+    .camo.medium.Palm_Urban {
+      background-position: -294px -185px; }
+    .camo.medium.Palm_Woodland {
+      background-position: -441px -185px; }
+    .camo.medium.Reed_Adaptive {
+      background-position: -588px -185px; }
+    .camo.medium.Reed_Autumn {
+      background-position: -735px -185px; }
+    .camo.medium.Reed_Desert {
+      background-position: -882px -185px; }
+    .camo.medium.Reed_Naval {
+      background-position: -1029px -185px; }
+    .camo.medium.Reed_Snow {
+      background-position: -1176px -185px; }
+    .camo.medium.Reed_Urban {
+      background-position: -1323px -185px; }
+    .camo.medium.Reed_Woodland {
+      background-position: -1470px -185px; }
+    .camo.medium.SnakeSkin {
+      background-position: -1617px -185px; }
+    .camo.medium.Splinter_Adaptive {
+      background-position: 0 -222px; }
+    .camo.medium.Splinter_Autumn {
+      background-position: -147px -222px; }
+    .camo.medium.Splinter_Desert {
+      background-position: -294px -222px; }
+    .camo.medium.Splinter_Naval {
+      background-position: -441px -222px; }
+    .camo.medium.Splinter_Snow {
+      background-position: -588px -222px; }
+    .camo.medium.Splinter_Urban {
+      background-position: -735px -222px; }
+    .camo.medium.Splinter_Woodland {
+      background-position: -882px -222px; }
+    .camo.medium.Spray_Adaptive {
+      background-position: -1029px -222px; }
+    .camo.medium.Spray_Autumn {
+      background-position: -1176px -222px; }
+    .camo.medium.Spray_Desert {
+      background-position: -1323px -222px; }
+    .camo.medium.Spray_Naval {
+      background-position: -1470px -222px; }
+    .camo.medium.Spray_Snow {
+      background-position: -1617px -222px; }
+    .camo.medium.Spray_Urban {
+      background-position: 0 -259px; }
+    .camo.medium.Spray_Woodland {
+      background-position: -147px -259px; }
+    .camo.medium.Starburst_Adaptive {
+      background-position: -294px -259px; }
+    .camo.medium.Starburst_Autumn {
+      background-position: -441px -259px; }
+    .camo.medium.Starburst_Desert {
+      background-position: -588px -259px; }
+    .camo.medium.Starburst_Naval {
+      background-position: -735px -259px; }
+    .camo.medium.Starburst_Snow {
+      background-position: -882px -259px; }
+    .camo.medium.Starburst_Urban {
+      background-position: -1029px -259px; }
+    .camo.medium.Starburst_Woodland {
+      background-position: -1176px -259px; }
+    .camo.medium.Tiger_Adaptive {
+      background-position: -1323px -259px; }
+    .camo.medium.Tiger_Autumn {
+      background-position: -1470px -259px; }
+    .camo.medium.Tiger_Desert {
+      background-position: -1617px -259px; }
+    .camo.medium.Tiger_Naval {
+      background-position: 0 -296px; }
+    .camo.medium.Tiger_Snow {
+      background-position: -147px -296px; }
+    .camo.medium.Tiger_Urban {
+      background-position: -294px -296px; }
+    .camo.medium.Tiger_Woodland {
+      background-position: -441px -296px; }
+    .camo.medium.Turtle_Adaptive {
+      background-position: -588px -296px; }
+    .camo.medium.Turtle_Autumn {
+      background-position: -735px -296px; }
+    .camo.medium.Turtle_Desert {
+      background-position: -882px -296px; }
+    .camo.medium.Turtle_Naval {
+      background-position: -1029px -296px; }
+    .camo.medium.Turtle_Snow {
+      background-position: -1176px -296px; }
+    .camo.medium.Turtle_Urban {
+      background-position: -1323px -296px; }
+    .camo.medium.Turtle_Woodland {
+      background-position: -1470px -296px; }
+    .camo.medium.Unlock01 {
+      background-position: -1617px -296px; }
+    .camo.medium.Unlock02 {
+      background-position: 0 -333px; }
+    .camo.medium.Unlock03 {
+      background-position: -147px -333px; }
+    .camo.medium.Unlock04 {
+      background-position: -294px -333px; }
+    .camo.medium.Unlock05 {
+      background-position: -441px -333px; }
+    .camo.medium.Unlock06 {
+      background-position: -588px -333px; }
+    .camo.medium.Unlock07 {
+      background-position: -735px -333px; }
+    .camo.medium.Unlock08 {
+      background-position: -882px -333px; }
+    .camo.medium.Unlock09 {
+      background-position: -1029px -333px; }
+    .camo.medium.Unlock10 {
+      background-position: -1176px -333px; }
+    .camo.medium.Unlock11 {
+      background-position: -1323px -333px; }
+    .camo.medium.Unlock12 {
+      background-position: -1470px -333px; }
+    .camo.medium.Unlock13 {
+      background-position: -1617px -333px; }
+    .camo.medium.Unlock14 {
+      background-position: 0 -370px; }
+    .camo.medium.Worm_Adaptive {
+      background-position: -147px -370px; }
+    .camo.medium.Worm_Autumn {
+      background-position: -294px -370px; }
+    .camo.medium.Worm_Desert {
+      background-position: -441px -370px; }
+    .camo.medium.Worm_Naval {
+      background-position: -588px -370px; }
+    .camo.medium.Worm_Snow {
+      background-position: -735px -370px; }
+    .camo.medium.Worm_Urban {
+      background-position: -882px -370px; }
+    .camo.medium.Worm_Woodland {
+      background-position: -1029px -370px; }
+    .camo.medium.XP4Custom01 {
+      background-position: -1176px -370px; }
+    .camo.medium.XP4Custom02 {
+      background-position: -1323px -370px; }
+    .camo.medium.default {
+      background-position: -1470px -370px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.camo {
+  display: inline-block; }
+  .camo.small {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/small.png);
+    width: 64px;
+    height: 16px;
+    background-size: 768px 176px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .camo.small {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/small@2x.png); } }
+    .camo.small.Atomic_Adaptive {
+      background-position: 0 0; }
+    .camo.small.Atomic_Autumn {
+      background-position: -64px 0; }
+    .camo.small.Atomic_Desert {
+      background-position: -128px 0; }
+    .camo.small.Atomic_Naval {
+      background-position: -192px 0; }
+    .camo.small.Atomic_Snow {
+      background-position: -256px 0; }
+    .camo.small.Atomic_Urban {
+      background-position: -320px 0; }
+    .camo.small.Atomic_Woodland {
+      background-position: -384px 0; }
+    .camo.small.Custom02 {
+      background-position: -448px 0; }
+    .camo.small.Custom03 {
+      background-position: -512px 0; }
+    .camo.small.Custom06 {
+      background-position: -576px 0; }
+    .camo.small.Custom07 {
+      background-position: -640px 0; }
+    .camo.small.Custom08 {
+      background-position: -704px 0; }
+    .camo.small.Custom13 {
+      background-position: 0 -16px; }
+    .camo.small.Custom15 {
+      background-position: -64px -16px; }
+    .camo.small.DICE {
+      background-position: -128px -16px; }
+    .camo.small.Dot_Adaptive {
+      background-position: -192px -16px; }
+    .camo.small.Dot_Autumn {
+      background-position: -256px -16px; }
+    .camo.small.Dot_Desert {
+      background-position: -320px -16px; }
+    .camo.small.Dot_Naval {
+      background-position: -384px -16px; }
+    .camo.small.Dot_Snow {
+      background-position: -448px -16px; }
+    .camo.small.Dot_Urban {
+      background-position: -512px -16px; }
+    .camo.small.Dot_Woodland {
+      background-position: -576px -16px; }
+    .camo.small.ERDL_Adaptive {
+      background-position: -640px -16px; }
+    .camo.small.ERDL_Autumn {
+      background-position: -704px -16px; }
+    .camo.small.ERDL_Desert {
+      background-position: 0 -32px; }
+    .camo.small.ERDL_Naval {
+      background-position: -64px -32px; }
+    .camo.small.ERDL_Snow {
+      background-position: -128px -32px; }
+    .camo.small.ERDL_Urban {
+      background-position: -192px -32px; }
+    .camo.small.ERDL_Woodland {
+      background-position: -256px -32px; }
+    .camo.small.Flat_Adaptive {
+      background-position: -320px -32px; }
+    .camo.small.Flat_Autumn {
+      background-position: -384px -32px; }
+    .camo.small.Flat_Desert {
+      background-position: -448px -32px; }
+    .camo.small.Flat_Naval {
+      background-position: -512px -32px; }
+    .camo.small.Flat_Snow {
+      background-position: -576px -32px; }
+    .camo.small.Flat_Urban {
+      background-position: -640px -32px; }
+    .camo.small.Flat_Woodland {
+      background-position: -704px -32px; }
+    .camo.small.Flecktarn_Adaptive {
+      background-position: 0 -48px; }
+    .camo.small.Flecktarn_Autumn {
+      background-position: -64px -48px; }
+    .camo.small.Flecktarn_Desert {
+      background-position: -128px -48px; }
+    .camo.small.Flecktarn_Naval {
+      background-position: -192px -48px; }
+    .camo.small.Flecktarn_Snow {
+      background-position: -256px -48px; }
+    .camo.small.Flecktarn_Urban {
+      background-position: -320px -48px; }
+    .camo.small.Flecktarn_Woodland {
+      background-position: -384px -48px; }
+    .camo.small.Grass_Adaptive {
+      background-position: -448px -48px; }
+    .camo.small.Grass_Autumn {
+      background-position: -512px -48px; }
+    .camo.small.Grass_Desert {
+      background-position: -576px -48px; }
+    .camo.small.Grass_Naval {
+      background-position: -640px -48px; }
+    .camo.small.Grass_Snow {
+      background-position: -704px -48px; }
+    .camo.small.Grass_Urban {
+      background-position: 0 -64px; }
+    .camo.small.Grass_Woodland {
+      background-position: -64px -64px; }
+    .camo.small.Hexagon_Adaptive {
+      background-position: -128px -64px; }
+    .camo.small.Hexagon_Autumn {
+      background-position: -192px -64px; }
+    .camo.small.Hexagon_Desert {
+      background-position: -256px -64px; }
+    .camo.small.Hexagon_Naval {
+      background-position: -320px -64px; }
+    .camo.small.Hexagon_Snow {
+      background-position: -384px -64px; }
+    .camo.small.Hexagon_Urban {
+      background-position: -448px -64px; }
+    .camo.small.Hexagon_Woodland {
+      background-position: -512px -64px; }
+    .camo.small.Palm_Adaptive {
+      background-position: -576px -64px; }
+    .camo.small.Palm_Autumn {
+      background-position: -640px -64px; }
+    .camo.small.Palm_Desert {
+      background-position: -704px -64px; }
+    .camo.small.Palm_Naval {
+      background-position: 0 -80px; }
+    .camo.small.Palm_Snow {
+      background-position: -64px -80px; }
+    .camo.small.Palm_Urban {
+      background-position: -128px -80px; }
+    .camo.small.Palm_Woodland {
+      background-position: -192px -80px; }
+    .camo.small.Reed_Adaptive {
+      background-position: -256px -80px; }
+    .camo.small.Reed_Autumn {
+      background-position: -320px -80px; }
+    .camo.small.Reed_Desert {
+      background-position: -384px -80px; }
+    .camo.small.Reed_Naval {
+      background-position: -448px -80px; }
+    .camo.small.Reed_Snow {
+      background-position: -512px -80px; }
+    .camo.small.Reed_Urban {
+      background-position: -576px -80px; }
+    .camo.small.Reed_Woodland {
+      background-position: -640px -80px; }
+    .camo.small.SnakeSkin {
+      background-position: -704px -80px; }
+    .camo.small.Splinter_Adaptive {
+      background-position: 0 -96px; }
+    .camo.small.Splinter_Autumn {
+      background-position: -64px -96px; }
+    .camo.small.Splinter_Desert {
+      background-position: -128px -96px; }
+    .camo.small.Splinter_Naval {
+      background-position: -192px -96px; }
+    .camo.small.Splinter_Snow {
+      background-position: -256px -96px; }
+    .camo.small.Splinter_Urban {
+      background-position: -320px -96px; }
+    .camo.small.Splinter_Woodland {
+      background-position: -384px -96px; }
+    .camo.small.Spray_Adaptive {
+      background-position: -448px -96px; }
+    .camo.small.Spray_Autumn {
+      background-position: -512px -96px; }
+    .camo.small.Spray_Desert {
+      background-position: -576px -96px; }
+    .camo.small.Spray_Naval {
+      background-position: -640px -96px; }
+    .camo.small.Spray_Snow {
+      background-position: -704px -96px; }
+    .camo.small.Spray_Urban {
+      background-position: 0 -112px; }
+    .camo.small.Spray_Woodland {
+      background-position: -64px -112px; }
+    .camo.small.Starburst_Adaptive {
+      background-position: -128px -112px; }
+    .camo.small.Starburst_Autumn {
+      background-position: -192px -112px; }
+    .camo.small.Starburst_Desert {
+      background-position: -256px -112px; }
+    .camo.small.Starburst_Naval {
+      background-position: -320px -112px; }
+    .camo.small.Starburst_Snow {
+      background-position: -384px -112px; }
+    .camo.small.Starburst_Urban {
+      background-position: -448px -112px; }
+    .camo.small.Starburst_Woodland {
+      background-position: -512px -112px; }
+    .camo.small.Tiger_Adaptive {
+      background-position: -576px -112px; }
+    .camo.small.Tiger_Autumn {
+      background-position: -640px -112px; }
+    .camo.small.Tiger_Desert {
+      background-position: -704px -112px; }
+    .camo.small.Tiger_Naval {
+      background-position: 0 -128px; }
+    .camo.small.Tiger_Snow {
+      background-position: -64px -128px; }
+    .camo.small.Tiger_Urban {
+      background-position: -128px -128px; }
+    .camo.small.Tiger_Woodland {
+      background-position: -192px -128px; }
+    .camo.small.Turtle_Adaptive {
+      background-position: -256px -128px; }
+    .camo.small.Turtle_Autumn {
+      background-position: -320px -128px; }
+    .camo.small.Turtle_Desert {
+      background-position: -384px -128px; }
+    .camo.small.Turtle_Naval {
+      background-position: -448px -128px; }
+    .camo.small.Turtle_Snow {
+      background-position: -512px -128px; }
+    .camo.small.Turtle_Urban {
+      background-position: -576px -128px; }
+    .camo.small.Turtle_Woodland {
+      background-position: -640px -128px; }
+    .camo.small.Unlock01 {
+      background-position: -704px -128px; }
+    .camo.small.Unlock02 {
+      background-position: 0 -144px; }
+    .camo.small.Unlock03 {
+      background-position: -64px -144px; }
+    .camo.small.Unlock04 {
+      background-position: -128px -144px; }
+    .camo.small.Unlock05 {
+      background-position: -192px -144px; }
+    .camo.small.Unlock06 {
+      background-position: -256px -144px; }
+    .camo.small.Unlock07 {
+      background-position: -320px -144px; }
+    .camo.small.Unlock08 {
+      background-position: -384px -144px; }
+    .camo.small.Unlock09 {
+      background-position: -448px -144px; }
+    .camo.small.Unlock10 {
+      background-position: -512px -144px; }
+    .camo.small.Unlock11 {
+      background-position: -576px -144px; }
+    .camo.small.Unlock12 {
+      background-position: -640px -144px; }
+    .camo.small.Unlock13 {
+      background-position: -704px -144px; }
+    .camo.small.Unlock14 {
+      background-position: 0 -160px; }
+    .camo.small.Worm_Adaptive {
+      background-position: -64px -160px; }
+    .camo.small.Worm_Autumn {
+      background-position: -128px -160px; }
+    .camo.small.Worm_Desert {
+      background-position: -192px -160px; }
+    .camo.small.Worm_Naval {
+      background-position: -256px -160px; }
+    .camo.small.Worm_Snow {
+      background-position: -320px -160px; }
+    .camo.small.Worm_Urban {
+      background-position: -384px -160px; }
+    .camo.small.Worm_Woodland {
+      background-position: -448px -160px; }
+    .camo.small.XP4Custom01 {
+      background-position: -512px -160px; }
+    .camo.small.XP4Custom02 {
+      background-position: -576px -160px; }
+    .camo.small.default {
+      background-position: -640px -160px; }
+
+/* THIS FILE IS AUTO GENERATED. DO NO EDIT. */
+.camo {
+  display: inline-block; }
+  .camo.xsmall {
+    background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/xsmall.png);
+    width: 56px;
+    height: 14px;
+    background-size: 672px 154px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+      .camo.xsmall {
+        background-image: url(http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/production-284-20170531/public/profile/warsaw/gamedata/camo/xsmall@2x.png); } }
+    .camo.xsmall.Atomic_Adaptive {
+      background-position: 0 0; }
+    .camo.xsmall.Atomic_Autumn {
+      background-position: -56px 0; }
+    .camo.xsmall.Atomic_Desert {
+      background-position: -112px 0; }
+    .camo.xsmall.Atomic_Naval {
+      background-position: -168px 0; }
+    .camo.xsmall.Atomic_Snow {
+      background-position: -224px 0; }
+    .camo.xsmall.Atomic_Urban {
+      background-position: -280px 0; }
+    .camo.xsmall.Atomic_Woodland {
+      background-position: -336px 0; }
+    .camo.xsmall.Custom02 {
+      background-position: -392px 0; }
+    .camo.xsmall.Custom03 {
+      background-position: -448px 0; }
+    .camo.xsmall.Custom06 {
+      background-position: -504px 0; }
+    .camo.xsmall.Custom07 {
+      background-position: -560px 0; }
+    .camo.xsmall.Custom08 {
+      background-position: -616px 0; }
+    .camo.xsmall.Custom13 {
+      background-position: 0 -14px; }
+    .camo.xsmall.Custom15 {
+      background-position: -56px -14px; }
+    .camo.xsmall.DICE {
+      background-position: -112px -14px; }
+    .camo.xsmall.Dot_Adaptive {
+      background-position: -168px -14px; }
+    .camo.xsmall.Dot_Autumn {
+      background-position: -224px -14px; }
+    .camo.xsmall.Dot_Desert {
+      background-position: -280px -14px; }
+    .camo.xsmall.Dot_Naval {
+      background-position: -336px -14px; }
+    .camo.xsmall.Dot_Snow {
+      background-position: -392px -14px; }
+    .camo.xsmall.Dot_Urban {
+      background-position: -448px -14px; }
+    .camo.xsmall.Dot_Woodland {
+      background-position: -504px -14px; }
+    .camo.xsmall.ERDL_Adaptive {
+      background-position: -560px -14px; }
+    .camo.xsmall.ERDL_Autumn {
+      background-position: -616px -14px; }
+    .camo.xsmall.ERDL_Desert {
+      background-position: 0 -28px; }
+    .camo.xsmall.ERDL_Naval {
+      background-position: -56px -28px; }
+    .camo.xsmall.ERDL_Snow {
+      background-position: -112px -28px; }
+    .camo.xsmall.ERDL_Urban {
+      background-position: -168px -28px; }
+    .camo.xsmall.ERDL_Woodland {
+      background-position: -224px -28px; }
+    .camo.xsmall.Flat_Adaptive {
+      background-position: -280px -28px; }
+    .camo.xsmall.Flat_Autumn {
+      background-position: -336px -28px; }
+    .camo.xsmall.Flat_Desert {
+      background-position: -392px -28px; }
+    .camo.xsmall.Flat_Naval {
+      background-position: -448px -28px; }
+    .camo.xsmall.Flat_Snow {
+      background-position: -504px -28px; }
+    .camo.xsmall.Flat_Urban {
+      background-position: -560px -28px; }
+    .camo.xsmall.Flat_Woodland {
+      background-position: -616px -28px; }
+    .camo.xsmall.Flecktarn_Adaptive {
+      background-position: 0 -42px; }
+    .camo.xsmall.Flecktarn_Autumn {
+      background-position: -56px -42px; }
+    .camo.xsmall.Flecktarn_Desert {
+      background-position: -112px -42px; }
+    .camo.xsmall.Flecktarn_Naval {
+      background-position: -168px -42px; }
+    .camo.xsmall.Flecktarn_Snow {
+      background-position: -224px -42px; }
+    .camo.xsmall.Flecktarn_Urban {
+      background-position: -280px -42px; }
+    .camo.xsmall.Flecktarn_Woodland {
+      background-position: -336px -42px; }
+    .camo.xsmall.Grass_Adaptive {
+      background-position: -392px -42px; }
+    .camo.xsmall.Grass_Autumn {
+      background-position: -448px -42px; }
+    .camo.xsmall.Grass_Desert {
+      background-position: -504px -42px; }
+    .camo.xsmall.Grass_Naval {
+      background-position: -560px -42px; }
+    .camo.xsmall.Grass_Snow {
+      background-position: -616px -42px; }
+    .camo.xsmall.Grass_Urban {
+      background-position: 0 -56px; }
+    .camo.xsmall.Grass_Woodland {
+      background-position: -56px -56px; }
+    .camo.xsmall.Hexagon_Adaptive {
+      background-position: -112px -56px; }
+    .camo.xsmall.Hexagon_Autumn {
+      background-position: -168px -56px; }
+    .camo.xsmall.Hexagon_Desert {
+      background-position: -224px -56px; }
+    .camo.xsmall.Hexagon_Naval {
+      background-position: -280px -56px; }
+    .camo.xsmall.Hexagon_Snow {
+      background-position: -336px -56px; }
+    .camo.xsmall.Hexagon_Urban {
+      background-position: -392px -56px; }
+    .camo.xsmall.Hexagon_Woodland {
+      background-position: -448px -56px; }
+    .camo.xsmall.Palm_Adaptive {
+      background-position: -504px -56px; }
+    .camo.xsmall.Palm_Autumn {
+      background-position: -560px -56px; }
+    .camo.xsmall.Palm_Desert {
+      background-position: -616px -56px; }
+    .camo.xsmall.Palm_Naval {
+      background-position: 0 -70px; }
+    .camo.xsmall.Palm_Snow {
+      background-position: -56px -70px; }
+    .camo.xsmall.Palm_Urban {
+      background-position: -112px -70px; }
+    .camo.xsmall.Palm_Woodland {
+      background-position: -168px -70px; }
+    .camo.xsmall.Reed_Adaptive {
+      background-position: -224px -70px; }
+    .camo.xsmall.Reed_Autumn {
+      background-position: -280px -70px; }
+    .camo.xsmall.Reed_Desert {
+      background-position: -336px -70px; }
+    .camo.xsmall.Reed_Naval {
+      background-position: -392px -70px; }
+    .camo.xsmall.Reed_Snow {
+      background-position: -448px -70px; }
+    .camo.xsmall.Reed_Urban {
+      background-position: -504px -70px; }
+    .camo.xsmall.Reed_Woodland {
+      background-position: -560px -70px; }
+    .camo.xsmall.SnakeSkin {
+      background-position: -616px -70px; }
+    .camo.xsmall.Splinter_Adaptive {
+      background-position: 0 -84px; }
+    .camo.xsmall.Splinter_Autumn {
+      background-position: -56px -84px; }
+    .camo.xsmall.Splinter_Desert {
+      background-position: -112px -84px; }
+    .camo.xsmall.Splinter_Naval {
+      background-position: -168px -84px; }
+    .camo.xsmall.Splinter_Snow {
+      background-position: -224px -84px; }
+    .camo.xsmall.Splinter_Urban {
+      background-position: -280px -84px; }
+    .camo.xsmall.Splinter_Woodland {
+      background-position: -336px -84px; }
+    .camo.xsmall.Spray_Adaptive {
+      background-position: -392px -84px; }
+    .camo.xsmall.Spray_Autumn {
+      background-position: -448px -84px; }
+    .camo.xsmall.Spray_Desert {
+      background-position: -504px -84px; }
+    .camo.xsmall.Spray_Naval {
+      background-position: -560px -84px; }
+    .camo.xsmall.Spray_Snow {
+      background-position: -616px -84px; }
+    .camo.xsmall.Spray_Urban {
+      background-position: 0 -98px; }
+    .camo.xsmall.Spray_Woodland {
+      background-position: -56px -98px; }
+    .camo.xsmall.Starburst_Adaptive {
+      background-position: -112px -98px; }
+    .camo.xsmall.Starburst_Autumn {
+      background-position: -168px -98px; }
+    .camo.xsmall.Starburst_Desert {
+      background-position: -224px -98px; }
+    .camo.xsmall.Starburst_Naval {
+      background-position: -280px -98px; }
+    .camo.xsmall.Starburst_Snow {
+      background-position: -336px -98px; }
+    .camo.xsmall.Starburst_Urban {
+      background-position: -392px -98px; }
+    .camo.xsmall.Starburst_Woodland {
+      background-position: -448px -98px; }
+    .camo.xsmall.Tiger_Adaptive {
+      background-position: -504px -98px; }
+    .camo.xsmall.Tiger_Autumn {
+      background-position: -560px -98px; }
+    .camo.xsmall.Tiger_Desert {
+      background-position: -616px -98px; }
+    .camo.xsmall.Tiger_Naval {
+      background-position: 0 -112px; }
+    .camo.xsmall.Tiger_Snow {
+      background-position: -56px -112px; }
+    .camo.xsmall.Tiger_Urban {
+      background-position: -112px -112px; }
+    .camo.xsmall.Tiger_Woodland {
+      background-position: -168px -112px; }
+    .camo.xsmall.Turtle_Adaptive {
+      background-position: -224px -112px; }
+    .camo.xsmall.Turtle_Autumn {
+      background-position: -280px -112px; }
+    .camo.xsmall.Turtle_Desert {
+      background-position: -336px -112px; }
+    .camo.xsmall.Turtle_Naval {
+      background-position: -392px -112px; }
+    .camo.xsmall.Turtle_Snow {
+      background-position: -448px -112px; }
+    .camo.xsmall.Turtle_Urban {
+      background-position: -504px -112px; }
+    .camo.xsmall.Turtle_Woodland {
+      background-position: -560px -112px; }
+    .camo.xsmall.Unlock01 {
+      background-position: -616px -112px; }
+    .camo.xsmall.Unlock02 {
+      background-position: 0 -126px; }
+    .camo.xsmall.Unlock03 {
+      background-position: -56px -126px; }
+    .camo.xsmall.Unlock04 {
+      background-position: -112px -126px; }
+    .camo.xsmall.Unlock05 {
+      background-position: -168px -126px; }
+    .camo.xsmall.Unlock06 {
+      background-position: -224px -126px; }
+    .camo.xsmall.Unlock07 {
+      background-position: -280px -126px; }
+    .camo.xsmall.Unlock08 {
+      background-position: -336px -126px; }
+    .camo.xsmall.Unlock09 {
+      background-position: -392px -126px; }
+    .camo.xsmall.Unlock10 {
+      background-position: -448px -126px; }
+    .camo.xsmall.Unlock11 {
+      background-position: -504px -126px; }
+    .camo.xsmall.Unlock12 {
+      background-position: -560px -126px; }
+    .camo.xsmall.Unlock13 {
+      background-position: -616px -126px; }
+    .camo.xsmall.Unlock14 {
+      background-position: 0 -140px; }
+    .camo.xsmall.Worm_Adaptive {
+      background-position: -56px -140px; }
+    .camo.xsmall.Worm_Autumn {
+      background-position: -112px -140px; }
+    .camo.xsmall.Worm_Desert {
+      background-position: -168px -140px; }
+    .camo.xsmall.Worm_Naval {
+      background-position: -224px -140px; }
+    .camo.xsmall.Worm_Snow {
+      background-position: -280px -140px; }
+    .camo.xsmall.Worm_Urban {
+      background-position: -336px -140px; }
+    .camo.xsmall.Worm_Woodland {
+      background-position: -392px -140px; }
+    .camo.xsmall.XP4Custom01 {
+      background-position: -448px -140px; }
+    .camo.xsmall.XP4Custom02 {
+      background-position: -504px -140px; }
+    .camo.xsmall.default {
+      background-position: -560px -140px; }

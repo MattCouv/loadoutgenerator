@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
 import { Switch, Route } from "react-router";
 import Loadout from "./screens/Loadout";
-import Login from "./screens/Login";
+import Loading from "./screens/Loading";
+// import Login from "./screens/Login";
 import About from "./screens/About";
 import Menu from './Components/Menu';
 import "./css/normalize.css";
 import "./css/main.css";
+import "./css/lineart.css";
+import Generator from './Components/Generator';
 
 const fetchPlayerData = (plat, name) => {
   const url = "https://api.bf4stats.com/api/playerInfo?plat=" + plat + "&name=" + name + "&opt=assignments,imagePaths,names,upcomingUnlocks,weapons,details,kititems&output=json";
@@ -27,6 +30,17 @@ class App extends Component {
       loading: true,
       player: null,
       loadout: null
+    }
+    this.Generator = new Generator();
+
+    this.generate = {
+      genAll: this.genAll,
+      genPrimary: this.genPrimary,
+      genSecondary: this.genSecondary,
+      genGadget1: this.genGadget1,
+      genGadget2: this.genGadget2,
+      genGrenade: this.genGrenade,
+      genKnife: this.genKnife
     }
   }
 
@@ -58,17 +72,59 @@ class App extends Component {
   }
 
   setLoadout = (loadout) => {
-    this.setState({...this.state, loadout});
+    this.setState({...this.state, loadout, loading: false});
+  }
+
+  genAll = () => {
+    this.Generator.randomKit()
+      .randomPrimary()
+      .randomSecondary()
+      .randomGadget1()
+      .randomGadget2()
+      .randomGrenade()
+      .randomKnife();
+    this.setLoadout(this.Generator.loadout);
+  }
+
+  genPrimary = () => {
+    this.Generator.randomPrimary();
+    this.setLoadout(this.Generator.loadout);
+  }
+
+  genSecondary = () => {
+    this.Generator.randomSecondary();
+    this.setLoadout(this.Generator.loadout);
+  }
+
+  genGadget1 = () => {
+    this.Generator.randomGadget1();
+    this.setLoadout(this.Generator.loadout);
+  }
+
+  genGadget2 = () => {
+    this.Generator.randomGadget2();
+    this.setLoadout(this.Generator.loadout);
+  }
+
+  genGrenade = () => {
+    this.Generator.randomGrenade();
+    this.setLoadout(this.Generator.loadout);
+  }
+
+  genKnife = () => {
+    this.Generator.randomKnife();
+    this.setLoadout(this.Generator.loadout);
   }
 
   componentDidMount() {
-    const {plat, name} = this.state.login;
-    fetchPlayerData(plat, name)
-      .then((json) => {
-        this.setState({ ...this.state, player: json, loading: false })
-      }).catch( () => {
-        this.setState({...this.state, loading: false})
-      });
+    // const {plat, name} = this.state.login;
+    // fetchPlayerData(plat, name)
+    //   .then((json) => {
+    //     this.setState({ ...this.state, player: json, loading: false })
+    //   }).catch( () => {
+    //     this.setState({...this.state, loading: false})
+    //   });
+    this.genAll();
   }
 
   render() {
@@ -76,15 +132,19 @@ class App extends Component {
       <div>
         <Menu reset={this.reset}/>
         <Switch>
-          <Route exact path="/" component={() => 
+          <Route exact path="/" component={() => this.state.loading ? 
+            <Loading /> :
+            <Loadout generate={this.generate} loadout={this.state.loadout} />
+          }/>
+          {/* <Route exact path="/" component={() => 
             this.state.loading ? (<div>loading!!</div>):
             this.state.player === null ?
             <Login 
               name={this.state.login.name}
               plat={this.state.login.plat}
               getPlayer={this.submitLogin}/>:
-                <Loadout player={this.state.player} loadout={this.state.loadout} setLoadout={this.setLoadout}/>
-            }/>
+                <Loadout player={this.state.player} loadout={this.Generator.loadout} setLoadout={this.setLoadout}/>
+            }/> */}
           <Route path="/about" component={About}/>
         </Switch>
       </div>

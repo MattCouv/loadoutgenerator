@@ -27,6 +27,50 @@ h1,h2,h3,h4{
 input{
 	border:solid #fff 1px;
 }
+.lds-facebook {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.lds-facebook div {
+  display: inline-block;
+  position: absolute;
+  left: 6px;
+  width: 13px;
+  background: #fff;
+  animation: lds-facebook 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+}
+.lds-facebook div:nth-child(1) {
+  left: 6px;
+  animation-delay: -0.24s;
+}
+.lds-facebook div:nth-child(2) {
+  left: 26px;
+  animation-delay: -0.12s;
+}
+.lds-facebook div:nth-child(3) {
+  left: 45px;
+  animation-delay: 0;
+}
+@keyframes lds-facebook {
+  0% {
+    top: 6px;
+    height: 51px;
+  }
+  50%, 100% {
+    top: 19px;
+    height: 26px;
+  }
+}
+.loading {
+	padding: 0;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(7, 7, 7, 0.5);
+    height: 80vh;
+}
 .nav{
 	width: 100%;
 	background: #181B20;
@@ -101,7 +145,7 @@ input{
 }
 .loadout-container-wpr,.container{
   	margin: 0px auto;
-  	padding-top: 5px;
+	margin-top: 100px;
   	max-width: 320px;
 }
 .loadout-kit .picture{
@@ -109,14 +153,47 @@ input{
 
 }
 .loadout-item-container {
-	width: 100%;
+	width: 276px;
+}
+.loadout-item-name {
+    min-height: 12px;
+    float: right;
+    width: 163px;
+}
+.loadout-item-name span{
+	padding: 6px 5px;
+    display: block;
+    font-weight: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.loadout-item-picture {
+    float: left;
+    height: 31px;
+    width: 64px;
+    overflow: hidden;
+    display: table;
+    padding-left: 5px;
+}
+.loadout-item-picture-inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 1px;
+}
+.loadout-item-info {
+	font-size: 12px;
+    padding: 12px 0;
+    overflow: hidden;
+    display: block;
 }
 .gen-border{
 	border: solid #ff9900 1px;
 	color:#ff9900;
 }
 .gen-border h1{
-	line-height: 95.4px;
+	line-height: 108px;
 	font-size: 16px;
 	text-align: center;
 }
@@ -154,6 +231,9 @@ background-color: rgba(7, 7, 7, 0.8);
 	background: #000;
 	cursor: pointer;
 }
+.box-content::after {
+	clear: both;
+}
 .loadout-tablet{
 	display: none;
 }
@@ -164,8 +244,7 @@ background-color: rgba(7, 7, 7, 0.8);
 	background-color: rgba(7, 7, 7, 0.5);
 }
 .gun-container{
-	height: 74.4px;
-	padding: 10px 0 10px 25px;
+	padding: 0 10px;
 }
 .gun{
 	height: 100%;
@@ -194,6 +273,28 @@ background-color: rgba(7, 7, 7, 0.8);
 	padding: 5px 0 0 10px;
 }
 /*larger than phones*/
+@media (max-width: 767px) {
+	#head {
+		position: fixed;
+		z-index: 1;
+	}
+	.loadout-item-container {
+		width: 320px;
+	}
+	.loadout-kit{
+		position: fixed;
+		z-index: 1;
+		width: 100%;
+		bottom: 0;
+		background: #191c21;
+	}
+	.gen-border h1 {
+		line-height: 65px;
+	}
+	.loadout-container-wpr {
+		margin-bottom: 100px;
+	}
+}
 @media (min-width: 768px) {
 	.nav .menu{
 		width: 100%;
@@ -217,22 +318,15 @@ background-color: rgba(7, 7, 7, 0.8);
 	.active-borders-right{
 		border-right: solid #353a3f 1px;
 	}
-	.loadout-item-container {
-		width: 50%;
-	}
 	.loadout-container-wpr,.container{
-		margin: 0px auto;
-		padding-top: 100px;
 		max-width: 768px;
 	}
 	.loadout-kit {
-		width: 383px;
 		height: 400px;
-
 	}
 	.kit-picture .picture{
 		display: block;
-		height: 300.6px;
+		height: 280px;
 	}
 	.loadout-tablet{
 		display: block;
@@ -245,9 +339,6 @@ background-color: rgba(7, 7, 7, 0.8);
 	.loadout-tablet-item-container{
 		width: 384px;
 		height: 400px;
-	}
-	.attachments div{
-		height: 52px;
 	}
 
 	.items .item{
@@ -282,14 +373,9 @@ background-color: rgba(7, 7, 7, 0.8);
 		max-width: 1140px;
 	}
 	.loadout-item-container{
-		width: 260px;
 		height: 400px;
 	}
-	.left-margin-container{
-		margin-left: 26px;
-	}
 	.loadout-kit{
-		width: 260px;
 		height: 400px;
 		display: inline-block;
 		vertical-align: top;
