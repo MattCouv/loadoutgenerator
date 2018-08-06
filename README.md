@@ -1,4 +1,4 @@
-# bf4loadoutgenerator.com
+# loadoutgenerator.com
 # Introduction
 All the source code from the battlefield 4 loadout generator web app is here.
 
