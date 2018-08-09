@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Switch, Route } from "react-router";
 import Loadout from "./screens/Loadout";
 import Loading from "./screens/Loading";
-// import Login from "./screens/Login";
+import Login from "./screens/Login";
 import About from "./screens/About";
 import Menu from './Components/Menu';
 import "./css/normalize.css";
@@ -29,7 +29,8 @@ class App extends Component {
       login: props.login,
       loading: true,
       player: null,
-      loadout: null
+      loadout: null,
+      error: false
     }
     this.Generator = new Generator();
 
@@ -55,10 +56,20 @@ class App extends Component {
     fetchPlayerData(data.plat, data.name)
       .then((json) => {
         localStorage.setItem('login', JSON.stringify(data));
-        this.setState({ ...this.state, login: data, player: json, loading: false })
+        this.setState({
+          ...this.state,
+          login: data,
+          player: json,
+          error: false,
+          loading: false
+        })
       })
       .catch(() => {
-        this.setState({ ...this.state, loading: false })
+        this.setState({
+          ...this.state,
+          error: true,
+          loading: false
+        })
       });
   }
 
@@ -117,38 +128,27 @@ class App extends Component {
   }
 
   componentDidMount() {
-    // const {plat, name} = this.state.login;
-    // fetchPlayerData(plat, name)
-    //   .then((json) => {
-    //     this.setState({ ...this.state, player: json, loading: false })
-    //   }).catch( () => {
-    //     this.setState({...this.state, loading: false})
-    //   });
+    const {plat, name} = this.state.login;
+    fetchPlayerData(plat, name)
+      .then((json) => {
+        this.setState({ ...this.state, player: json, loading: false })
+      }).catch( () => {
+        this.setState({...this.state, loading: false})
+      });
     this.genAll();
   }
 
   render() {
-    return (
-      <div>
-        <Menu reset={this.reset}/>
+    return <div>
+      <Menu reset={this.reset} playerDataAvailable={this.state.player !== null}/>
         <Switch>
-          <Route exact path="/" component={() => this.state.loading ? 
-            <Loading /> :
-            <Loadout generate={this.generate} loadout={this.state.loadout} />
-          }/>
-          {/* <Route exact path="/" component={() => 
-            this.state.loading ? (<div>loading!!</div>):
-            this.state.player === null ?
-            <Login 
-              name={this.state.login.name}
-              plat={this.state.login.plat}
-              getPlayer={this.submitLogin}/>:
-                <Loadout player={this.state.player} loadout={this.Generator.loadout} setLoadout={this.setLoadout}/>
-            }/> */}
-          <Route path="/about" component={About}/>
+          {this.state.loading ? <Loading /> : <React.Fragment>
+              <Route exact path="/" component={() => <Loadout generate={this.generate} loadout={this.state.loadout} />} />
+              <Route path="/soldier" component={() => <Login error={this.state.error} getPlayer={this.submitLogin} playerDataAvailable={this.state.player!==null} />} />
+              <Route path="/about" component={About} />
+            </React.Fragment>}
         </Switch>
-      </div>
-    );
+      </div>;
   }
 }
 

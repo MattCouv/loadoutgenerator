@@ -27,6 +27,9 @@ h1,h2,h3,h4{
 input{
 	border:solid #fff 1px;
 }
+input.error {
+	border:solid #ff9900 1px;
+}
 .lds-facebook {
   display: inline-block;
   position: relative;
@@ -90,9 +93,13 @@ input{
 	height: 35px;
 }
 .nav .menu{
-	width: 318px;
+	/* width: 318px; */
+	display: flex;
 	margin: 0 auto;
 	position: relative;
+}
+.nav .menu .home {
+	display: flex;
 }
 .nav a{
 	line-height: 47px;
@@ -130,7 +137,6 @@ input{
 }
 
 #error{
-	display: none;
 	color:#ff9900;
 }
 .left{
@@ -238,8 +244,7 @@ background-color: rgba(7, 7, 7, 0.8);
 	display: none;
 }
 .container{
-
-	padding: 95px 20px;
+	padding: 20px;
 	padding-bottom: 20px;
 	background-color: rgba(7, 7, 7, 0.5);
 }
