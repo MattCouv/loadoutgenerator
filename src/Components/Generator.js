@@ -38,7 +38,7 @@ class Generator {
     return this.randomSlot(0);
   }
 
-  randomSecondary = () => {
+  randomSecondary  = () => {
     return this.randomSlot(1);
   }
 
@@ -58,7 +58,7 @@ class Generator {
     return this.randomSlot(5);
   }
 
-  randomSlot = (slot) => {
+  randomSlot(slot) {
     const Items = this.kit.slots[slot].items;
     const key = Object.keys(this.loadout.slots)[slot];
     const id = Items[this.rnd(Items.length)];
@@ -86,7 +86,7 @@ class Generator {
     return this;
   }
 
-  getOptions = (id) => {
+  getOptions(id) {
     const weapon = GAME_DATA.loadout.weapons[id];
     if (typeof weapon === "undefined") {
       return null;

@@ -11,7 +11,7 @@ import "./css/main.css";
 import "./css/lineart.css";
 import Generator from './Components/Generator';
 
-const fetchPlayerData = (plat, name) => {
+const  fetchPlayerData = (plat, name) => {
   const url = "https://api.bf4stats.com/api/playerInfo?plat=" + plat + "&name=" + name + "&opt=assignments,imagePaths,names,upcomingUnlocks,weapons,details,kititems&output=json";
 
   return fetch(url).then((response) => {
