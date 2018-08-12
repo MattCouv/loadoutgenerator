@@ -4,6 +4,7 @@ import Loadout from "./screens/Loadout";
 import Loading from "./screens/Loading";
 import Login from "./screens/Login";
 import About from "./screens/About";
+import NoMatch from "./screens/NoMatch";
 import Menu from './Components/Menu';
 import "./css/normalize.css";
 import "./css/main.css";
@@ -141,13 +142,12 @@ class App extends Component {
   render() {
     return <div>
       <Menu reset={this.reset} playerDataAvailable={this.state.player !== null}/>
-        <Switch>
-          {this.state.loading ? <Loading /> : <React.Fragment>
+        {this.state.loading ? <Loading /> : <Switch>
               <Route exact path="/" component={() => <Loadout generate={this.generate} loadout={this.state.loadout} />} />
               <Route path="/soldier" component={() => <Login error={this.state.error} getPlayer={this.submitLogin} playerDataAvailable={this.state.player!==null} />} />
               <Route path="/about" component={About} />
-            </React.Fragment>}
-        </Switch>
+              <Route component={NoMatch} />
+        </Switch>}
       </div>;
   }
 }
