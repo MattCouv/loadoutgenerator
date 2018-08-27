@@ -46,7 +46,7 @@ class App extends Component {
     }
   }
 
-  submitLogin = (e) => {
+  static submitLogin(e){
     e.preventDefault();
     this.setState({ ...this.state, loading: true })
     const formData = new FormData(e.target);
@@ -98,7 +98,7 @@ class App extends Component {
     this.setLoadout(this.Generator.loadout);
   }
 
-  genPrimary = () => {
+  static genPrimary() {
     this.Generator.randomPrimary();
     this.setLoadout(this.Generator.loadout);
   }
